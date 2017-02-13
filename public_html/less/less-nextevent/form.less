@@ -1,0 +1,234 @@
+/*
+ * Form.less
+ * -----------------------------------------------
+*/
+
+/* -------- Form ---------- */
+.input-group-lg > .form-control, .input-group-lg > .input-group-addon, .input-group-lg > .input-group-btn > .btn {
+	font-size: 14px;
+}
+.form-control {
+	border-radius: 0;
+	box-shadow: none;
+	height: 45px;
+}
+.input-group-addon {
+	border-radius: 0;
+}
+.input-group-addon i {
+	color: @black-999;
+}
+label {
+	font-weight: normal;
+}
+.form-control:focus, form input[type="text"]:focus, form input[type="email"]:focus, form input[type="number"]:focus, form input[type="url"]:focus, form input[type="search"]:focus, form input[type="tel"]:focus, form input[type="password"]:focus, form input[type="date"]:focus, form input[type="color"]:focus, form select:focus, form textarea:focus {
+	color: @black-444;
+	border-color: fade(@black, 30%);
+	-webkit-box-shadow: 0 0 3px fade(@black, 10%);
+	-moz-box-shadow: 0 0 3px fade(@black, 10%);
+	box-shadow: 0 0 3px fade(@black, 10%);
+	outline: none;
+}
+.form-transparent {
+	.form-control {
+		background: transparent;
+		color: @black-555;
+	}
+	.form-control:focus, form input[type="text"]:focus, form input[type="email"]:focus, form input[type="number"]:focus, form input[type="url"]:focus, form input[type="search"]:focus, form input[type="tel"]:focus, form input[type="password"]:focus, form input[type="date"]:focus, form input[type="color"]:focus, form select:focus, form textarea:focus {
+		color: @black-555;
+	}
+}
+.form-transparent textarea.form-control,
+.form-white textarea.form-control {
+  height: 150px;
+}
+.form-white .form-control {
+	background: @white-base;
+}
+.form-transparent.form-line .form-control {
+  border: none;
+  border-bottom: 1px solid @gray-silver;
+  padding-left: 0;
+}
+ .form-transparent.form-line textarea.form-control {
+ 	height: 70px;
+ }
+.form-text-white .form-control {
+	color: @white-f7;
+}
+.form-text-white {
+	.form-control {
+		color: @gray-gainsboro;
+	}
+	.form-control:focus {
+		color: @white-f7;
+		border-color: @white-f7;
+	}
+	select.form-control:focus {
+		color: @black-555;
+	}
+	.form-control::-moz-placeholder {
+		color: @white-base;
+	}
+}
+ form label {
+ 	font-weight: bold;
+ }
+
+ /* form error */
+ form .form-control.error {
+ 	border: 2px solid #ee163b;
+ }
+ form .error {
+ 	color: #ee163b;
+ }
+
+/* -------- Donation Form ---------- */
+ .donation-form .form-group label.radio-inline {
+ 	color: @gray-base !important;
+ }
+
+ /*-------- Form-Text-White ---------*/
+ .form-text-white {
+ 	.form-group {
+ 		label {
+ 			color: @white-base;
+ 		}
+ 	}
+ }
+
+ /*-------- Booking Form ---------*/
+.booking-form input,
+.booking-form .btn {
+	border-radius: 36px;
+}
+.booking-form .form-group {
+	margin-bottom: 30px;
+	position: relative;
+}
+.booking-form .styled-select {
+	&::after {
+		border-radius: 0 36px 36px 0;
+		bottom: 0;
+		color: @black-333;
+		content: "\f107";
+		font-size: 18px;
+		font-family: fontAwesome;
+		padding: 12px 20px 0;
+		pointer-events: none;
+		position: absolute;
+		right: 0px;
+		top: 0;
+	}
+	select {
+		border-radius: 36px;
+		color: @black-333;
+		font-size: 13px;
+		height: 45px;
+		margin: 0;
+		outline: medium none;
+		padding: 6px 5%;
+		width: 100%;
+	    -moz-appearance: none;
+	}
+	.form-control option {
+		color: @black-333;
+		font-size: 14px;
+		padding: 2px 0;
+	}
+}
+
+ /*-------- Booking Form Blue ---------*/
+.booking-form.form-blue input {
+	background: fade(@white-base, 10%);
+	border: 1px solid fade(@white-base, 20%);
+	border-radius: 36px;
+}
+.booking-form.form-blue .form-group {
+	position: relative;
+}
+.booking-form.form-blue input::-webkit-placeholder,
+.booking-form.form-blue input::-moz-placeholder,
+.booking-form.form-blue input::-ms-placeholder  {
+	color: @gray-lighter;
+}
+.booking-form.form-blue .form-control::-moz-placeholder {
+	color: @gray-lighter;
+}
+.booking-form.form-blue .form-control:focus, 
+.booking-form.form-blue .form-control:active {
+	background: fade(@white-base, 20%);
+	border: 1px solid fade(@white-base, 30%);
+	color: @gray-lighter;
+}
+.booking-form.form-blue .form-control {
+	border-color: @gray-silver;
+	color: @white-base;
+}
+.booking-form.form-blue .styled-select {
+	&::after {
+		background: fade(@white-base, 10%);
+		border-radius: 0 36px 36px 0;
+		bottom: 0;
+		color: @white-base;
+		content: "\f107";
+		font-size: 18px;
+		font-family: fontAwesome;
+		padding: 12px 20px 0;
+		pointer-events: none;
+		position: absolute;
+		right: 0px;
+		top: 0;
+	}
+	select {
+		background: fade(@white-base, 10%);
+		background: fade(@white-base, 20%);
+		border-radius: 36px;
+		color: @gray-lighter;
+		font-size: 13px;
+		height: 45px;
+		margin: 0;
+		outline: medium none;
+		padding: 6px 5%;
+		width: 100%;
+	    -moz-appearance: none;
+	}
+	.form-control {
+		option {
+			background: @white-base none repeat scroll 0 0;
+			color: @black-333;
+			font-size: 14px;
+			padding: 2px 0;
+		}
+	}
+}
+.booking-form.form-blue .btn {
+	background-color: fade(@white-base, 10%) !important;
+	color: @gray-lighter;	
+	border-radius: 36px;
+}
+.booking-form.form-blue .btn:hover {
+	background-color: @black-333 !important;
+}
+.btn-submit:active,
+.btn-submit:focus {
+  border: 1px solid transparent !important;
+  box-shadow: none;
+}
+ /*-------- Booking Form Home ---------*/
+.booking-form.form-home input, .booking-form.form-home a.btn,.booking-form.form-home .styled-select select {
+	border-radius: inherit;
+}
+.booking-form.form-home {
+	border-radius: 4px;
+}
+.booking-form.form-home input {
+	background: @white-base;
+}
+.booking-form.form-home .form-group {
+	margin-bottom: 15px;
+}
+.booking-form.form-home .form-control:focus,
+.booking-form.form-home .form-control:active {
+	background: fade(@white-base, 90%);
+}

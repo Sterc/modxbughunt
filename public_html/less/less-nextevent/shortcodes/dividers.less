@@ -1,0 +1,49 @@
+/*
+ * Shortcode: Dividers.less
+ * -----------------------------------------------
+*/
+.divider, .parallax {
+	background-repeat: repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+/* -------- Parallax ---------- */
+.parallax {
+	background-attachment: fixed;
+	background-position: 50% 0;
+	background-repeat: no-repeat;
+}
+.mobile-parallax {
+  background-size: cover !important;
+  background-attachment: scroll !important;
+  background-position: center center;
+}
+.divider {
+	.container {
+		padding-top: 70px;
+		padding-bottom: 70px;
+
+		&.small-padding {
+			padding-top: 30px;
+			padding-bottom: 30px;
+		}
+
+		&.extra-padding {
+			padding-top: 180px;
+			padding-bottom: 180px;
+		}
+
+
+	}
+}

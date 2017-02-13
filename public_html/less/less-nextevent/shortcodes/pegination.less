@@ -1,0 +1,50 @@
+/*
+ * Shortcode: Pegination.less
+ * -----------------------------------------------
+*/
+.pagination {
+	&.theme-colored {
+		li.active a {
+		  color: @white-base !important;
+		  border: 1px solid transparent;
+		}
+
+	}
+
+	&.dark {
+		li a {
+			color: @black-333;
+		}
+		li.active a {
+		  background: @black-333;
+		  color: @white-base;
+		  border: 1px solid transparent;
+		}
+	}
+}
+
+.pager {
+	&.theme-colored {
+		li.active a {
+		  color: @white-base;
+		  border: 1px solid transparent;
+		}
+	}
+
+	&.dark {
+		li {
+			a {
+			  color: @white-base;
+			  background-color: @black-333;
+			  border: 1px solid transparent;
+			}
+		}
+	}
+}
+
+.pagination li a:hover, 
+.pagination li:hover a, 
+.pagination li.active a, 
+.pagination li.active a:hover {
+	color: @white-base !important;
+}

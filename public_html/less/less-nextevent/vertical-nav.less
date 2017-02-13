@@ -1,0 +1,189 @@
+/*
+ *  Vertical-Nav.less
+ * -----------------------------------------------
+*/
+.vertical-nav {
+	.header {
+		width: 260px;
+		position: fixed;
+		top: 0;
+		left: 0;
+		height: 100%;
+		background: @white-base;
+		z-index: @zindex-vertical-header-header;
+		padding: 0;
+		.transition(none);
+  		background-size: cover !important;
+	}
+	.main-content,
+	.footer {
+		margin-left: 260px;
+	}
+	.container {
+		max-width: 1024px;
+		@media (max-width:1600px) {
+			max-width: 940px;
+		}
+	}
+	.menuzord {
+		background: none;
+
+		.menuzord-menu {
+			ul.dropdown {
+				li:hover {
+					> a {
+					  background: @gray-lighter none repeat scroll 0 0;
+					  color: @black-111;
+					}
+				}
+			}
+		}
+	}
+	.menuzord-menu {
+		li {
+		  	padding: 0;
+			position: relative;
+			width: 100%;
+			.indicator {
+				float: right;
+				display: block;
+				margin-right: 6px;
+			}
+			a {
+			  padding: 5px 0 5px 30px;
+			  width: 100%;
+			}
+		}
+		> li {
+		  	padding: 5px 0;
+		}
+		ul.dropdown,
+		.megamenu {
+		  	left: 100%;
+			top: 4px;
+		}
+	}
+	.menuzord-brand {
+		img {
+			max-height: none;
+		}
+	}
+
+	/* vertical-nav-black*/
+	.vertical-nav-black {
+		background: @black-111;
+		.menuzord-menu {
+			ul.dropdown {
+				background: @black-111;
+  				border-color: @black-222;
+  				li {
+					a {
+					  background: @black-111;
+					  .indicator {
+						i {
+							color: @white-base;
+						}
+					  }
+					}
+					&:hover {
+						> a {
+							background: @black-111 none repeat scroll 0 0;
+							color: @white-base;
+						}
+					}
+  				}
+			}
+			> li > a {
+			  color: @gray-base;
+			}
+
+		}
+	}
+	&.vertical-nav-right {
+		.header {
+			left: auto;
+			right: 0;
+		}
+		.main-content,
+		.footer {
+			margin-left: auto;
+			margin-right: 260px;
+			padding-top: 0;
+		}
+		.menuzord-menu {
+			ul.dropdown,
+			.megamenu {
+			  	left: auto !important;
+			  	right: 100% !important;
+				top: 0;
+			}
+		}
+	}
+}
+ 
+
+
+@media only screen and (max-width : 1199px) {
+	.vertical-nav {
+		.container {
+			width: 100%;
+		}
+	}
+}
+
+@media only screen and (max-width : 900px) {
+	.vertical-nav {
+		.header {
+			border: 0;
+			padding: 0;
+			position: relative;
+			width: 100%;
+		}
+		.vertical-nav-widget {
+			display: none;
+		}
+		.menuzord {
+			background: none;
+		}
+		.vertical-nav-black {
+		}
+		.menuzord-menu {
+			background: none;
+		}
+		.menuzord-brand {
+			margin: 0 !important;
+			padding: 0 !important;
+			img {
+			  max-height: 65px !important;
+			  padding: 10px;
+			}
+		}
+		.header-nav-wrapper {
+		  background: @black-111 none repeat scroll 0 0;
+		  position: fixed;
+		  top: 0;
+		  width: 100%;
+		}
+		.vertical-nav-black {
+			.menuzord {
+				.menuzord-menu {
+					li > a,
+					li .indicator {
+					  border-color: @black-222;
+					}
+				}
+			}
+		}
+		.main-content,
+		.footer {
+			margin-left: 0;
+		}
+		&.vertical-nav-right {
+			.main-content,
+			.footer {
+				margin-right: 0;
+			}
+		}
+	}
+}
+

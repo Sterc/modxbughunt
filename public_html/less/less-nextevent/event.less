@@ -1,0 +1,236 @@
+/*
+ * Event.less
+ * -----------------------------------------------
+*/
+
+.event {
+	background:  #f6f6f6;
+	border: 1px solid transparent;
+	-webkit-transition: all .4s ease 0s;
+	-moz-transition: all .4s ease 0s;
+	-ms-transition: all .4s ease 0s;
+	-o-transition: all .4s ease 0s;
+	transition: all 0.4s ease 0s;
+}
+.event:hover {
+	background:  #fafafa;
+}
+.event-facilities {
+	position: relative;
+}
+.event-facilities .overlay {
+	background: fade(@white-base, 80%);
+	bottom: -30px;
+	left: 0;
+	padding: 30px;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+.event-facilities:hover .overlay {
+	bottom: 0;
+}
+.team .section-title {
+}
+.team-member {
+	position: relative;
+	overflow: hidden;
+}
+.team-member .overlay {
+	background: fade(@white-base, 80%);
+	height: 0;
+	left: 0;
+	margin: 0 auto;
+	opacity: 0;
+	position: absolute;
+	right: 0;
+	bottom: -100%;
+  	height: 100%;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+.team-member .content {
+	left: 0;
+	opacity: 0;
+  	top: 30%;
+	position: absolute;
+	right: 0;
+	-webkit-transition: all 0.2s ease-in-out 0s;
+	-o-transition: all 0.2s ease-in-out 0s;
+	transition: all 0.2s ease-in-out 0s;
+}
+.team-member:hover .overlay {
+	opacity: 1;
+	bottom: 0%;
+}
+.team-member:hover .content {
+	opacity: 1;
+	top: 30%;
+}
+.team-member .social-icons {
+    bottom: -150px;
+    width: 100%;
+    margin: 0;
+    opacity: 0;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+	text-align: center;
+	position: absolute;
+}
+.team-member:hover .social-icons {
+  opacity: 1;
+  bottom: 0%;
+}
+.team-member .social-icons a {
+	margin-right: 0;
+}
+.team-member .social-icons i {
+	color: #fff;
+	font-size: 20px;
+	padding: 12px 35px;
+}
+.team-member .social-icons a:hover i {
+	color: #eee;
+	-webkit-transform: rotateY(360deg);
+	-moz-transform: rotateY(360deg);
+	transform: rotateY(360deg);
+}
+/*
+ * 3.25 -> Schedule
+ * -----------------------------------------------
+*/
+.schedule-tab .nav-tabs li {
+	width: 25%;
+}
+.schedule-tab .nav-tabs li a {
+	background: #eee;
+	border-right: 1px solid #ddd;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.schedule-tab .nav-tabs li:last-child a {
+	border-right: none;
+}
+.schedule-tab .nav-tabs li.active a {
+	color: #fff !important;
+}
+.schedule-tab .nav-tabs li.active a:after {
+  border-style: solid;
+  border-width: 9px 9px 0;
+  bottom: -10px;
+  color: #fff;
+  content: "";
+  display: block;
+  left: 50%;
+  margin-left: -9px;
+  position: absolute;
+  width: 0;
+  z-index: 5;
+}
+.schedule-tab .nav-tabs li a span {
+	color: #888;
+	display: block;
+    font-size: 14px;
+    font-weight: normal;
+}
+.schedule-tab .nav-tabs li.active a span {
+	color: #eee;
+}
+/*schedule-box style*/
+.schedule-box .thumb {
+	position: relative;
+	overflow-x: hidden;
+}
+.schedule-box .thumb .overlay {
+	background-color: rgba(255, 255, 255, 0.85);
+	bottom: 0;
+	left: 0;
+	opacity: 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+	top: -100%;
+}
+.schedule-box .thumb .overlay a i {
+	background-color: #333;
+	color: #fff;
+	margin: 0 auto;
+	padding: 13px 12px;
+	position: absolute;
+	text-align: center;
+	-webkit-transition: all 0.45s ease-in-out 0s;
+	-o-transition: all 0.45s ease-in-out 0s;
+	transition: all 0.45s ease-in-out 0s;
+	top: 0;
+}
+.schedule-box .schedule-details {
+	border-bottom: 1px solid #bbb;
+}
+.schedule-box .schedule-details .title a {
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+.schedule-box:hover .thumb .overlay {
+	opacity: 1;
+	top: 0;
+}
+.schedule-box:hover .thumb .overlay a i {
+	opacity: 1;
+	top: 40%;
+}
+/*schedule Table Style */
+.table-schedule thead tr th {
+	color: #fff;
+	font-size: 16px;
+	padding: 15px 25px;
+	text-transform: uppercase;
+}
+.table-schedule > tbody > tr {
+	background-color: #f3f3f3;
+}
+.table-schedule > tbody > tr:nth-child(2n+1) {
+	background-color: #f9f9f9;
+}
+.table-schedule tbody tr td {
+	border-top: 1px solid #f3f3f3;
+	color: #666;
+	font-weight: 400;
+	padding: 15px 25px;
+}
+.table-schedule tbody tr td .speaker-thumb {
+	float: left;
+	margin-right: 15px;
+	margin-top: 5px;
+	width: 55px;
+}
+.table-schedule tbody tr td .title {
+	font-size: 15px;
+	margin-bottom: 0;
+	margin-top: 3px;
+}
+.table-schedule tbody tr td .name {
+	font-size: 13px;
+	margin: 0;
+}
+.table-schedule tbody tr td strong {
+	color: #666;
+	font-weight: 700;
+}
+.table-schedule .toggle-content {
+	cursor: pointer;
+}
+.table-schedule .session-details {
+	display: none;
+}

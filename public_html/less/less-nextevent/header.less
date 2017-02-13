@@ -1,0 +1,100 @@
+/*
+ * Header.less
+ * -----------------------------------------------
+*/
+.header-top {
+	padding: 5px 0;
+
+	.header-widget {
+		.social-icons {
+			a {
+				i {
+					&:hover {
+						background: none;
+					}
+				}
+			}
+		}
+		.list-border {
+			li {
+				border-right: 1px solid fade(#000, 6%);
+			    padding: 5px 15px;
+
+			    &:last-child {
+			    	border-right: 0;
+			    }
+			}
+		}
+	}
+}
+
+@media only screen and (max-width : 767px) {
+	.header-top {
+		.header-widget {
+			.contact-info {
+				margin-bottom: 20px;
+
+				li {
+					display: block;
+					text-align: center;
+				}
+			}
+		}
+	}
+}
+
+.menuzord-brand img {
+	max-height: 38px;
+}
+
+/* -------- Custom theme style ---------- */
+.header-nav .header-nav-wrapper .menuzord {
+  padding: 0;
+}
+
+/* menuzord-center */
+.menuzord-center {
+	.menuzord-menu {
+		text-align: center;
+		li {
+			text-align: left;
+		}
+	}
+	.menuzord-menu, .menuzord-menu > li {
+		float: none;
+	}
+}
+
+/* top nav circled Logo center */
+.header-logo-center {
+	.top-logo {
+	  background: #383838 none repeat scroll 0 0;
+	  border-radius: 50%;
+	  height: 72px;
+	  left: 0;
+	  margin: auto;
+	  text-align: center;
+	  padding-top: 16px;
+	  position: absolute;
+	  right: 0;
+	  width: 72px;
+	  top: 0;
+	  .transition(all .3s ease 0s);
+	}
+	.top-logo img {
+	  width: 42px;
+	}
+	.header-nav.navbar-fixed-top.animated-active .top-logo {
+	  height: 100px;
+	  width: 100px;
+	  top: 5px;
+	}
+	.header-nav.navbar-fixed-top.animated-active .top-logo img {
+	  max-height: 60px;
+	  width: auto;
+	  .transition(all .3s ease 0s);
+	}
+	.menuzord-menu > li:nth-child(4) {
+	  margin-left: 20%;
+	}
+}

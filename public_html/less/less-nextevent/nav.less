@@ -1,0 +1,225 @@
+/*
+ * Nav.less
+ * -----------------------------------------------
+*/
+
+/* -------- Nav Sidebar ---------- */
+.nav-sidebar {
+	li {
+		background: @white-f1;
+		padding-bottom: 0 !important;
+
+		a {
+			border-radius: 0;
+		}
+	}
+}
+
+.nav-pills {
+	li {
+		a:hover,
+		&.active > a,
+		&.active > a:hover,
+		&.active > a:focus {
+			background: @gray-lightgray;
+			color: @gray-light;
+		}
+	}
+}
+
+/* -------- Header Nav ---------- */
+.header-nav {
+	position: relative;
+
+	.header-nav-absolute-wrapper {
+		width: 100%;
+	}
+	.header-nav-wrapper .menuzord {
+		padding: 0;
+	}
+}
+
+/* -------- Menuzord ---------- */
+.menuzord-menu > li > a {
+	color: @white-base;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.menuzord .menuzord-menu > li.active > a i, .menuzord .menuzord-menu > li:hover > a i, .menuzord .menuzord-menu ul.dropdown li:hover > a i {
+	/*color: #fff;*/
+}
+.menuzord .menuzord-menu ul.dropdown,
+.menuzord .menuzord-menu .megamenu {
+    border: 1px solid #f0f0f0;
+}
+.menuzord-menu ul.dropdown li {
+	margin: 0;
+	font-size: 14px;
+
+	a { padding: 7px 25px 7px 22px; }
+	.indicator {
+		top: 4px;
+	}
+}
+
+/* -------- Megamenu-Row ---------- */
+.menuzord-menu > li > .megamenu .megamenu-row li {
+	border: 0 none;
+	clear: both;
+	font-size: 12px;
+	margin: 0;
+	padding: 2px;
+	position: relative;
+	width: 100%;
+
+	a {
+		display: block;
+		padding: 8px 10px;
+		.transition(padding .2s linear);
+	}
+	&.active > a, &:hover > a {
+		color: #111;
+		padding-left: 15px;
+	}
+	a i {
+		color: #444;
+	}
+	&.active a i, .menuzord-menu > li > &:hover a i {
+		color: #fff;
+	}
+}
+
+@media only screen and (max-width : 900px) {
+	.menuzord-menu {
+		background: #fff;
+	}
+}
+
+/* -------- Scrolltofixed ---------- */
+.header-nav .header-nav-wrapper.scroll-to-fixed-fixed.scroll-to-fixed-fixed {
+	border-bottom: 1px solid @gray-lightgray;
+}
+.header-nav .header-nav-absolute-wrapper.scroll-to-fixed-fixed.scroll-to-fixed-fixed .menuzord {
+	border-right: 1px solid @gray-lighter;
+	border-bottom: 1px solid @gray-lighter;
+	border-left: 1px solid @gray-lighter;
+}
+.header .inner-sticky-wrapper {
+	height: 80px;
+}
+
+@media only screen and (min-width : 901px) {
+	.header-nav .header-nav-absolute-wrapper {
+		bottom: -36px;
+		left: 0;
+		margin: 0 auto;
+		position: absolute;
+		right: 0;
+		z-index: 1111;
+	}
+	.header-nav .header-nav-absolute-wrapper.scroll-to-fixed-fixed.scroll-to-fixed-fixed {
+		bottom: auto;
+	}
+}
+
+/* -------- Navbar Fixed  ---------- */
+.header-nav {
+	.transition(all 0.4s ease-in-out 0s);
+	&.navbar-fixed-top {
+		left: 0;
+		position: fixed;
+		right: 0;
+		width: 100%;
+		z-index: 1030;
+	}
+}
+
+
+/* -------- Navbar Sticky Animated ---------- */
+.navbar-sticky-animated {
+	.header-nav-wrapper .container {
+		.transition(all 0.4s ease-in-out 0s);
+	}
+	.add-padding {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	&.extra-padding-top {
+		.add-padding {
+			padding-top: 50px;
+		}
+	}
+}
+
+/* -------- Header White ---------- */
+.header-nav.navbar-white {
+	background-color: fade(@white-base, 95%);
+	border: medium none;
+	.menuzord {
+		background: transparent;
+	}
+}
+
+/* -------- Header Transparent ---------- */
+.header-nav.navbar-transparent {
+	.menuzord {
+		background: transparent;
+	}
+	.header-nav-wrapper {
+		border-bottom: 1px solid @gray-lightgray;
+	}
+	&.animated-active {
+		background-color: fade(@black, 0%);
+		.header-nav-wrapper {
+			border-bottom: none !important;
+		}
+		.menuzord-menu > li > a {
+			color: @white-base;
+		}
+	}
+}
+.header-nav.navbar-transparent.transparent-dark {
+	&.animated-active {
+		background-color: fade(@black, 25%);
+	}
+}
+.header-nav.navbar-transparent.transparent-dark-deep {
+	&.animated-active {
+		background-color: fade(@black, 80%);
+	}
+	.menuzord-menu > li > a {
+		color: @gray-base;
+	}
+}
+.header-nav.navbar-transparent.transparent-white {
+	&.animated-active {
+		background-color: fade(@white-base, 50%);
+	}
+}
+.header-nav.navbar-transparent.transparent-white-deep {
+	&.animated-active {
+		background-color: fade(@white-base, 80%);
+	}
+	.menuzord-menu > li > a {
+		color: @gray-base;
+	}
+}
+@media only screen and (max-width : 900px) {
+	.header-nav.navbar-transparent.animated-active .menuzord-menu > li > a {
+		color: @gray-base;
+	}
+}
+
+@media only screen and (min-width : 901px) {
+	/* menuzord text white */
+	.menuzord-text-white {
+		.menuzord-menu > li > a {
+			color: @white-base;
+		}
+		.menuzord-menu > li.active > a,
+		.menuzord-menu > li:hover > a {
+			color: fade(@white-base, 80%) !important;
+		}
+	}
+}

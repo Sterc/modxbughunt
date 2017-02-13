@@ -1,0 +1,28 @@
+/*
+ * story.less
+ * -----------------------------------------------
+*/
+.each-story {
+  float: left;
+  width: 100%;
+  .story-details {
+    background: lighten(@black, 93.5%);
+
+    &.bg-theme-colored {
+      color: @white-base;
+      .title {
+        color: @white-base;
+      }
+    }
+  }
+
+  .story-thumb {
+    img {
+      border: 6px double @white-base;
+    }
+  } 
+
+  .story-date {
+    color: @gray-base;
+  }
+}

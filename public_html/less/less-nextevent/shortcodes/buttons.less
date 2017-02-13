@@ -1,0 +1,90 @@
+/*
+ * Shortcode: Buttons.less
+ * -----------------------------------------------
+*/
+
+/* -------- Btn-Default ---------- */
+.btn-default {
+  .button-variant(@btn-default-color; @btn-default-bg; @btn-default-border);
+}
+.btn-default {
+  &:hover {
+  	background-color: @gray-lighter;
+  	border-color: @gray-lighter;
+  }
+}
+
+/* -------- Btn-Border ---------- */
+.btn-border {
+	.button-variant(@btn-border-color; @btn-border-bg; @btn-border-border);
+}
+.btn-border {
+	border-width: 2px;
+}
+.btn-border:hover,
+.btn-border:active,
+.btn-border:focus {
+  background-color: @btn-border-border;
+  border-color: @btn-border-border;
+  color: @white-base;
+}
+
+/* -------- Btn-Dark ---------- */
+.btn-dark {
+ 	.button-variant(@btn-dark-color; @btn-dark-bg; @btn-dark-border);
+}
+.btn-dark-light {
+ 	background: @black-555;
+ 	color: @white-base;
+}
+.btn.btn-dark-light:hover {
+  background: @black-333;
+  color: @white-base;
+}
+
+/* -------- Btn-Gray ---------- */
+.btn-gray {
+ 	.button-variant(@btn-gray-color; @gray-lighter; @gray-lighter);
+}
+.btn-circled {
+	border-radius: 25px;
+}
+.btn-flat {
+	border-radius: 0;
+}
+
+/* -------- Btn-Default ---------- */
+.btn {
+	font-size: 13px;
+	padding: 8px 22px;
+}
+
+/* -------- Btn-xs ---------- */
+.btn-xs {
+	font-size: 11px;
+	padding: 3px 14px;
+}
+
+/* -------- Btn-sm ---------- */
+.btn-sm {
+	font-size: 12px;
+	padding: 5px 17px;
+}
+
+/* -------- Btn-lg ---------- */
+.btn-lg {
+	font-size: 14px;
+	padding: 10px 26px;
+}
+
+/* -------- Btn-xl ---------- */
+.btn-xl {
+	font-size: 16px;
+	padding: 13px 32px;
+}
+
+/* -------- Btn-transparent ---------- */
+.btn-transparent {
+	background-color: transparent;
+	color: @white-base;
+}

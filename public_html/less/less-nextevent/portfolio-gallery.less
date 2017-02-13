@@ -1,0 +1,280 @@
+/*
+ * Portfolio-Gallery.less
+ * -----------------------------------------------
+*/
+
+/* -------- Portfolio Isotop Filter ---------- */
+.portfolio-filter {
+	margin-bottom: 30px;
+	text-align: center;
+	a {
+		color: @black-555;
+		display: inline-block;
+		float: none;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: normal;
+		margin-right: 5px;
+		outline: medium none;
+		padding: 5px 15px;
+		&.active ,
+		&:hover {
+			color: @white-base;
+		}
+	}
+}
+
+/* -------- Portfolio Isotop Gallery ---------- */
+.portfolio-gallery {
+	/*gutter*/
+	&.gutter .portfolio-item {
+	    padding-right: 5px;
+	    padding-bottom: 5px;
+	}
+	&.gutter-small .portfolio-item {
+	    padding-right: 2px;
+	    padding-bottom: 2px;
+	}
+	&.gutter-30 .portfolio-item {
+	    padding-right: 30px;
+	    padding-bottom: 30px;
+	}
+
+	/* by default 4 grids */
+	.portfolio-item {
+		width: 25%;
+		&.wide {
+			width: 50%;
+		}
+	}
+
+	/*portfolio 2 grids*/
+	&.grid-1 .portfolio-item {
+	    width: 100%;
+		&.wide {
+			width: 100%;
+		}
+	}
+
+	/*portfolio 2 grids*/
+	&.grid-2 .portfolio-item {
+	    width: 50%;
+		&.wide {
+			width: 100%;
+		}
+	}
+
+	/*portfolio 3 grids*/
+	&.grid-3 .portfolio-item {
+	    width: 33.333%;
+		&.wide {
+			width: 66.6667%;
+		}
+	}
+
+	/*portfolio 4 grids*/
+	&.grid-4 .portfolio-item {
+	    width: 25%;
+		&.wide {
+			width: 50%;
+		}
+	}
+
+	/*portfolio 5 grids*/
+	&.grid-5 .portfolio-item {
+	    width: 20%;
+		&.wide {
+			width: 40%;
+		}
+	}
+
+	/*portfolio 6 grids*/
+	&.grid-6 .portfolio-item {
+	    width: 16.666666667%;
+		&.wide {
+			width: 33.333%;
+		}
+	}
+
+	/*portfolio 7 grids*/
+	&.grid-7 .portfolio-item {
+	    width: 14.2857143%;
+		&.wide {
+			width: 28.5714286%;
+		}
+	}
+
+	/*portfolio 8 grids*/
+	&.grid-8 .portfolio-item {
+	    width: 12.5%;
+		&.wide {
+			width: 25%;
+		}
+	}
+
+	/*portfolio 9 grids*/
+	&.grid-9 .portfolio-item {
+	    width: 11.11%;
+		&.wide {
+			width: 22.22%;
+		}
+	}
+
+	/*portfolio 10 grids*/
+	&.grid-10 .portfolio-item {
+	    width: 10%;
+		&.wide {
+			width: 20%;
+		}
+	}
+}
+
+/* -------- Portfolio Isotop Item Media Query ---------- */
+.portfolio-gallery {
+	.portfolio-item {
+		@media only screen and (max-width: 991px) {
+			width: 33.333% !important;
+			&.wide {
+				width: 66.6667% !important;
+			}
+		}
+		@media only screen and (max-width: 767px) {
+			width: 50% !important;
+			&.wide {
+				width: 100% !important;
+			}
+		}
+		@media only screen and (max-width: 479px) {
+			width: 100% !important;
+			&.wide {
+				width: 100% !important;
+			}
+		}
+	}
+}
+
+/* -------- Portfolio Isotop Overlay Effect ---------- */
+.portfolio-gallery {
+	.portfolio-item {
+		overflow: hidden;
+		.thumb {
+			position: relative;
+			overflow: hidden;
+		}
+		.thumb .photo {
+			.backface-visibility(hidden);
+			.transition(all 1200ms ease 0s);
+		}
+
+		.hover-link {
+			position: absolute;
+			top: 0;
+			left: 0;
+			display: inline-block;
+			vertical-align: middle;
+			width: 100%;
+			height: 100%;
+			background: none!important;
+			color: transparent!important;
+			z-index: 1111;
+		}
+
+		.overlay-shade {
+			position: absolute;
+			display: inline-block;
+			vertical-align: middle;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 100;
+			opacity: 0;
+			filter: alpha(opacity=0);
+			.transition(opacity .3s ease-in-out);
+		}
+
+		&:hover .overlay-shade {
+			opacity: 0.6;
+			filter: alpha(opacity=90);
+		}
+
+		&:hover .thumb .photo {
+		    .scale(1.2);
+		}
+
+		.icons-holder {
+			position: absolute;
+			top: -10%;
+			left: 50%;
+			display: inline-block;
+			width: auto;
+			height: 36px;
+			vertical-align: middle;
+			z-index: 130;
+			.transition(all .3s ease-in-out 0s);
+
+			.icons-holder-inner {
+				position: relative;
+				display: inline-block;
+				vertical-align: middle;
+				margin: -18px 0 0 -50%;
+
+				a {
+					opacity: 0;
+					filter: alpha(opacity=0);
+					.transition(all .3s ease-in-out);
+				}
+			}
+		}
+
+		&:hover .icons-holder {
+			top: 50%;
+			.icons-holder-inner {
+				a {
+					opacity: 1;
+					filter: alpha(opacity=1);
+				}
+			}
+		}
+
+		.portfolio-description {
+		 	padding: 15px 0;
+
+		 	.title {
+			 	margin: 0;
+			 	a {
+					color: @headings-color;
+				}
+			}
+		}
+
+		.text-holder {
+		 	box-sizing: border-box;
+			display: block;
+			/*height: 100%;*/
+			left: 0;
+			opacity: 0;
+			overflow: hidden;
+			padding: 25px 30px 60px;
+			position: absolute;
+			bottom: 0;
+			.transition(opacity 0.3s ease-in-out 0s);
+			width: 100%;
+			z-index: 100;
+
+		 	.title {
+		 		color: @white-base;
+		 	// 	font-family: @font-josefin;
+		 		font-size: 24px;
+			}
+		}
+
+		&:hover .text-holder {
+			opacity: 1;
+		}
+	}
+	//flex slider gallery control nav
+	.flex-control-nav {
+		z-index: 111;
+	}
+}

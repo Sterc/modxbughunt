@@ -1,0 +1,168 @@
+/*
+ * Shortcode: Section-Title.less
+ * -----------------------------------------------
+*/
+
+.small-title {
+	position: relative;
+
+	i {
+		font-size: 36px;
+		margin-top: 7px;
+		padding-top: 0px;
+	}
+
+	.title {
+		margin-left: 15px;
+
+		&:after {
+			bottom: -6px;
+			content: "";
+			height: 1px;
+			left: 45px;
+			position: absolute;
+			width: 45px;
+		}
+	}
+
+}
+
+.section-title {
+	  .both-side-line::after {
+		  content: "";
+		  height: 2px;
+		  position: absolute;
+		  right: -40px;
+		  top: 10px;
+		  width: 30px;
+		}
+
+	  .both-side-line::before {
+		  content: "";
+		  height: 2px;
+		  position: absolute;
+		  left: -40px;
+		  top: 10px;
+		  width: 30px;
+		}
+
+		.top-side-line::after {
+		  content: "";
+		  height: 2px;
+		  left: 0;
+		  margin: 0 auto;
+		  position: absolute;
+		  right: 0;
+		  top: -8px;
+		  width: 40px;
+		}
+
+		.left-side-line::before {
+		  content: "";
+		  height: 2px;
+		  left: 0;
+		  position: absolute;
+		  top: -8px;
+		  width: 35px;
+		}
+
+		.right-side-line::before {
+		  content: "";
+		  height: 2px;
+		  position: absolute;
+		  right: 0;
+		  top: -8px;
+		  width: 35px;
+		}
+
+	.sub-title {
+	  margin: 0;
+	  position: relative;	
+	  display: inline-block;  
+	}
+
+	.title {
+	  font-size: 3rem;
+	  margin-top: 0;
+	  position: relative;
+	}
+
+	p {
+	  font-size: 15px;
+	  font-style: italic;
+	  margin-top: 5px;
+	  padding-top: 10px;
+
+		&.left-bordered {
+			border-left: 2px solid @gray-silver;	  	
+			padding-left: 10px;
+		}
+
+		&.right-bordered {
+			border-right: 2px solid @gray-silver;	  	
+			padding-right: 10px;
+		}
+	}
+}
+
+/*----------- Theme Section Title -------------*/
+.section-title {
+	&.title-border {
+		padding-left: 30px;
+
+		&.title-right {
+			border-left: 0;
+    		padding-left: 0;
+   			padding-right: 30px;
+    		text-align: right;
+		} 
+	}
+	
+	&.icon-bg {
+		p {
+			font-size: 14px;
+			font-style: italic;
+			margin-bottom: 0;
+		}
+
+		.page-title {
+			font-size: 38px;
+			line-height: 52px;
+
+			i {
+				font-size: 42px;
+				line-height: 1.3;
+				position: absolute;
+				opacity: 0.15;
+				left: 0;
+				right: 0;
+				margin: 0 auto;
+			}
+		}
+
+	}
+}
+
+/*----------- Title-Border -------------*/
+.section-title.title-border {
+    padding-left: 30px;
+}
+.section-title.title-border.title-right {
+    border-left: 0;
+    padding-left: 0;
+    padding-right: 30px;
+    text-align: right;
+}
+.title-border {
+	border-bottom: 2px solid @white-f8;
+	padding-bottom: 5px;
+	position: relative;
+	margin-bottom: 30px;
+}
+.title-border::before {
+	bottom: -2px;
+	content: "";
+	height: 2px;
+	position: absolute;
+	width: 65px;
+}
