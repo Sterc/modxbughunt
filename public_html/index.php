@@ -758,28 +758,28 @@
             <div class="col-md-10 col-md-offset-1">
               <div class="row sponsors-style2 pt-30 pb-20">
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
+                  <a href="https://www.sterc.nl/en/">
+                    <img src="/images/logos/sterc.png" alt="Sterc Internet & Marketing">
+                  </a>
+                </div>
+
+                <div class="col-xs-6 col-md-3 text-center">
+                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
+                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
+                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
+                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
+                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
-                </div>
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
-                </div>
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/150x120" alt=""></a>
+                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
               </div>
             </div>
