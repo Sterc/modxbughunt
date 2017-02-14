@@ -631,7 +631,9 @@
                 </div>
               </div>
 
-
+              <div class="text-center clearfix">
+                <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" class="btn btn-colored btn-theme-colored btn-xl" target="_blank" title="Join the team">Join the team</a>
+              </div>
 
             </div>
         </div>
