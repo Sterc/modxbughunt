@@ -240,7 +240,7 @@
       <div class="container pt-0">
         <div class="row mb-60">
           <div class="col-md-12">
-            <div class="divider layer-overlay overlay-deep" data-margin-top="-165px" data-bg-img="http://placehold.it/1920x1280">
+            <div class="divider layer-overlay overlay-deep" data-margin-top="-165px">
               <div class="col-md-12 col-lg-8 p-50 pl-md-0 pr-0 md-text-center">
                 <h2 class="text-black-444">Cleanse the MODX issue tracker on March 3rd, 2017</h2>
                 <ul class="list-inline xs-list-inline-none mt-50">
@@ -296,10 +296,10 @@
     </section>
 
     <!-- Section: Schedule -->
-    <section id="schedule">
-      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5" data-bg-img="http://placehold.it/1920x1280">
+      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
         <div class="container pt-50 pb-50">
           <div class="section-title">
+    <section id="schedule">
             <div class="row">
               <div class="col-md-6 col-md-offset-3 text-center">
                 <h2 class="title text-white mb-0">Event Schedule</h2>
@@ -308,7 +308,7 @@
           </div>
         </div>
       </div>
-      <div class="layer-overlay overlay-light" data-bg-img="http://placehold.it/1920x1280">
+      <div class="layer-overlay overlay-light">
         <div class="container pt-80 pb-50">
           <div class="section-content">
             <div class="row">
@@ -440,7 +440,7 @@
 
     <!-- Section: Speaker -->
     <section id="speaker">
-      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5" data-bg-img="http://placehold.it/1920x1280">
+      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
         <div class="container pt-50 pb-50">
           <div class="section-title">
             <div class="row">
@@ -643,7 +643,7 @@
 
 
     <!-- Section: Registration Form -->
-    <section id="registration-form" class="divider parallax layer-overlay overlay-darkblue" data-bg-img="http://placehold.it/1920x1280">
+    <section id="registration-form" class="divider parallax layer-overlay overlay-darkblue">
       <div class="container-fluid pb-80 pt-60">
         <div class="section-title mb-30">
           <div class="row">
@@ -744,7 +744,7 @@
 
 
     <!-- Section: Sponsors -->
-    <section id="sponsors" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5" data-bg-img="http://placehold.it/1920x1280">
+    <section id="sponsors" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5">
       <div class="container pt-70">
         <div class="section-title">
           <div class="row">
