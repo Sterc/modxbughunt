@@ -39,7 +39,7 @@
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
-<script src="js/jquery-plugin-collection.js"></script>
+<!--<script src="js/jquery-plugin-collection.js"></script>-->
 
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
@@ -108,7 +108,7 @@
                   data-splitin="none"
                   data-splitout="none"
                   data-responsive_offset="on"
-                  style="z-index: 7; white-space: nowrap; font-weight:600;">Help make MODX bug free
+                  style="z-index: 7; white-space: nowrap; font-weight:600;">Help make MODX bug-free
                 </div>
 
                 <!-- LAYER NR. 2 -->
@@ -243,19 +243,19 @@
           <div class="col-md-12">
             <div class="divider layer-overlay overlay-deep" data-margin-top="-165px" data-bg-img="http://placehold.it/1920x1280">
               <div class="col-md-12 col-lg-8 p-50 pl-md-0 pr-0 md-text-center">
-                <h2 class="text-black-444">Let's cleanse our issue tracker and join our MODX Bug Hunt on March 3rd, 2017</h2>
+                <h2 class="text-black-444">Cleanse the MODX issue tracker on March 3rd, 2017</h2>
                 <ul class="list-inline xs-list-inline-none mt-50">
                   <li>
                     <h4 class="text-gray-light"><i class="fa fa-map-marker text-theme-colored"></i> Location</h4>
-                    <h6 class="text-gray">Sterc HQ or your own office</h6>
+                    <h6 class="text-gray">Sterc HQ or your own office. <br /><a href="#">Live stream your office!</a></h6>
                   </li>
                   <li class="ml-30">
-                    <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Tickets</h4>
-                    <h6 class="text-gray">130 tickets remaining</h6>
+                    <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Requirements</h4>
+                    <h6 class="text-gray">Github account, Git skills,<br /> MODX contributers guide</h6>
                   </li>
                   <li class="ml-30">
-                    <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> Speakers</h4>
-                    <h6 class="text-gray">25 professional Speakers</h6>
+                    <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
+                      <h6 class="text-gray">Just RSVP at our <br /><a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">meetup.com page</a>.</h6>
                   </li>
                 </ul>
               </div>
@@ -267,12 +267,17 @@
         </div>
         <div class="row">
           <div class="col-md-6 mb-sm-30">
-            <h3 class="sub-title font-28 text-gray-darkgray m-0 mt-0 mt-md-0">What about</h3>
-            <h2 class="title font-40 text-gray mt-0 mb-20">MODX Bug hunt day</h2>
-            <p class="mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam modi consequuntur maxime voluptates earum illo sunt, veritatis maiores doloribus ut id, nostrum. Temporibus odit quas illum eos dolores itaque facilis omnis beatae saepe eum. Odit labore vel temporibus quasi.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam modi consequuntur maxime voluptates earum illo sunt, veritatis maiores doloribus ut id, nostrum. Temporibus odit quas illum eos dolores itaque facilis omnis beatae saepe eum. Odit labore vel temporibus.</p>
-            <a class="btn btn-colored btn-theme-colored btn-flat btn-lg text-uppercase smooth-scroll font-13 mt-30" href="#schedule">See Event Schedule</a>
-            <a class="btn btn-colored btn-dark-light btn-flat btn-lg text-uppercase smooth-scroll font-13 mt-30" href="#registration-form">Register Now</a>
+            <h2 class="title font-40 text-gray mt-0 mb-20">MODX Bug Hunt</h2>
+              <p>The MODX Bug Hunt is an international event where we squat as many MODX bugs as possible. The MODX issue tracker has the odd tendency to rise to a huge number every now and then. As loyal MODX users, we give it a healthy kick once in a while to keep it on a healthy level.</p>
+              <p>The MODX Bug Hunt takes place on modxbughunt.com and in the #modxbughunt channel on the modx.org slack channel.</p>
+              <p>What to expect:</p>
+              <ul>
+                  <li>That amazing feeling of being part of the MODX community.</li>
+                  <li>Prizes! Yes, besides getting major thanks from the whole community, you can also win prizes for fixing bugs.</li>
+                  <li>Live stream from the Sterc offices, where you are also invited to! Please join us at our offices or join with your own stream.</li>
+                  <li>Scoreboard on modxbughunt.com</li>
+                  <li>Unique badges, to be awarded after the hunt. Who doesn't want to be called the "Evasion ninja" for closing the most issues which can't be reproduced.</li>
+              </ul>
           </div>
           <div class="col-md-6">
             <div class="row">
@@ -585,37 +590,6 @@
       </div>
     </section>
 
-    <!-- Section: Call to action -->
-    <section class="divider parallax layer-overlay overlay-darkblue" data-bg-img="http://placehold.it/1920x1280">
-      <div class="container pt-70">
-        <div class="row">
-          <div class="col-md-4 mb-sm-20">
-            <div class="about-icon bg-light">
-              <i class="pe-7s-micro icon font-32"></i>
-              <h4 class="title"><a href="#">Knowledgable speakers</a></h4>
-              <p class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, et iste sint.</p>
-              <a class="text-theme-colored font-13" href="#">read more</a>
-            </div>
-          </div>
-          <div class="col-md-4 mb-sm-20">
-            <div class="about-icon bg-light">
-              <i class="pe-7s-display1 icon font-32"></i>
-              <h4 class="title"><a href="#">25 Awesome Sessions</a></h4>
-              <p class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, et iste sint.</p>
-              <a class="text-theme-colored font-13" href="#">read more</a>
-            </div>
-          </div>
-          <div class="col-md-4 mb-sm-20">
-            <div class="about-icon bg-light">
-              <i class="pe-7s-photo-gallery icon font-32"></i>
-              <h4 class="title"><a href="#">Picture perfect setting</a></h4>
-              <p class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, et iste sint.</p>
-              <a class="text-theme-colored font-13" href="#">read more</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
 
     <!-- Section: Registration Form -->
@@ -716,100 +690,7 @@
     </section>
 
 
-    <!-- Section: Event Facilities -->
-    <section class="bg-white-light">
-      <div class="">
-        <div class="container pb-80 pt-60">
-          <div class="section-title mb-30">
-            <div class="row">
-              <div class="col-md-6 col-md-offset-3 text-center">
-                <h2 class="title text-theme-colored">Event Facilities</h2>
-              </div>
-            </div>
-          </div>
-          <div class="section-content">
-            <div class="row">
-              <div class="col-md-4 mb-sm-20">
-                <div class="event-facilities">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="http://placehold.it/500x700" alt="">
-                    <div class="overlay">
-                      <h4 class="title">Transport</h4>
-                      <p>Lorem ipsum dolor sit amet, consec tetur adipis icing elit culpa volupt</p>
-                      <a class="btn btn-colored btn-theme-colored btn-sm" href="#">Read More</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 mb-sm-20">
-                <div class="event-facilities">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="http://placehold.it/500x700" alt="">
-                    <div class="overlay">
-                      <h4 class="title">Hotel & Restaurant</h4>
-                      <p>Lorem ipsum dolor sit amet, consec tetur adipis icing elit culpa volupt</p>
-                      <a class="btn btn-colored btn-theme-colored btn-sm" href="#">Read More</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4 mb-sm-20">
-                <div class="event-facilities">
-                  <div class="thumb">
-                    <img class="img-fullwidth" src="http://placehold.it/500x700" alt="">
-                    <div class="overlay">
-                      <h4 class="title">Facilities</h4>
-                      <p>Lorem ipsum dolor sit amet, consec tetur adipis icing elit culpa volupt</p>
-                      <a class="btn btn-colored btn-theme-colored btn-sm" href="#">Read More</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
-    <!-- Divider: Funfact -->
-    <section class="divider parallax layer-overlay overlay-darkblue" data-bg-img="http://placehold.it/1920x1280">
-      <div class="container">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact pt-15 pr-40 pb-15 pl-20">
-              <i class="pe-7s-note2 text-black-light mt-5 font-48 pull-left flip" data-text-color="#ccc"></i>
-              <h2 class="animate-number text-red mt-0 font-48 pull-right flip" data-value="754" data-animation-duration="2000">0</h2>
-              <div class="clearfix"></div>
-              <h4 class="text-uppercase text-right flip font-14" data-text-color="rgba(255,255,255,0.3)">Topics</h4>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact pt-15 pr-40 pb-15 pl-20">
-              <i class="pe-7s-users text-black-light mt-5 font-48 pull-left flip" data-text-color="#ccc"></i>
-              <h2 class="animate-number text-red mt-0 font-48 pull-right flip" data-value="125" data-animation-duration="2500">0</h2>
-              <div class="clearfix"></div>
-              <h4 class="text-uppercase text-right flip font-14" data-text-color="rgba(255,255,255,0.3)">Speaker</h4>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact pt-15 pr-40 pb-15 pl-20">
-              <i class="pe-7s-magic-wand text-black-light mt-5 font-48 pull-left flip" data-text-color="#ccc"></i>
-              <h2 class="animate-number text-red mt-0 font-48 pull-right flip" data-value="45" data-animation-duration="3000">0</h2>
-              <div class="clearfix"></div>
-              <h4 class="text-uppercase text-right flip font-14" data-text-color="rgba(255,255,255,0.3)">Sponsor</h4>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact pt-15 pr-40 pb-15 pl-20">
-              <i class="pe-7s-global text-black-light mt-5 font-48 pull-left flip" data-text-color="#ccc"></i>
-              <h2 class="animate-number text-red mt-0 font-48 pull-right flip" data-value="225" data-animation-duration="2500">0</h2>
-              <div class="clearfix"></div>
-              <h4 class="text-uppercase text-right flip font-14" data-text-color="rgba(255,255,255,0.3)">Countries</h4>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
 
     <!-- Section: Sponsors -->
@@ -865,8 +746,8 @@
     <div class="container pt-60 pb-30">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 text-center">
-          <img src="images/logo-wide-dark.png" alt="">
-          <p class="font-12 mt-20 mb-20">NextEvent is a library of corporate and business templates with predefined web elements which helps you to build your own site. Lorem ipsum dolor sit amet elit.</p>
+          <img src="images/logo-modxbughunt.jpg" alt="">
+          <p class="font-12 mt-20 mb-20">The MODX Bug Hunt is an initiative of Sterc Internet & Marketing. More text here...</p>
           <ul class="social-icons flat medium list-inline mb-40">
             <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
             <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
@@ -885,13 +766,13 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid p-20" data-bg-color="#181818">
+    <?php /**<div class="container-fluid p-20" data-bg-color="#181818">
       <div class="row text-center">
         <div class="col-md-12">
-          <p class="font-11 m-0" data-text-color="#555">Copyright &copy;2015 <a class="font-11" href="#">ThemeMascot</a>. All Rights Reserved</p>
+          <p class="font-11 m-0" data-text-color="#555">Idea by Sterc Internet & Marketing</p>
         </div>
       </div>
-    </div>
+    </div>**/?>
   </footer>
   <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
