@@ -58,6 +58,7 @@
               <li class="active"><a href="#home">Home</a></li>
               <li><a href="#about">about</a></li>
               <li><a href="#schedule">Schedule</a></li>
+              <li><a href="#join">Join us</a></li>
               <li><a href="#speaker">Team</a></li>
               <li><a href="#registration-form">Registration</a></li>
               <li><a href="#sponsors">Sponsors</a></li>
@@ -297,104 +298,119 @@
     </section>
 
     <!-- Section: Schedule -->
-      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
-        <div class="container pt-50 pb-50">
-          <div class="section-title">
-    <section id="schedule">
-            <div class="row">
-              <div class="col-md-6 col-md-offset-3 text-center">
-                <h2 class="title text-white mb-0">Bug Hunt Schedule</h2>
-                  <p>All times are in CET Amsterdam time. <a href="https://time.is/Amsterdam" target="_blank">Check yours here.</a></p>
-              </div>
-            </div>
+  <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
+    <div class="container pt-50 pb-50">
+      <div class="section-title">
+        <section id="schedule">
+                <div class="row">
+                  <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2 class="title text-white mb-0">Bug Hunt Schedule</h2>
+                      <p>All times are in CET Amsterdam time. <a href="https://time.is/Amsterdam" target="_blank">Check yours here.</a></p>
+                  </div>
+                </div>
+        </section>
+      </div>
+    </div>
+  </div>
+  <div class="layer-overlay overlay-light">
+    <div class="container pt-80 pb-50">
+      <div class="section-content">
+        <div class="row">
+          <div class="col-md-12">
+            <table class="table table-striped table-schedule">
+              <thead>
+                <tr>
+                  <th style="width: 20%;">Time</th>
+                  <th style="width: 55%;">Schedule</th>
+                  <th style="width: 25%;">Location</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>09:00 - 09:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                  <td>
+                      <h5>Welcome</h5>
+                        <p>The Sterc team will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day.</p>
+                  </td>
+                  <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                </tr>
+                <tr>
+                  <td>09:30 - 12:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                  <td>
+                      <h5>Hunting!</h5>
+                      <p>A 3 hour hunting session where we close as many issues as possible.</p>
+                  </td>
+                    <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
+                </tr>
+                <tr>
+                    <td>13:00 - 13:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                    <td>
+                        <h5>Status report</h5>
+                        <p>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</p>
+                    </td>
+                    <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                </tr>
+                <tr>
+                    <td>13:30 - 16:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                    <td>
+                        <h5>Hunting!</h5>
+                        <p>A 3 hour hunting session where we close as many issues as possible.</p>
+                    </td>
+                    <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
+                </tr>
+                <tr>
+                    <td>17:00 - 17:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                    <td>
+                        <h5>Status report</h5>
+                        <p>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</p>
+                    </td>
+                    <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                </tr>
+                <tr>
+                    <td>18:00 - 21:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                    <td>
+                        <h5>Hunting!</h5>
+                        <p>The last 3 hour hunting session where we close as many issues as possible.</p>
+                    </td>
+                    <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
+                </tr>
+                <tr>
+                    <td>21:30 - 22:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                    <td>
+                        <h5>Closing ceremony</h5>
+                        <p>The Sterc team will hold a closing ceremony, a review of the rankings, the bugs we fixed and last but not least: the prizes are being awarded!</p>
+                    </td>
+                    <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                </tr>
+                <tr>
+                  <td>22:00 and onward</td>
+                  <td>
+                      <h5>Celebrate</h5>
+                      <p>Celebrate the results of the Bug Hunt with your friends & coworkers.</p><p>We know a lot of diehard MODX community members who won't let themselves stop by a schedule. Therefore the Bug Hunt will naturally continue after the event, without prizes though, but with an amazing community!</p>
+                  </td>
+                    <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
+                </tr>
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
-      <div class="layer-overlay overlay-light">
-        <div class="container pt-80 pb-50">
-          <div class="section-content">
-            <div class="row">
-              <div class="col-md-12">
-                <table class="table table-striped table-schedule">
-                  <thead>
-                    <tr>
-                      <th style="width: 20%;">Time</th>
-                      <th style="width: 55%;">Schedule</th>
-                      <th style="width: 25%;">Location</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>09:00 - 09:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                      <td>
-                          <h5>Welcome</h5>
-                            <p>The Sterc team will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day.</p>
-                      </td>
-                      <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
-                    </tr>
-                    <tr>
-                      <td>09:30 - 12:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                      <td>
-                          <h5>Hunting!</h5>
-                          <p>A 3 hour hunting session where we close as many issues as possible.</p>
-                      </td>
-                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
-                    </tr>
-                    <tr>
-                        <td>13:00 - 13:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                        <td>
-                            <h5>Status report</h5>
-                            <p>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</p>
-                        </td>
-                        <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
-                    </tr>
-                    <tr>
-                        <td>13:30 - 16:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                        <td>
-                            <h5>Hunting!</h5>
-                            <p>A 3 hour hunting session where we close as many issues as possible.</p>
-                        </td>
-                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
-                    </tr>
-                    <tr>
-                        <td>17:00 - 17:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                        <td>
-                            <h5>Status report</h5>
-                            <p>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</p>
-                        </td>
-                        <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
-                    </tr>
-                    <tr>
-                        <td>18:00 - 21:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                        <td>
-                            <h5>Hunting!</h5>
-                            <p>The last 3 hour hunting session where we close as many issues as possible.</p>
-                        </td>
-                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
-                    </tr>
-                    <tr>
-                        <td>21:30 - 22:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
-                        <td>
-                            <h5>Closing ceremony</h5>
-                            <p>The Sterc team will hold a closing ceremony, a review of the rankings, the bugs we fixed and last but not least: the prizes are being awarded!</p>
-                        </td>
-                        <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
-                    </tr>
-                    <tr>
-                      <td>22:00 and onward</td>
-                      <td>
-                          <h5>Celebrate</h5>
-                          <p>Celebrate the results of the Bug Hunt with your friends & coworkers.</p><p>We know a lot of diehard MODX community members who won't let themselves stop by a schedule. Therefore the Bug Hunt will naturally continue after the event, without prizes though, but with an amazing community!</p>
-                      </td>
-                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
+    </div>
+    </div>
+
+    <section id="join">
+        <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
+            <div class="container pt-50 pb-50">
+                <div class="section-title">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3 text-center">
+                            <h2 class="title text-white mb-0">Join us!</h2>
+                            <p>Want to join us in our glorious efforts to squash MODX bugs? You can! <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Please visit our meetup.com page</a> to participate.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
     </section>
 
     <!-- Section: Speaker -->
