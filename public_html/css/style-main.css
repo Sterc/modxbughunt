@@ -1839,6 +1839,9 @@ section > .container-fluid {
   .menuzord-menu {
     background: #fff;
   }
+  .menuzord-responsive .menuzord-brand {
+    margin: 0 0 10px !important;
+  }
 }
 /* -------- Scrolltofixed ---------- */
 .header-nav .header-nav-wrapper.scroll-to-fixed-fixed.scroll-to-fixed-fixed {
@@ -2664,6 +2667,7 @@ form .error {
 /* -------- Has Side Panel ---------- */
 .side-push-panel.has-side-panel .menuzord .showhide {
   float: left;
+  padding: 20px 0 0 !important;
 }
 /* -------- Body Overlay ---------- */
 .has-side-panel .body-overlay {
