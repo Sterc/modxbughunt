@@ -21,7 +21,7 @@
 <!-- CSS | Main style file -->
 <link href="css/style-main.css" rel="stylesheet" type="text/css">
 <!-- CSS | Theme Color -->
-<link href="css/colors/theme-skin-green.css" rel="stylesheet" type="text/css">
+<link href="css/colors/theme-skin-modx.css" rel="stylesheet" type="text/css">
 <!-- CSS | Custom Margin Padding Collection -->
 <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
 <!-- CSS | Responsive media queries -->
@@ -53,7 +53,7 @@
       <div class="header-nav-wrapper">
         <div class="container">
           <nav id="menuzord-right" class="menuzord green">
-            <a class="menuzord-brand pull-left flip" href="javascript:void(0)"><img src="images/logo-modxbughunt.png" alt=""></a>
+            <a class="menuzord-brand pull-left flip" href="javascript:void(0)"><img src="images/logo-modxbughunt-white-text.png" alt=""></a>
             <ul class="menuzord-menu">
               <li class="active"><a href="#home">Home</a></li>
               <li><a href="#about">about</a></li>
@@ -748,7 +748,7 @@
     <div class="container pt-60 pb-30">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 text-center">
-            <p class="font-12 mt-20 mb-20">The MODX Bug Hunt is an initiative of <a href="https://www.sterc.nl/en/" target="_blank">Sterc Internet & Marketing</a>. We organise and coordinate this event. Feel free to follow us on the channels below.</p>
+            <p class="font-13 mt-20 mb-20">The MODX Bug Hunt is an initiative of <a href="https://www.sterc.nl/en/" target="_blank" class="font-13">Sterc Internet & Marketing</a>. We organise and coordinate this event. Feel free to follow us on the channels below.</p>
           <ul class="social-icons flat medium list-inline mb-40">
             <li><a href="https://facebook.com/sterc.internet.marketing/" target="_blank"><i class="fa fa-facebook"></i></a> </li>
             <li><a href="https://twitter.com/sterc" target="_blank"><i class="fa fa-twitter"></i></a> </li>

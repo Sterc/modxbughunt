@@ -15,9 +15,7 @@ URL:            http://themeforest.net/user/ThemeMascot
 @import "../css/elegant-icons.css";
 @import "../css/stroke-gap-icons.css";
 @import "../css/flaticon.css";
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,200,500,700,600,800);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700,800);
 @import url(https://fonts.googleapis.com/css?family=Josefin+Slab:400);
 /*
 This file contains the common styles of this theme.
@@ -118,11 +116,12 @@ html {
 }
 body {
   line-height: 1.42857143;
-  color: #777777;
-  font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
   background-color: #fff;
   background-attachment: fixed;
+  font-weight: 300;
 }
 a {
   color: #999999;
@@ -130,8 +129,8 @@ a {
 }
 a:hover,
 a:focus {
-  color: #737373;
-  text-decoration: none;
+  text-decoration: underline;
+  color: #3175b0;
 }
 a img {
   border: none;
@@ -179,8 +178,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Montserrat', serif;
-  font-weight: 700;
+  font-family: 'Lato', serif;
+  font-weight: 300;
   line-height: 1.42857143;
   color: #333333;
 }
@@ -224,8 +223,9 @@ h6 a,
 .h4 a,
 .h5 a,
 .h6 a {
-  color: #333333;
+  color: #3175b0;
 }
+
 h4,
 h5,
 h6,
@@ -237,7 +237,7 @@ h6,
 h5,
 h6,
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 p {
   line-height: 1.42857143;
@@ -258,16 +258,16 @@ form {
 }
 /* -------- Custom Font Family ---------- */
 .font-raleway {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .font-opensans {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .font-montserrat {
-  font-family: 'Montserrat', serif;
+  font-family: 'Lato', serif;
 }
 .font-josefin {
-  font-family: 'Josefin Slab', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 /* breadcrumb */
 .breadcrumb {
@@ -286,7 +286,7 @@ form {
   color: #fff;
 }
 .breadcrumb.white li a {
-  color: #808080;
+  color: #333;
 }
 @media only screen and (min-width: 768px) {
   .breadcrumb.text-right {
@@ -452,7 +452,7 @@ iframe {
   color: #777777 !important;
 }
 .text-gray {
-  color: #808080 !important;
+  color: #333 !important;
 }
 .text-gray-darkgray {
   color: #a9a9a9 !important;
@@ -1632,7 +1632,18 @@ section > .container-fluid {
   background-color: rgba(1, 162, 208, 0.9);
 }
 .layer-overlay.overlay-darkblue::before {
-  background-color: rgba(18, 27, 38, 0.95);
+  background-color: #333;
+}
+.divider.parallax.layer-overlay.overlay-darkblue h2,
+.divider.parallax.layer-overlay.overlay-darkblue p,
+.divider.parallax.layer-overlay.overlay-darkblue a {
+  color: #53a0d6 !important;
+}
+.divider.parallax.layer-overlay.overlay-darkblue a {
+  text-decoration: underline;
+}
+.divider.parallax.layer-overlay.overlay-darkblue a:hover {
+  color: #fff !important;
 }
 .layer-overlay.overlay-blue-light::before {
   background-color: rgba(1, 162, 208, 0.45);
@@ -1688,7 +1699,7 @@ section > .container-fluid {
   }
 }
 .menuzord-brand img {
-  max-height: 38px;
+  max-height: 60px;
 }
 /* -------- Custom theme style ---------- */
 .header-nav .header-nav-wrapper .menuzord {
@@ -2136,7 +2147,7 @@ section > .container-fluid {
 .menu-full-page #fullpage-nav li a {
   color: #111;
   font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   text-decoration: none;
   font-weight: 400;
   text-transform: uppercase;
@@ -4131,7 +4142,7 @@ textarea {
   background: none repeat scroll 0 0 transparent;
   border: 1px solid #ccc;
   border-radius: 3px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   height: 18px;
   left: 2.8571em;
   line-height: 1;
@@ -4400,7 +4411,7 @@ table.no-border td {
 }
 /* single post */
 .single-post article .entry-title {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   padding: 15px 0 0;
   text-transform: capitalize;
 }
@@ -5969,7 +5980,7 @@ blockquote p {
   font-size: 4rem !important;
   /* =64px */
   line-height: 1.2;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Lato", sans-serif;
   margin: 0 0 20px;
   font-weight: 200;
 }
@@ -6142,6 +6153,7 @@ blockquote p {
   font-style: italic;
   margin-top: 5px;
   padding-top: 10px;
+  font-weight: 400;
 }
 .section-title p.left-bordered {
   border-left: 2px solid #c0c0c0;
@@ -6325,7 +6337,7 @@ blockquote p {
 }
 .nav-tabs > li > a {
   border-radius: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 12px;
   color: #555555;
   padding: 12px 20px;
@@ -7191,9 +7203,11 @@ blockquote p {
 */
 .footer {
   background: #fafafa;
+  font-weight: 400;
+  color: #777;
 }
 .footer a {
-  color: #666;
+  color: #999;
   font-size: 13px;
 }
 .footer a:focus,
