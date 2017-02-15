@@ -39,7 +39,7 @@
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
-<!--<script src="js/jquery-plugin-collection.js"></script>-->
+<script src="js/jquery-plugin-collection.js"></script>
 
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
@@ -53,7 +53,7 @@
       <div class="header-nav-wrapper">
         <div class="container">
           <nav id="menuzord-right" class="menuzord green">
-            <a class="menuzord-brand pull-left flip" href="javascript:void(0)"><img src="images/logo-modxbughunt.jpg" alt=""></a>
+            <a class="menuzord-brand pull-left flip" href="javascript:void(0)"><img src="images/logo-modxbughunt.png" alt=""></a>
             <ul class="menuzord-menu">
               <li class="active"><a href="#home">Home</a></li>
               <li><a href="#about">about</a></li>
@@ -251,7 +251,7 @@
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Requirements</h4>
-                    <h6 class="text-gray">Github account, Git skills,<br /> MODX contributers guide</h6>
+                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://docs.modx.com/community/contribute/using-git-and-github/community-contributors-guide" target="_blank">MODX contributers guide</h6>
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
@@ -282,13 +282,13 @@
           <div class="col-md-6">
             <div class="row">
               <div class="col-md-12 mb-10">
-                <img class="img-fullwidth" src="http://placehold.it/590x230" alt="">
+                <img class="img-fullwidth" src="images/bughunt-1.jpg" alt="">
               </div>
               <div class="col-xs-6 col-md-6 pr-5">
-                <img class="img-fullwidth" src="http://placehold.it/280x230" alt="">
+                <img class="img-fullwidth" src="images/bughunt-2.jpg" alt="">
               </div>
               <div class="col-xs-6 col-md-6 pl-5">
-                <img class="img-fullwidth" src="http://placehold.it/280x230" alt="">
+                <img class="img-fullwidth" src="images/bughunt-3.jpg" alt="">
               </div>
             </div>
           </div>
@@ -303,7 +303,8 @@
     <section id="schedule">
             <div class="row">
               <div class="col-md-6 col-md-offset-3 text-center">
-                <h2 class="title text-white mb-0">Event Schedule</h2>
+                <h2 class="title text-white mb-0">Bug Hunt Schedule</h2>
+                  <p>All times are in CET Amsterdam time. <a href="https://time.is/Amsterdam" target="_blank">Check yours here.</a></p>
               </div>
             </div>
           </div>
@@ -319,116 +320,73 @@
                     <tr>
                       <th style="width: 20%;">Time</th>
                       <th style="width: 55%;">Schedule</th>
-                      <th style="width: 25%;">Venue</th>
+                      <th style="width: 25%;">Location</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td>08:30am-10:00am</td>
-                      <td><strong>Registration + Breakfast</strong></td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td><strong>Inauguration</strong></td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td><strong>Key Note</strong></td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
+                      <td>09:00 - 09:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
                       <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">The Future of CSS</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
+                          <h5>Welcome</h5>
+                            <p>The Sterc team will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day.</p>
                       </td>
-                      <td>Conference Auditorium</td>
+                      <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
                     </tr>
                     <tr>
-                      <td>08:30am-10:00am</td>
+                      <td>09:30 - 12:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
                       <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">Sass Map Magic</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
+                          <h5>Hunting!</h5>
+                          <p>A 3 hour hunting session where we close as many issues as possible.</p>
                       </td>
-                      <td>Conference Auditorium</td>
+                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
                     </tr>
                     <tr>
-                      <td>08:30am-10:00am</td>
+                        <td>13:00 - 13:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                        <td>
+                            <h5>Status report</h5>
+                            <p>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</p>
+                        </td>
+                        <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                    </tr>
+                    <tr>
+                        <td>13:30 - 16:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                        <td>
+                            <h5>Hunting!</h5>
+                            <p>A 3 hour hunting session where we close as many issues as possible.</p>
+                        </td>
+                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
+                    </tr>
+                    <tr>
+                        <td>17:00 - 17:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                        <td>
+                            <h5>Status report</h5>
+                            <p>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</p>
+                        </td>
+                        <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                    </tr>
+                    <tr>
+                        <td>18:00 - 21:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                        <td>
+                            <h5>Hunting!</h5>
+                            <p>The last 3 hour hunting session where we close as many issues as possible.</p>
+                        </td>
+                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
+                    </tr>
+                    <tr>
+                        <td>21:30 - 22:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
+                        <td>
+                            <h5>Closing ceremony</h5>
+                            <p>The Sterc team will hold a closing ceremony, a review of the rankings, the bugs we fixed and last but not least: the prizes are being awarded!</p>
+                        </td>
+                        <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
+                    </tr>
+                    <tr>
+                      <td>22:00 and onward</td>
                       <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">Interactive CSS in Email</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
+                          <h5>Celebrate</h5>
+                          <p>Celebrate the results of the Bug Hunt with your friends & coworkers.</p><p>We know a lot of diehard MODX community members who won't let themselves stop by a schedule. Therefore the Bug Hunt will naturally continue after the event, without prizes though, but with an amazing community!</p>
                       </td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">Classifying Class Names</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
-                      </td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td><strong>Tea Break</strong></td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">The Future after Sass and LESS</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
-                      </td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">Complex Responsive Animations</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
-                      </td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td><strong>Lunch Break</strong></td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td>
-                        <img class="img-circle speaker-thumb" src="http://placehold.it/75x75" alt="">
-                        <h5 class="title">Being a Good Coworker</h5>
-                        <h6 class="name">Jacob Doe, <small>abc inc.</small></h6>
-                        <span class="toggle-content"><i class="fa fa-plus-square-o"></i></span>
-                        <p class="session-details">Lorem ipsum dolor sit amet, te eum graeco partiendo, ei qui iudico accusamus. Amet rebum nostrud has in, movet iisque no qui, ea duo everti ancillae probatus. Odio ignota vix id. Ex est consul contentiones. Nobis facete usu ut, ludus partem deterruisset ei usu. Vel cu fabulas periculis, eu mea percipit probatus consequuntur.</p>
-                      </td>
-                      <td>Conference Auditorium</td>
-                    </tr>
-                    <tr>
-                      <td>08:30am-10:00am</td>
-                      <td><strong>Vote of Thanks</strong></td>
-                      <td>Conference Auditorium</td>
+                        <td><a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></td>
                     </tr>
                   </tbody>
                 </table>
@@ -447,6 +405,7 @@
             <div class="row">
               <div class="col-md-6 col-md-offset-3 text-center">
                 <h2 class="title text-white mb-0">The Bughunt Team</h2>
+                  <p>The Bug Hunt Team organises and coordinates the Bug Hunt throughout the day. Want to get involved? Want to join us at our HQ? Or want to livestream from your own office? <a href="mailto:modx@sterc.nl">Just contact the team</a>.</p>
               </div>
             </div>
           </div>
@@ -633,7 +592,7 @@
               </div>
 
               <div class="text-center clearfix">
-                <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" class="btn btn-colored btn-theme-colored btn-xl" target="_blank" title="Join the team">Join the team</a>
+                <a href="mailto:modx@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Join the team">Join the Bug Hunt organizers team</a>
               </div>
 
             </div>
@@ -649,7 +608,8 @@
         <div class="section-title mb-30">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
-              <h2 class="title text-theme-colored">Registration Form</h2>
+              <h2 class="title text-theme-colored">Subscribe to our newsletter!</h2>
+              <p>Stay updated about the MODX Bug Hunt and get all the news facts first! We'll only use this newsletter for MODX Bug hunts and related MODX events.</p>
             </div>
           </div>
         </div>
@@ -704,7 +664,7 @@
                 <div class="col-sm-12">
                   <div class="form-group mb-0 mt-10 text-center">
                     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                    <button type="submit" class="btn btn-colored btn-theme-colored btn-xl btn-submit btn-block" data-loading-text="Please wait...">Send Message</button>
+                    <button type="submit" class="btn btn-colored btn-theme-colored btn-xl btn-submit btn-block" data-loading-text="Please wait...">Subscribe</button>
                   </div>
                 </div>
               </div>
@@ -751,6 +711,7 @@
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
               <h2 class="title text-theme-colored">Sponsors</h2>
+                <p>The MODX Bug Hunt wouldn't be possible without these amazing sponsors!</p>
             </div>
           </div>
         </div>
@@ -759,20 +720,11 @@
             <div class="col-md-10 col-md-offset-1">
               <div class="row sponsors-style2 pt-30 pb-20">
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="https://www.sterc.nl/en/">
-                    <img src="/images/logos/sterc.png" alt="Sterc Internet & Marketing">
+                  <a href="https://www.sterc.nl/en/" target="_blank">
+                    <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
                   </a>
                 </div>
 
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
-                </div>
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
-                </div>
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
-                </div>
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
                 </div>
@@ -797,33 +749,15 @@
     <div class="container pt-60 pb-30">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 text-center">
-          <img src="images/logo-modxbughunt.jpg" alt="">
-          <p class="font-12 mt-20 mb-20">The MODX Bug Hunt is an initiative of Sterc Internet & Marketing. More text here...</p>
+            <p class="font-12 mt-20 mb-20">The MODX Bug Hunt is an initiative of <a href="https://www.sterc.nl/en/" target="_blank">Sterc Internet & Marketing</a>. We organise and coordinate this event. Feel free to follow us on the channels below.</p>
           <ul class="social-icons flat medium list-inline mb-40">
-            <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
-            <li><a href="#"><i class="fa fa-pinterest"></i></a> </li>
-            <li><a href="#"><i class="fa fa-google-plus"></i></a> </li>
-            <li><a href="#"><i class="fa fa-youtube"></i></a> </li>
+            <li><a href="https://facebook.com/sterc.internet.marketing/" target="_blank"><i class="fa fa-facebook"></i></a> </li>
+            <li><a href="https://twitter.com/sterc" target="_blank"><i class="fa fa-twitter"></i></a> </li>
+            <li><a href="https://twitter.com/gpsietzema" target="_blank"><i class="fa fa-twitter"></i></a> </li>
           </ul>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-          <div class="mt-20 mb-30 pt-30 pb-30 text-center" data-bg-color="rgba(0,0,0,0.4)">
-            <i class="fa fa-twitter text-theme-colored font-28 mb-10"></i>
-            <div class="twitter-feed-carousel text-center" data-username="Envato"></div>
-          </div>
-        </div>
-      </div>
     </div>
-    <?php /**<div class="container-fluid p-20" data-bg-color="#181818">
-      <div class="row text-center">
-        <div class="col-md-12">
-          <p class="font-11 m-0" data-text-color="#555">Idea by Sterc Internet & Marketing</p>
-        </div>
-      </div>
-    </div>**/?>
   </footer>
   <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
