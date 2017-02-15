@@ -327,7 +327,7 @@
                       <td>09:00 - 09:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></td>
                       <td>
                           <h5>Welcome</h5>
-                            <p>The Sterc team will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kickoff the day.</p>
+                            <p>The Sterc team will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day.</p>
                       </td>
                       <td><a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></td>
                     </tr>
@@ -710,7 +710,7 @@
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
               <h2 class="title text-theme-colored">Sponsors</h2>
-                <p>The MODX Bug Hunt wasn't possible without these amazing sponsors!</p>
+                <p>The MODX Bug Hunt wouldn't be possible without these amazing sponsors!</p>
             </div>
           </div>
         </div>
