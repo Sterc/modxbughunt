@@ -411,6 +411,13 @@
                 </div>
             </div>
         </div>
+        <div class="bg-white-light">
+            <div class="divider">
+                <div class="text-center clearfix">
+                    <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" class="btn btn-colored btn-theme-colored btn-xl" title="Join the bughunt">Join the bughunt</a>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- Section: Speaker -->
