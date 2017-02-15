@@ -60,6 +60,7 @@
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#speaker">Team</a></li>
               <li><a href="#registration-form">Registration</a></li>
+              <li><a href="#sponsors">Sponsors</a></li>
             </ul>
           </nav>
         </div>
