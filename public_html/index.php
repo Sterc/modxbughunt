@@ -616,59 +616,47 @@
         <div class="section-content">
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
-              <form id="register_form" name="register_form" class="register-form p-50 pt-80 pb-80 mb-0 bg-light" method="post" action="includes/register.php">
-              <div class="row">
 
-                <div class="col-sm-6">
-                  <div class="form-group mb-30">
-                    <input type="text" placeholder="Firstname" id="register_firstname" name="register_firstname" required="" class="form-control">
-                  </div>
-                </div>
 
-                <div class="col-sm-6">
-                  <div class="form-group mb-30">
-                    <input type="text" placeholder="Lastname" id="register_lastname" name="register_lastname" required="" class="form-control">
-                  </div>
-                </div>
+              <!-- Begin MailChimp Signup Form -->
+              <div id="mc_embed_signup">
+                <form action="//sterc.us9.list-manage.com/subscribe/post?u=729ed9afe62c018c2c79c5eca&amp;id=9941ad8a92" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate p-50 pt-80 pb-80 mb-0 bg-light" target="_blank" novalidate>
+                  <div id="mc_embed_signup_scroll">
 
-                <div class="col-sm-6">
-                  <div class="form-group mb-30">
-                    <input type="text" placeholder="Github Username" id="register_githubusername" name="register_githubusername" class="form-control" required="">
-                  </div>
-                </div>
-
-                <div class="col-sm-6">
-                  <div class="form-group mb-30">
-                    <input type="text" placeholder="Email" id="register_email" name="register_email" class="form-control" required="">
-                  </div>
-                </div>
-
-                <div class="col-sm-12">
-                  <div class="form-group mb-30">
-                    <label>Country</label>
-                    <div class="styled-select">
-                      <select id="ticket_post" name="ticket_post" class="form-control" required="">
-                        <option value="">Select</option>
-                        <?php
-                          $countries = array("Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antarctica", "Antigua and Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "Bosnia and Herzegowina", "Botswana", "Bouvet Island", "Brazil", "British Indian Ocean Territory", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia", "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", "Chad", "Chile", "China", "Christmas Island", "Cocos (Keeling) Islands", "Colombia", "Comoros", "Congo", "Congo, the Democratic Republic of the", "Cook Islands", "Costa Rica", "Cote d'Ivoire", "Croatia (Hrvatska)", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic", "East Timor", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Ethiopia", "Falkland Islands (Malvinas)", "Faroe Islands", "Fiji", "Finland", "France", "France Metropolitan", "French Guiana", "French Polynesia", "French Southern Territories", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar", "Greece", "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti", "Heard and Mc Donald Islands", "Holy See (Vatican City State)", "Honduras", "Hong Kong", "Hungary", "Iceland", "India", "Indonesia", "Iran (Islamic Republic of)", "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea, Democratic People's Republic of", "Korea, Republic of", "Kuwait", "Kyrgyzstan", "Lao, People's Democratic Republic", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libyan Arab Jamahiriya", "Liechtenstein", "Lithuania", "Luxembourg", "Macau", "Macedonia, The Former Yugoslav Republic of", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique", "Mauritania", "Mauritius", "Mayotte", "Mexico", "Micronesia, Federated States of", "Moldova, Republic of", "Monaco", "Mongolia", "Montserrat", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal", "Netherlands", "Netherlands Antilles", "New Caledonia", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Norfolk Island", "Northern Mariana Islands", "Norway", "Oman", "Pakistan", "Palau", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Pitcairn", "Poland", "Portugal", "Puerto Rico", "Qatar", "Reunion", "Romania", "Russian Federation", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa", "San Marino", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Seychelles", "Sierra Leone", "Singapore", "Slovakia (Slovak Republic)", "Slovenia", "Solomon Islands", "Somalia", "South Africa", "South Georgia and the South Sandwich Islands", "Spain", "Sri Lanka", "St. Helena", "St. Pierre and Miquelon", "Sudan", "Suriname", "Svalbard and Jan Mayen Islands", "Swaziland", "Sweden", "Switzerland", "Syrian Arab Republic", "Taiwan, Province of China", "Tajikistan", "Tanzania, United Republic of", "Thailand", "Togo", "Tokelau", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Turks and Caicos Islands", "Tuvalu", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "United States Minor Outlying Islands", "Uruguay", "Uzbekistan", "Vanuatu", "Venezuela", "Vietnam", "Virgin Islands (British)", "Virgin Islands (U.S.)", "Wallis and Futuna Islands", "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe");
-
-                          foreach ($countries as $country) {
-                            echo '<option value="' . $country . '">' . $country . '</option>';
-                          }
-                          ?>
-                      </select>
+                    <div class="mc-field-group col-sm-12">
+                      <div class="form-group mb-30">
+                        <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Email">
+                      </div>
                     </div>
-                  </div>
-                </div>
 
-                <div class="col-sm-12">
-                  <div class="form-group mb-0 mt-10 text-center">
-                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                    <button type="submit" class="btn btn-colored btn-theme-colored btn-xl btn-submit btn-block" data-loading-text="Please wait...">Subscribe</button>
-                  </div>
-                </div>
+                    <div class="mc-field-group col-sm-12">
+                      <div class="form-group mb-30">
+                        <input type="text" value="" name="NAME" class="form-control" id="mce-NAME" placeholder="Name">
+                      </div>
+                    </div>
+                    <div id="mce-responses" class="clear">
+                      <div class="response" id="mce-error-response" style="display:none"></div>
+                      <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>
+
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_729ed9afe62c018c2c79c5eca_9941ad8a92" tabindex="-1" value=""></div>
+
+                    <div class="col-sm-12">
+                      <div class="form-group mb-0 mt-10 text-center">
+                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-colored btn-theme-colored btn-xl btn-submit btn-block"></div>
+                      </div>
+                    </div>
+
+                    <div class="clearfix"></div>
+                </form>
+
               </div>
-            </form>
+              <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+              <!--End mc_embed_signup-->
+
+
             <!-- register Form Validation-->
             <script type="text/javascript">
               $("#register_form").validate({
@@ -699,10 +687,6 @@
         </div>
       </div>
     </section>
-
-
-
-
 
     <!-- Section: Sponsors -->
     <section id="sponsors" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5">
