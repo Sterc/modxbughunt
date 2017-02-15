@@ -39,7 +39,7 @@
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
-<script src="js/jquery-plugin-collection.js"></script>
+<!--<script src="js/jquery-plugin-collection.js"></script>-->
 
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
@@ -413,8 +413,10 @@
         </div>
         <div class="bg-white-light">
             <div class="divider">
-                <div class="text-center clearfix">
-                    <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" class="btn btn-colored btn-theme-colored btn-xl" title="Join the bughunt">Join the bughunt</a>
+                <div class="container pt-50 pb-50">
+                    <div class="text-center clearfix">
+                        <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" class="btn btn-colored btn-theme-colored btn-xl" title="Join the bughunt">Join the bughunt</a>
+                    </div>
                 </div>
             </div>
         </div>
