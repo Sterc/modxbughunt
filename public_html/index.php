@@ -60,7 +60,7 @@
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#join">Join us</a></li>
               <li><a href="#speaker">Team</a></li>
-              <li><a href="#registration-form">Registration</a></li>
+              <li><a href="#newsletter">Newsletter</a></li>
               <li><a href="#sponsors">Sponsors</a></li>
             </ul>
           </nav>
@@ -625,10 +625,8 @@
       </div>
     </section>
 
-
-
     <!-- Section: Registration Form -->
-    <section id="registration-form" class="divider parallax layer-overlay overlay-darkblue">
+    <section id="newsletter" class="divider parallax layer-overlay overlay-darkblue">
       <div class="container-fluid pb-80 pt-60">
         <div class="section-title mb-30">
           <div class="row">
