@@ -46,6 +46,16 @@
 <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
 </head>
 <body class="">
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-19232932-11', 'auto');
+    ga('send', 'pageview');
+
+</script>
 <div id="wrapper">
   <!-- Header -->
   <header class="header">
@@ -256,7 +266,7 @@
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
-                      <h6 class="text-gray">Just RSVP at our <br /><a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">meetup.com page</a>.</h6>
+                      <h6 class="text-gray">Just RSVP at our <br /><a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Meetup.com page</a>.</h6>
                   </li>
                 </ul>
               </div>
