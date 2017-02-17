@@ -747,7 +747,7 @@
                   <a href="https://seda.digital/" target="_blank"><img src="/images/sponsor-seda-digital.png" alt="SEDA.digital"></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
+                  <a href="https://modmore.com"><img src="/images/sponsor-modmore.png" alt="modmore"></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
