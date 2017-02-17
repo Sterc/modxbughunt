@@ -451,179 +451,38 @@
         <div class="container pt-80 pb-50">
           <div class="section-content">
             <div class="row multi-row-clearfix">
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                      <img alt="Gauke Pieter Sietzema" src="/images/team/gp.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/gpsietzema" target="_blank">Gauke Pieter<br/> Sietzema</a>
-                      </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">gpsietzema</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/gpsietzema" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
+
+                <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
+                    &nbsp;
                 </div>
-              </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
+                    <div class="team-member clearfix">
+                        <div class="team-thumb">
+                            <img alt="Gauke Pieter Sietzema" src="/images/team/gp.jpg" class="img-fullwidth"></div>
+                        <div class="overlay">
+                            <div class="content text-center">
+                                <h4 class="author mb-0">
+                                    <a href="https://github.com/gpsietzema" target="_blank">Gauke Pieter<br/> Sietzema</a>
+                                </h4>
+                                <h6 class="title text-gray font-14 mt-5 mb-15">gpsietzema</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
               <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
                 <div class="team-member clearfix">
                   <div class="team-thumb">
-                    <img alt="Roel Zeilstra" src="/images/team/roel.jpg" class="img-fullwidth"></div>
+                      <img alt="Ben Davis" src="/images/ben-davis.jpg" class="img-fullwidth"></div>
                   <div class="overlay">
                     <div class="content text-center">
                       <h4 class="author mb-0">
-                        <a href="https://github.com/MrRoco" target="_blank">Roel Zeilstra</a>
+                        <a href="https://github.com/sonicpunk" target="_blank">Ben<br/> Davis</a>
                       </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">MrRoco</h6>
+                        <h6 class="title text-gray font-14 mt-5 mb-15">sonicpunk</h6>
                     </div>
                   </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/MrRoco" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                    <img alt="Sytske Haagsma" src="/images/team/sytske.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/sytskehaagsma" target="_blank">Sytske Haagsma</a>
-                      </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">sytskehaagsma</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/sytskehaagsma" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                    <img alt="Sander Drenth" src="/images/team/sander.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/sdrenth" target="_blank">Sander Drenth</a>
-                      </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">sdrenth</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/sdrenth" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                    <img alt="Joeke Kloosterman" src="/images/team/joeke.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/joeke" target="_blank">Joeke Kloosterman</a>
-                      </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">joeke</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/joeke" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                    <img alt="Jesse Visser" src="/images/team/jesse.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/Flowan" target="_blank">Jesse Visser</a>
-                      </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">Flowan</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/Flowan" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                    <img alt="Pien van Dalen" src="/images/team/pien.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/EasterPeanut" target="_blank">Pien van Dalen</a>
-                      </h4>
-                      <h6 class="title text-gray font-14 mt-5 mb-15">EasterPeanut</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/EasterPeanut" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                  <div class="team-thumb">
-                    <img alt="Johan van der Molen" src="/images/team/johan.jpg" class="img-fullwidth"></div>
-                  <div class="overlay">
-                    <div class="content text-center">
-                      <h4 class="author mb-0">
-                        <a href="https://github.com/pixelive" target="_blank">Johan van der Molen</a>
-                      </h4>
-                        <h6 class="title text-gray font-14 mt-5 mb-15">pixelive</h6>
-                    </div>
-                  </div>
-                  <ul class="social-icons flat icon-white square mt-10">
-                    <li class="">
-                      <a href="https://github.com/pixelive" target="_blank">
-                        <i class="fa fa-github pr-10 pl-10"></i>
-                      </a>
-                    </li>
-                  </ul>
                 </div>
               </div>
 
@@ -749,9 +608,9 @@
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://modmore.com"><img src="/images/sponsor-modmore.png" alt="modmore"></a>
                 </div>
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
-                </div>
+<!--                <div class="col-xs-6 col-md-3 text-center">-->
+<!--                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>-->
+<!--                </div>-->
               </div>
             </div>
           </div>
