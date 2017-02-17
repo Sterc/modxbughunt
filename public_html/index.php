@@ -661,9 +661,13 @@
 
                     <div class="mc-field-group col-sm-12">
                       <div class="form-group mb-30">
-                        <input type="text" value="" name="NAME" class="form-control" id="mce-NAME" placeholder="Name">
+                        <input type="text" value="" name="NAME" class="required form-control" id="mce-NAME" placeholder="Name">
                       </div>
                     </div>
+
+                    <div class="mc-field-group col-sm-12">
+						<input type="text" value="" name="COMPANY" class="form-control" placeholder="Company" id="mce-COMPANY">
+					</div>
                     <div id="mce-responses" class="clear">
                       <div class="response" id="mce-error-response" style="display:none"></div>
                       <div class="response" id="mce-success-response" style="display:none"></div>
@@ -683,7 +687,7 @@
                 </form>
 
               </div>
-              <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+              <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';fnames[2]='COMPANY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
               <!--End mc_embed_signup-->
 
 
