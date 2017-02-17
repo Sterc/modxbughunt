@@ -27,7 +27,7 @@
 <!-- CSS | Responsive media queries -->
 <link href="css/responsive.css" rel="stylesheet" type="text/css">
 <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
-<!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
+ <link href="css/style.css" rel="stylesheet" type="text/css">
 
 <!-- Revolution Slider 5.x CSS settings -->
 <link  href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css"/>
@@ -59,7 +59,7 @@
               <li><a href="#about">about</a></li>
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#join">Join us</a></li>
-              <li><a href="#speaker">Team</a></li>
+              <li><a href="#speaker">Liveshow</a></li>
               <li><a href="#newsletter">Newsletter</a></li>
               <li><a href="#sponsors">Sponsors</a></li>
             </ul>
@@ -248,11 +248,11 @@
                 <ul class="list-inline xs-list-inline-none mt-50">
                   <li>
                     <h4 class="text-gray-light"><i class="fa fa-map-marker text-theme-colored"></i> Location</h4>
-                    <h6 class="text-gray">Sterc HQ or your own office. <br /><a href="#">Live stream your office!</a></h6>
+                    <h6 class="text-gray">Sterc HQ or your own office. <br />&nbsp;</h6>
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Requirements</h4>
-                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://docs.modx.com/community/contribute/using-git-and-github/community-contributors-guide" target="_blank">MODX contributers guide</h6>
+                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://docs.modx.com/community/contribute/using-git-and-github/community-contributors-guide" target="_blank">MODX contributers guide</a>.</h6>
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
@@ -279,6 +279,7 @@
                   <li>Scoreboard on modxbughunt.com</li>
                   <li>Unique badges, to be awarded after the hunt. Who doesn't want to be called the "Evasion ninja" for closing the most issues which can't be reproduced.</li>
               </ul>
+              <br><br>
           </div>
           <div class="col-md-6">
             <div class="row">
@@ -293,6 +294,15 @@
               </div>
             </div>
           </div>
+            <div class="bg-white-light">
+                <div class="divider">
+                    <div class="container pt-50 pb-50">
+                        <div class="text-center clearfix">
+                            <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt">Join the MODX Bug Hunt on Meetup.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
       </div>
     </section>
@@ -406,6 +416,7 @@
                         <div class="col-md-6 col-md-offset-3 text-center">
                             <h2 class="title text-white mb-0">Join us!</h2>
                             <p>Want to join us in our glorious efforts to squash MODX bugs? You can! <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Please visit our meetup.com page</a> to participate.</p>
+                            <p>Want to get involved in organising the event? Want to join us at our HQ? Or want to livestream from your own office? <a href="mailto:modx@sterc.nl">Just contact the organisers</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -415,7 +426,7 @@
             <div class="divider">
                 <div class="container pt-50 pb-50">
                     <div class="text-center clearfix">
-                        <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" class="btn btn-colored btn-theme-colored btn-xl" title="Join the bughunt">Join the bughunt</a>
+                        <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt">Join the MODX Bug Hunt on Meetup.com</a>
                     </div>
                 </div>
             </div>
@@ -429,8 +440,8 @@
           <div class="section-title">
             <div class="row">
               <div class="col-md-6 col-md-offset-3 text-center">
-                <h2 class="title text-white mb-0">The Bughunt Team</h2>
-                  <p>The Bug Hunt Team organises and coordinates the Bug Hunt throughout the day. Want to get involved? Want to join us at our HQ? Or want to livestream from your own office? <a href="mailto:modx@sterc.nl">Just contact the team</a>.</p>
+                <h2 class="title text-white mb-0">Liveshow</h2>
+                  <p>The MODX Bug Hunt will have live coverage all day. Our hosts below will cover the Bug Hunt throughout the day.</p>
               </div>
             </div>
           </div>
@@ -614,10 +625,6 @@
                     </li>
                   </ul>
                 </div>
-              </div>
-
-              <div class="text-center clearfix">
-                <a href="mailto:modx@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Join the team">Join the Bug Hunt organizers team</a>
               </div>
 
             </div>
