@@ -39,7 +39,7 @@
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- JS | jquery plugin collection for this theme -->
-<script src="js/jquery-plugin-collection.js"></script>
+<!--<script src="js/jquery-plugin-collection.js"></script>-->
 
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
@@ -733,7 +733,7 @@
                 </div>
 
                 <div class="col-xs-6 col-md-3 text-center">
-                  <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
+                  <a href="https://seda.digital/" target="_blank"><img src="/images/sponsor-seda-digital.png" alt="SEDA.digital"></a>
                 </div>
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="#"><img src="http://placehold.it/400x400" alt=""></a>
