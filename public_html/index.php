@@ -645,8 +645,8 @@
                     </div>
 
                     <div class="mc-field-group col-sm-12">
-						<input type="text" value="" name="COMPANY" class="form-control" placeholder="Company" id="mce-COMPANY">
-					</div>
+                        <input type="text" value="" name="COMPANY" class="form-control" placeholder="Company" id="mce-COMPANY">
+                    </div>
                     <div id="mce-responses" class="clear">
                       <div class="response" id="mce-error-response" style="display:none"></div>
                       <div class="response" id="mce-success-response" style="display:none"></div>
@@ -732,13 +732,21 @@
                   <a href="https://greyskymedia.com/" target="_blank"><img src="/images/sponsor-greysky.png" alt="Grey Sky Media"></a>
                 </div>
 
-                  <div class="col-xs-6 col-md-3 text-center">
-                      
-                  </div>
+                <div class="col-xs-6 col-md-3 text-center">
+                    <a href="https://www.stickermule.com/" target="_blank">
+                        <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
+                    </a>
+                </div>
 
                   <div class="col-xs-6 col-md-3 text-center">
                       <a href="https://www.modx.com" target="_blank">
                           <img src="/images/sponsor-modx.png" alt="MODX">
+                      </a>
+                  </div>
+
+                  <div class="col-xs-6 col-md-3 text-center">
+                      <a href="https://www.gelstudios.co.uk/" target="_blank">
+                          <img src="/images/sponsor-gel-studios.jpg" alt="GEL Studios">
                       </a>
                   </div>
               </div>
