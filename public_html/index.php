@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <meta name="description" content="The MODX Bug Hunt is an international event where we squat as many MODX bugs as possible." />
+    <meta name="description" content="The MODX Bug Hunt is an international event where we squash as many MODX bugs as possible." />
     <title>MODX Bug Hunt - March 3rd, 2017</title>
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">
     <link href="images/apple-icon.png" rel="apple-touch-icon">
@@ -279,7 +279,7 @@
         <div class="row">
           <div class="col-md-6 mb-sm-30">
             <h2 class="title font-40 text-gray mt-0 mb-20">MODX Bug Hunt</h2>
-              <p>The MODX Bug Hunt is an international event where we squat as many MODX bugs as possible. The MODX issue tracker has the odd tendency to rise to a huge number every now and then. As loyal MODX users, we give it a healthy kick once in a while to keep it on a healthy level.</p>
+              <p>The MODX Bug Hunt is an international event where we squash as many MODX bugs as possible. The MODX issue tracker has the odd tendency to rise to a huge number every now and then. As loyal MODX users, we give it a healthy kick once in a while to keep it on a healthy level.</p>
               <p>The MODX Bug Hunt takes place at the Sterc HQ, on this site through a livestream and in the #modxbughunt channel on the <a href="https://modx.org" target="_blank">modx.org</a> Slack channel.</p>
               <p>What to expect:</p>
               <ul>
