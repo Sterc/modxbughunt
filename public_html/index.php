@@ -339,7 +339,7 @@
           <div class="col-md-12">
             <div class="cd-timeline cd-container">
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-video-camera"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -362,7 +362,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-bug"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -385,7 +385,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-video-camera"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -408,7 +408,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-bug"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -431,7 +431,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-video-camera"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -454,7 +454,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-bug"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -477,7 +477,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-video-camera"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
@@ -500,7 +500,7 @@
                 </div>
 
                 <div class="cd-timeline-block">
-                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-user"></i></div>
+                    <div class="cd-timeline-img cd-movie bounce-in"><i class="fa fa-beer"></i></div>
                     <div class="cd-timeline-content bounce-in">
                         <div class="row equal-height">
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
