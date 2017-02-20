@@ -1937,6 +1937,7 @@ section > .container-fluid {
   color: #808080;
 }
 @media only screen and (max-width: 900px) {
+  .menuzord-responsive .menuzord-menu > li > a,
   .header-nav.navbar-transparent.animated-active .menuzord-menu > li > a {
     color: #808080;
   }
