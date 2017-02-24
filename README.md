@@ -12,7 +12,7 @@ More information about the MODX Bug Hunt can be found on the [modxbughunt.com we
 - Then you need a fork of MODX Revolution. Go [here](https://github.com/modxcms/revolution) and click 'Fork' on the top-right.
 
 ## 3. Signed MODX Contributors License Agreement
-You formally need to sign a Contributors License Agreement before contributing. But, since a lot of people are attending the MODX Bug Hunt, this might take a while before it is approved. Therefore, just get on with coding and testing! [CLA docs on modx.com](https://docs.modx.com/community/contribute/becoming-a-contributor).
+You need to sign a Contributors License Agreement before contributing code. If you haven't signed it before, [sign it here](https://develop.modx.com/contribute/cla/). 
 
 ## 4. Setting up MODX files from a Git repository
 First, clone your Fork on your local machine, into the directory which will be your webroot.
