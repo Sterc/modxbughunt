@@ -62,20 +62,7 @@ Next, we need to copy (DO NOT RENAME THEM) the following 2 files:
 $ cp build.config.sample.php build.config.php
 $ cp build.properties.sample.php build.properties.php
 ```
-
-Next, change the build.config.php file to your needs.
-```
-<?php
-/* define the MODX path constants necessary for core installation */
-define('MODX_CORE_PATH', dirname(dirname(__FILE__)) . '/core/');
-define('MODX_CONFIG_KEY', 'config');
-
-/* define the connection variables */
-define('XPDO_DSN', 'mysql:host=localhost;dbname=YOUR_DATABASE_NAME_HERE;charset=utf8');
-define('XPDO_DB_USER', 'YOUR_USERNAME_HERE');
-define('XPDO_DB_PASS', 'YOUR_PASSWORD_HERE');
-define('XPDO_TABLE_PREFIX', 'modx_');
-```
+Typically you don't have to change the contents of these files, they just need to exist there.
 
 The next step requires you to have PHP in your path. Check if you have PHP in your path by doing the following:
 ```
