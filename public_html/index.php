@@ -749,6 +749,18 @@
                           <img src="/images/sponsor-gel-studios.jpg" alt="GEL Studios">
                       </a>
                   </div>
+
+                  <div class="col-xs-6 col-md-3 text-center">
+                      <a href="https://modstore.pro" target="_blank">
+                          <img src="/images/sponsor-modstore.png" alt="MODSTORE.pro">
+                      </a>
+                  </div>
+
+                  <div class="col-xs-6 col-md-3 text-center">
+                      <a href="https://modhost.pro" target="_blank">
+                          <img src="/images/sponsor-modhost.png" alt="MODHOST.pro">
+                      </a>
+                  </div>
               </div>
             </div>
           </div>
