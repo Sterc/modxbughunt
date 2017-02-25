@@ -709,6 +709,7 @@
             <div class="col-md-6 col-md-offset-3 text-center">
               <h2 class="title text-theme-colored">Sponsors</h2>
                 <p>The MODX Bug Hunt wouldn't be possible without these amazing sponsors!</p>
+                <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
             </div>
           </div>
         </div>
@@ -716,11 +717,17 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <div class="row sponsors-style2 pt-30 pb-20">
-                <div class="col-xs-6 col-md-3 text-center">
+                <div class="col-xs-12 col-md-6 text-center">
                   <a href="https://www.sterc.nl/en/" target="_blank">
                     <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
                   </a>
                 </div>
+
+                  <div class="col-xs-12 col-md-6 text-center">
+                      <a href="https://www.linqhost.nl" target="_blank">
+                          <img src="/images/sponsor-linqhost.png" alt="Linqhost">
+                      </a>
+                  </div>
 
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://seda.digital/" target="_blank"><img src="/images/sponsor-seda-digital.png" alt="SEDA.digital"></a>
@@ -728,15 +735,16 @@
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://modmore.com" target="_blank"><img src="/images/sponsor-modmore.png" alt="modmore"></a>
                 </div>
+
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://greyskymedia.com/" target="_blank"><img src="/images/sponsor-greysky.png" alt="Grey Sky Media"></a>
                 </div>
 
-                <div class="col-xs-6 col-md-3 text-center">
-                    <a href="https://www.stickermule.com/" target="_blank">
-                        <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
-                    </a>
-                </div>
+                  <div class="col-xs-6 col-md-3 text-center">
+                      <a href="https://www.heibelschoppen.nl" target="_blank">
+                          <img src="/images/sponsor-heibel.png" alt="Heibel">
+                      </a>
+                  </div>
 
                   <div class="col-xs-6 col-md-3 text-center">
                       <a href="https://www.modx.com" target="_blank">
@@ -759,6 +767,12 @@
                   <div class="col-xs-6 col-md-3 text-center">
                       <a href="https://modhost.pro" target="_blank">
                           <img src="/images/sponsor-modhost.png" alt="MODHOST.pro">
+                      </a>
+                  </div>
+
+                  <div class="col-xs-6 col-md-3 text-center">
+                      <a href="https://www.stickermule.com/" target="_blank">
+                          <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
                       </a>
                   </div>
               </div>
