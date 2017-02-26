@@ -719,6 +719,16 @@
                       </a>
                   </div>
 
+                  <div class="col-xs-12 col-md-6 text-center">
+                      <a href="https://www.digitalocean.com/" target="_blank">
+                          <img src="/images/sponsor-digitalocean.png" alt="DigitalOcean">
+                      </a>
+                  </div>
+
+                  <div class="col-xs-12 col-md-6 text-center">
+                      &nbsp;
+                  </div>
+
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://seda.digital/" target="_blank"><img src="/images/sponsor-seda-digital.png" alt="SEDA.digital"></a>
                 </div>
