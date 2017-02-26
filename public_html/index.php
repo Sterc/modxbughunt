@@ -697,8 +697,8 @@
         <div class="section-title">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
-              <h2 class="title text-theme-colored">Sponsors</h2>
-                <p>The MODX Bug Hunt wouldn't be possible without these amazing sponsors!</p>
+              <h2 class="title text-theme-colored">Premium Sponsors</h2>
+                <p>The MODX Bug Hunt wouldn't be possible without all amazing sponsors!</p>
                 <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
             </div>
           </div>
@@ -725,6 +725,13 @@
                         </a>
                     </div>
               </div>
+            </div>
+          </div>
+        </div>
+        <div class="section-title">
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3 text-center">
+              <h2 class="title text-theme-colored">Sponsors</h2>
             </div>
           </div>
         </div>
