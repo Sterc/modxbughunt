@@ -537,7 +537,8 @@
                             <h2 class="title text-white mb-0">Join us!</h2>
                             <p>Want to join us in our glorious efforts to squash MODX bugs? You can! <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Please visit our meetup.com page</a> to participate.</p>
                             <p>Want to get involved in organising the event? Want to join us at our HQ? Or want to livestream from your own office? <a href="mailto:modx@sterc.nl">Just contact the organisers</a>.</p>
-                            <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt">Join the MODX Bug Hunt on Meetup.com</a>
+                            <br /><br />
+                            <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt" style="text-decoration: none;">Join the MODX Bug Hunt on Meetup.com</a>
                         </div>
                     </div>
                 </div>
@@ -549,12 +550,19 @@
     <section id="speaker">
       <div class="bg-white-light">
         <div class="container pt-80 pb-50">
+            <div class="section-title">
+              <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                  <h2 class="title text-theme-colored">Liveshow</h2>
+                    <p>The MODX Bug Hunt will have live coverage all day. Our hosts below will cover the Bug Hunt throughout the day.</p>
+                </div>
+              </div>
+            </div>
           <div class="section-content">
             <div class="row multi-row-clearfix">
 
                 <div class="col-xs-12 col-sm-6 col-md-3 mb-30 text-center">
-                    <h2 class="title text-white mb-0">Liveshow</h2>
-                    <p>The MODX Bug Hunt will have live coverage all day. Our hosts below will cover the Bug Hunt throughout the day.</p>
+                    &nbsp;
                 </div>
 
                 <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
