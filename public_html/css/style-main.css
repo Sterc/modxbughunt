@@ -1637,7 +1637,7 @@ section > .container-fluid {
 .divider.parallax.layer-overlay.overlay-darkblue h2,
 .divider.parallax.layer-overlay.overlay-darkblue p,
 .divider.parallax.layer-overlay.overlay-darkblue a {
-  color: #53a0d6 !important;
+  color: #fff !important;
 }
 .divider.parallax.layer-overlay.overlay-darkblue a {
   text-decoration: underline;
