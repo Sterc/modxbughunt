@@ -707,28 +707,31 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <div class="row sponsors-style2 pt-30 pb-20">
-                <div class="col-xs-12 col-md-6 text-center">
-                  <a href="https://www.sterc.nl/en/" target="_blank">
-                    <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
-                  </a>
-                </div>
-
                   <div class="col-xs-12 col-md-6 text-center">
-                      <a href="https://www.linqhost.nl" target="_blank">
-                          <img src="/images/sponsor-linqhost.png" alt="Linqhost">
-                      </a>
+                    <a href="https://www.sterc.nl/en/" target="_blank">
+                      <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
+                    </a>
                   </div>
 
-                  <div class="col-xs-12 col-md-6 text-center">
-                      <a href="https://www.digitalocean.com/" target="_blank">
-                          <img src="/images/sponsor-digitalocean.png" alt="DigitalOcean">
-                      </a>
-                  </div>
+                    <div class="col-xs-12 col-md-6 text-center">
+                        <a href="https://www.linqhost.nl" target="_blank">
+                            <img src="/images/sponsor-linqhost.png" alt="Linqhost">
+                        </a>
+                    </div>
 
-                  <div class="col-xs-12 col-md-6 text-center">
-                      &nbsp;
-                  </div>
-
+                    <div class="col-xs-12 col-md-6 text-center">
+                        <a href="https://www.digitalocean.com/" target="_blank">
+                            <img src="/images/sponsor-digitalocean.png" alt="DigitalOcean">
+                        </a>
+                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+              <div class="row sponsors-style2 pt-30 pb-20">
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://seda.digital/" target="_blank"><img src="/images/sponsor-seda-digital.png" alt="SEDA.digital"></a>
                 </div>
