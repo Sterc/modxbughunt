@@ -555,6 +555,7 @@
                 <div class="col-md-6 col-md-offset-3 text-center">
                   <h2 class="title text-theme-colored">Liveshow</h2>
                     <p>The MODX Bug Hunt will have live coverage all day. Our hosts below will cover the Bug Hunt throughout the day.</p>
+                    <br /><br />
                 </div>
               </div>
             </div>
