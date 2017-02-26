@@ -534,7 +534,7 @@
                 <div class="section-title">
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3 text-center">
-                            <h2 class="title text-white mb-0">Join us!</h2>
+                            <h2 class="title text-white mb-0">Join us</h2>
                             <p>Want to join us in our glorious efforts to squash MODX bugs? You can! <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Please visit our meetup.com page</a> to participate.</p>
                             <p>Want to get involved in organising the event? Want to join us at our HQ? Or want to livestream from your own office? <a href="mailto:modx@sterc.nl">Just contact the organisers</a>.</p>
                             <br /><br />
@@ -549,7 +549,7 @@
     <!-- Section: Speaker -->
     <section id="speaker">
       <div class="bg-white-light">
-        <div class="container pt-80 pb-50">
+        <div class="container pt-60 pb-50">
             <div class="section-title">
               <div class="row">
                 <div class="col-md-6 col-md-offset-3 text-center">
@@ -607,7 +607,7 @@
         <div class="section-title mb-30">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
-              <h2 class="title text-theme-colored">Subscribe to our newsletter!</h2>
+              <h2 class="title text-theme-colored">Subscribe to our newsletter</h2>
               <p>Stay updated about the MODX Bug Hunt and get all the news facts first! We'll only use this newsletter for MODX Bug hunts and related MODX events.</p>
             </div>
           </div>
@@ -793,8 +793,8 @@
             <div class="col-md-6 col-md-offset-3 text-center">
               <h2 class="title text-theme-colored">Become a sponsor</h2>
                 <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
-                <br /><br />
-                <a href="mailto:johan@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
+                <br />
+                <a href="mailto:modx@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
             </div>
           </div>
         </div>
