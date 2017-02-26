@@ -23,63 +23,63 @@ This file contains the common styles of this theme.
 /*------------------------------------------------------------------
 [Table of contents]
 
-		* Typography.less
-		* Common.less
-		* Extra.less
-		* Header.less
-		* Nav.less
-		* Inner-Header-Title.less
-		* Vertical-Nav.less
-		* Boxed-layout.less
-		* Form.less
-		* Side-Push-Panel.less
-		* Box-Hover-Effect.less
-		* Portfolio-Gallery.less
-		* Slider.less
-		* Home.less
-		* About.less
-		* Contact.less
-		* Event.less
-		* Practice-Area.less
-		* Services.less
-		* Job.less
-		* Shop.less
-		* Blog.less
-		* Shortcode.less 
-			* Alerts.less
-			* Buttons.less
-			* Blockquote.less
-			* Clients.less
-			* Countdown.less
-			* Countdown-Timer.less
-			* Dividers.less
-			* Facebook-Disqus-Comments.less
-			* Faqs.less
-			* Flexslider.less
-			* Flip-Box.less
-			* Font-Icons-Style.less
-			* Funfacts.less
-			* Icon-Boxes.less
-			* Infinitescroll.less
-			* Instagram.less
-			* Light-Box.less
-			* Map.less
-			* Pegination.less
-			* Pricing.less
-			* Process-Steps.less
-			* Progress-Bar.less
-			* Promo.less
-			* Section-Title.less
-			* Separators.less
-			* Social-Icons.less
-			* Tabs.less
-			* Teams.less
-			* Testimonials.less
-			* Toggles-Accordions.less
-			* Vertical-Timeline.less
-			* Working-Process.less
-			* Widgets.less
-	* Footer
+        * Typography.less
+        * Common.less
+        * Extra.less
+        * Header.less
+        * Nav.less
+        * Inner-Header-Title.less
+        * Vertical-Nav.less
+        * Boxed-layout.less
+        * Form.less
+        * Side-Push-Panel.less
+        * Box-Hover-Effect.less
+        * Portfolio-Gallery.less
+        * Slider.less
+        * Home.less
+        * About.less
+        * Contact.less
+        * Event.less
+        * Practice-Area.less
+        * Services.less
+        * Job.less
+        * Shop.less
+        * Blog.less
+        * Shortcode.less
+            * Alerts.less
+            * Buttons.less
+            * Blockquote.less
+            * Clients.less
+            * Countdown.less
+            * Countdown-Timer.less
+            * Dividers.less
+            * Facebook-Disqus-Comments.less
+            * Faqs.less
+            * Flexslider.less
+            * Flip-Box.less
+            * Font-Icons-Style.less
+            * Funfacts.less
+            * Icon-Boxes.less
+            * Infinitescroll.less
+            * Instagram.less
+            * Light-Box.less
+            * Map.less
+            * Pegination.less
+            * Pricing.less
+            * Process-Steps.less
+            * Progress-Bar.less
+            * Promo.less
+            * Section-Title.less
+            * Separators.less
+            * Social-Icons.less
+            * Tabs.less
+            * Teams.less
+            * Testimonials.less
+            * Toggles-Accordions.less
+            * Vertical-Timeline.less
+            * Working-Process.less
+            * Widgets.less
+    * Footer
 * ===============================================
 */
 /* old
@@ -1501,8 +1501,8 @@ section > .container-fluid {
     min-height: auto !important;
   }
 }
-/*  
- * Extra.less 
+/*
+ * Extra.less
  * -----------------------------------------------
 */
 /* -------- Heading Style ---------- */
@@ -6155,7 +6155,6 @@ blockquote p {
 }
 .section-title p {
   font-size: 15px;
-  font-style: italic;
   margin-top: 5px;
   padding-top: 10px;
   font-weight: 400;

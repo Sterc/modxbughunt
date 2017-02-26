@@ -698,7 +698,7 @@
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
               <h2 class="title text-theme-colored">Premium Sponsors</h2>
-                <p>The MODX Bug Hunt wouldn't be possible without all amazing sponsors!</p>
+                <p>The MODX Bug Hunt wouldn't be possible without all these amazing sponsors!</p>
             </div>
           </div>
         </div>
@@ -793,6 +793,7 @@
             <div class="col-md-6 col-md-offset-3 text-center">
               <h2 class="title text-theme-colored">Become a sponsor</h2>
                 <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
+                <br /><br />
                 <a href="mailto:johan@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
             </div>
           </div>
