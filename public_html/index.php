@@ -285,7 +285,8 @@
               <ul>
                   <li>That amazing feeling of being part of the MODX community.</li>
                   <li>Prizes! Yes, besides getting major thanks from the whole community, you can also win prizes for fixing bugs.</li>
-                  <li>Live stream from the Sterc offices, where you are also invited to! Please join us at our offices or join with your own stream.</li>
+                  <li>Live stream from the Sterc office</li>
+                  <li>You can join us at Sterc HQ (in the Netherlands) or work remotely from your own office or home</li>
                   <li>Scoreboard on modxbughunt.com</li>
                   <li>Unique badges, to be awarded after the hunt. Who doesn't want to be called the "Evasion ninja" for closing the most issues which can't be reproduced.</li>
               </ul>
