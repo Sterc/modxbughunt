@@ -317,6 +317,8 @@
       </div>
     </section>
 
+    <!-- Section: Prizes -->
+
     <!-- Section: Schedule -->
   <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
     <div class="container pt-50 pb-50">
@@ -718,6 +720,11 @@
                         </a>
                     </div>
 
+                  <div class="col-xs-12 col-md-6 text-center">
+                      <a href="https://seda.digital/" target="_blank">
+                          <img src="/images/sponsor-seda-digital2.png" alt="SEDA.digital"></a>
+                  </div>
+
                     <div class="col-xs-12 col-md-6 text-center">
                         <a href="https://www.digitalocean.com/" target="_blank">
                             <img src="/images/sponsor-digitalocean.png" alt="DigitalOcean">
@@ -738,9 +745,6 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <div class="row sponsors-style2 pt-30 pb-20">
-                <div class="col-xs-6 col-md-3 text-center">
-                  <a href="https://seda.digital/" target="_blank"><img src="/images/sponsor-seda-digital.png" alt="SEDA.digital"></a>
-                </div>
                 <div class="col-xs-6 col-md-3 text-center">
                   <a href="https://modmore.com" target="_blank"><img src="/images/sponsor-modmore.png" alt="modmore"></a>
                 </div>
