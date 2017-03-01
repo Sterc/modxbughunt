@@ -557,7 +557,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Hunting!</h5>
-                                    <span>Evening hunt. A 3 hour hunting session where we close as many issues as possible. Time to raise in the ranks? Put everything you have in this! We'll start reviewing all the points after this session. Only contributions added before 21:00 will be counted. Rest assured, we will announce the approaching deadline.</span>
+                                    <span>Evening hunt. A 3 hour hunting session where we close as many issues as possible. Last opportunity to raise in the ranks! Put everything you have in this!<br><br>We'll start reviewing all the points after this session. Only contributions added before 21:00 will be counted. Rest assured, we will announce the approaching deadline.</span>
                                 </div>
                             </div>
 
@@ -603,7 +603,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Celebrate</h5>
-                                    <span>Celebrate the results of the Bug Hunt with your friends & coworkers.</p><p>We know a lot of diehard MODX community members who won't let themselves stop by a schedule. Therefore the Bug Hunt will naturally continue after the event, without prizes though, but with an amazing community!</span>
+                                    <span>Celebrate the results of the Bug Hunt with your friends & coworkers. <br><br>We know a lot of diehard MODX community members who won't let themselves stop by a schedule. Therefore the Bug Hunt will naturally continue after the event, without prizes though, but with an amazing community!<br><br>The people at the Sterc office are invited to join us for a drink in the local pub.</span>
                                 </div>
                             </div>
 
