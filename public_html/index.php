@@ -383,6 +383,11 @@
               <ul>
                   <li>MODX Cloud Pro package</li>
               </ul>
+              <h4>Issue hustler</h4>
+              <p>Person who created the most issues during the MODX Bug Hunt. Trying to sell us a new bug hunt?</p>
+              <ul>
+                  <li>Commerce license by modmore</li>
+              </ul>
               <br><br>
           </div>
       </div>
