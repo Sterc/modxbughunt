@@ -67,6 +67,7 @@
             <ul class="menuzord-menu">
               <li class="active"><a href="#home">Home</a></li>
               <li><a href="#about">about</a></li>
+                <li><a href="#prizes">Prizes</a></li>
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#join">Join us</a></li>
               <li><a href="#speaker">Liveshow</a></li>
@@ -319,6 +320,73 @@
     </section>
 
     <!-- Section: Prizes -->
+<section id="prizes">
+      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
+          <div class="container pt-50 pb-50">
+              <div class="section-title">
+                  <section id="schedule">
+                      <div class="row">
+                          <div class="col-md-6 col-md-offset-3 text-center">
+                              <h2 class="title text-white mb-0">Prizes</h2>
+                              <p>Made possible by our wonderful <a href="#sponsors">sponsors</a>.</p>
+                          </div>
+                      </div>
+                  </section>
+              </div>
+          </div>
+      </div>
+      <div class="row modx-prizes">
+          <br><br>
+          <div class="col-xs-12 col-md-4 col-md-offset-2">
+              <h2>MODX Grandmaster</h2>
+              <p>First prize. Person who earned the most points.</p>
+              <ul>
+                  <li>Bounty of € 500,-</li>
+                  <li>DigitalOcean $ 500,- credit</li>
+                  <li>Modmore license of your choice (excluding commerce)</li>
+              </ul>
+              <h2>MODX Master</h2>
+              <p>Second price. Person who earned the second most points.</p>
+              <ul>
+                  <li>Bounty of € 300,-</li>
+                  <li>DigitalOcean $ 250,- credit</li>
+                  <li>Modmore license of your choice (excluding commerce)</li>
+              </ul>
+              <h2>MODX Expert</h2>
+              <p>Third price. Person who earned the third most points.</p>
+              <ul>
+                  <li>Bounty of € 200,-</li>
+                  <li>DigitalOcean $ 125,- credit</li>
+                  <li>Modmore license of your choice (excluding commerce)</li>
+              </ul>
+          </div>
+          <div class="col-xs-12 col-md-4">
+              <h2>Other prizes</h2>
+              <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
+              <h4>Keeper of the Hunt</h4>
+              <p>Person who was involved in most Pull Requests.</p>
+              <ul>
+                  <li>Bounty of € 250,-</li>
+              </ul>
+              <h4>Pull master</h4>
+              <p>Person who was involved in most Pull Requests.</p>
+              <ul>
+                  <li>Bounty of € 250,-</li>
+              </ul>
+              <h4>Evasion Ninja</h4>
+              <p>Closed the most issues which can't be reproduced.</p>
+              <ul>
+                  <li>Bounty of € 125,-</li>
+              </ul>
+              <h4>Rookie of the Hunt</h4>
+              <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice. A MODX Cloud Pro package will really help you here!</p>
+              <ul>
+                  <li>MODX Cloud Pro package</li>
+              </ul>
+              <br><br>
+          </div>
+      </div>
+</section>
 
     <!-- Section: Schedule -->
   <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">

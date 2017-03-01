@@ -9,7 +9,7 @@ theme. But don't modify style-main.css file.
 
 /* Your custom css codes start here: */
 
-#about ul {
+#about ul, .modx-prizes div ul {
     list-style: disc;
     margin: 0 0 0 22px;
 }
