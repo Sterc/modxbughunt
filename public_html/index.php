@@ -386,6 +386,20 @@
               <br><br>
           </div>
       </div>
+    <div class="col-xs-12 col-md-4 col-md-offset-4">
+        <br><br>
+        <h2>How are points awarded?</h2>
+        <p>To keep things easy we decided on the following points system:</p>
+        <ul>
+            <li>Developing a fix: 3 points</li>
+            <li>Testing a fix: 1 point</li>
+            <li>Testing if an issue is correct: 1 point</li>
+        </ul>
+        <h2>Use the tag #modxbughunt</h2>
+        <p>In order to have your issues/PR's/Comments points counted, use the <strong>#modxbughunt tag</strong> in your text. Github allows us to search through everything with that tab.</p>
+        <p>Check all issues with the #modxbughunt tag <a href="https://github.com/modxcms/revolution/issues?utf8=%E2%9C%93&q=%23modxbughunt%20" target="_blank">on Github</a>.</p>
+        <br><br>
+    </div>
 </section>
 
     <!-- Section: Schedule -->
