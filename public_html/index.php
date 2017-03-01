@@ -442,14 +442,14 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Welcome</h5>
-                                    <span>The Sterc team will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
                                 </div>
                             </div>
 
                             <div class="col-sm-4 pl-0 pl-sm-15 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
-                                        <li><i class="fa fa-clock-o"></i> 09:00 - 09:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
+                                        <li><i class="fa fa-clock-o"></i> 09:00 - 09:15 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
                                         <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
@@ -465,14 +465,14 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Hunting!</h5>
-                                    <span>A 3 hour hunting session where we close as many issues as possible.</span>
+                                    <span>Morning hunt. A 4 hour hunting session where we close as many issues as possible.</span>
                                 </div>
                             </div>
 
                             <div class="col-sm-4 pl-0 pl-sm-15 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
-                                        <li><i class="fa fa-clock-o"></i> 09:30 - 12:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
+                                        <li><i class="fa fa-clock-o"></i> 09:00 - 12:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
                                         <li><i class="fa fa-thumb-tack"></i> <a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></li>
                                     </ul>
                                 </div>
@@ -488,14 +488,14 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Status report</h5>
-                                    <span>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will present a short status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
                                 </div>
                             </div>
 
                             <div class="col-sm-4 pl-0 pl-sm-15 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
-                                        <li><i class="fa fa-clock-o"></i> 13:00 - 13:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
+                                        <li><i class="fa fa-clock-o"></i> 13:00 - 13:15 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
                                         <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
@@ -511,14 +511,14 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Hunting!</h5>
-                                    <span>A 3 hour hunting session where we close as many issues as possible.</span>
+                                    <span>Afternoon hunting! A 4 hour hunting session where we close as many issues as possible.</span>
                                 </div>
                             </div>
 
                             <div class="col-sm-4 pl-0 pl-sm-15 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
-                                        <li><i class="fa fa-clock-o"></i> 13:30 - 16:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
+                                        <li><i class="fa fa-clock-o"></i> 13:00 - 17:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
                                         <li><i class="fa fa-thumb-tack"></i> <a href="https://github.com/modxcms/revolution/issues/" target="_blank">Github</a> + <a href="https://modx.org" target="_blank">Slack (#modxbughunt)</a></li>
                                     </ul>
                                 </div>
@@ -534,14 +534,14 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Status report</h5>
-                                    <span>The Sterc team will present a 30 minute status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will present a short status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
                                 </div>
                             </div>
 
                             <div class="col-sm-4 pl-0 pl-sm-15 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
-                                        <li><i class="fa fa-clock-o"></i> 17:00 - 17:30 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
+                                        <li><i class="fa fa-clock-o"></i> 17:00 - 17:15 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
                                         <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
@@ -557,7 +557,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Hunting!</h5>
-                                    <span>A 3 hour hunting session where we close as many issues as possible.</span>
+                                    <span>Evening hunt. A 3 hour hunting session where we close as many issues as possible. Time to raise in the ranks? Put everything you have in this! We'll start reviewing all the points after this session. Only contributions added before 21:00 will be counted. Rest assured, we will announce the approaching deadline.</span>
                                 </div>
                             </div>
 
@@ -580,7 +580,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Closing ceremony</h5>
-                                    <span>The Sterc team will hold a closing ceremony, a review of the rankings, the bugs we fixed and last but not least: the prizes are being awarded!</span>
+                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) hold a closing ceremony, a review of the rankings, the bugs we fixed and last but not least: the prizes are being awarded!</span>
                                 </div>
                             </div>
 
