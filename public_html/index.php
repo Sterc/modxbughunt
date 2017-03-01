@@ -263,7 +263,7 @@
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Requirements</h4>
-                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://docs.modx.com/community/contribute/using-git-and-github/community-contributors-guide" target="_blank">MODX contributers guide</a>.</h6>
+                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://github.com/sterc/modxbughunt" target="_blank">MODX Bug Hunt guide</a>.</h6>
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
@@ -343,24 +343,31 @@
               <ul>
                   <li>Bounty of € 500,-</li>
                   <li>DigitalOcean $ 500,- credit</li>
-                  <li>Modmore license of your choice (excluding commerce)</li>
+                  <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
               <h2>MODX Master</h2>
               <p>Second price. Person who earned the second most points.</p>
               <ul>
                   <li>Bounty of € 300,-</li>
                   <li>DigitalOcean $ 250,- credit</li>
-                  <li>Modmore license of your choice (excluding commerce)</li>
+                  <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
               <h2>MODX Expert</h2>
               <p>Third price. Person who earned the third most points.</p>
               <ul>
                   <li>Bounty of € 200,-</li>
                   <li>DigitalOcean $ 125,- credit</li>
-                  <li>Modmore license of your choice (excluding commerce)</li>
+                  <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
           </div>
           <div class="col-xs-12 col-md-4">
+              <h2>Everybody wins a prize!</h2>
+              <e>Everybody wins a prize thanks to <a href="https://modstore.pro" target="_blank">MODSTORE.pro</a> (in English soon) and <a href="https://modhost.pro" target="_blank">MODHOST.pro</a>. Every participant registered on the <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Meetup.com event page</a> gets the following:</p>
+              <ul>
+                  <li>A one year Development-plan from <a href="https://modhost.pro/tariffs" target="_blank">MODHOST</a></li>
+                  <li>Free access to one of the Top-3 extras on <a href="https://modstore.pro/" target="_blank">MODSTORE</a> (mSearch2, Office or ms2Gallery)</li>
+              </ul>
+              <p><br>These prizes will also be awarded afterwards by email.</p>
               <h2>Other prizes</h2>
               <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
               <h4>Keeper of the Hunt</h4>
@@ -386,7 +393,7 @@
               <h4>Issue hustler</h4>
               <p>Person who created the most issues during the MODX Bug Hunt. Trying to sell us a new bug hunt?</p>
               <ul>
-                  <li>Commerce license by modmore</li>
+                  <li><a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a> license by modmore</li>
               </ul>
               <br><br>
           </div>
