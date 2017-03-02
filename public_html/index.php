@@ -884,6 +884,12 @@
                           <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
                       </a>
                   </div>
+
+                  <div class="col-xs-6 col-md-3 text-center">
+                      <a href="https://www.jetbrains.com" target="_blank">
+                          <img src="/images/sponsor-jetbrains.png" alt="Jetbrains">
+                      </a>
+                  </div>
               </div>
             </div>
           </div>
