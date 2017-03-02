@@ -371,7 +371,7 @@
               <h2>Other prizes</h2>
               <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
               <h4>Keeper of the Hunt</h4>
-              <p>Person who was involved in most Pull Requests.</p>
+              <p>Person who was the most helpful to others during the day.</p>
               <ul>
                   <li>Bounty of € 250,-</li>
               </ul>
