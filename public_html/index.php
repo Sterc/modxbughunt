@@ -346,14 +346,14 @@
                   <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
               <h2>MODX Master</h2>
-              <p>Second price. Person who earned the second most points.</p>
+              <p>Second prize. Person who earned the second most points.</p>
               <ul>
                   <li>Bounty of € 300,-</li>
                   <li>DigitalOcean $ 250,- credit</li>
                   <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
               <h2>MODX Expert</h2>
-              <p>Third price. Person who earned the third most points.</p>
+              <p>Third prize. Person who earned the third most points.</p>
               <ul>
                   <li>Bounty of € 200,-</li>
                   <li>DigitalOcean $ 125,- credit</li>
