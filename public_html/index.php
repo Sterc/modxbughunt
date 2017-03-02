@@ -442,7 +442,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Welcome</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
                                 </div>
                             </div>
 
@@ -534,7 +534,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Status report</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will present a short status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will present a short status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
                                 </div>
                             </div>
 
@@ -659,11 +659,7 @@
           <div class="section-content">
             <div class="row multi-row-clearfix">
 
-                <div class="col-xs-12 col-sm-6 col-md-3 mb-30 text-center">
-                    &nbsp;
-                </div>
-
-                <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
+                <div class="col-xs-12 col-sm-6 col-md-3 mb-30 col-md-offset-2">
                     <div class="team-member clearfix">
                         <div class="team-thumb">
                             <img alt="Gauke Pieter Sietzema" src="/images/team/gp.jpg" class="img-fullwidth"></div>
@@ -692,6 +688,20 @@
                   </div>
                 </div>
               </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
+                <div class="team-member clearfix">
+                    <div class="team-thumb">
+                        <img alt="Ivo Pakvis" src="/images/ivo-pakvis.jpg" class="img-fullwidth"></div>
+                    <div class="overlay">
+                        <div class="content text-center">
+                            <h4 class="author mb-0">
+                                <a href="https://github.com/sterc" target="_blank">Ivo<br/> Pakvis</a>
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             </div>
         </div>
