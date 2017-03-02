@@ -465,7 +465,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Hunting!</h5>
-                                    <span>Morning hunt. A 4 hour hunting session where we close as many issues as possible.</span>
+                                    <span>Morning hunt. A 3 hour hunting session where we close as many issues as possible.</span>
                                 </div>
                             </div>
 
