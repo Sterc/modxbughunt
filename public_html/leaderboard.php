@@ -281,7 +281,7 @@
                         Uko van der Meulen - chief leaderboard ;-) Questions: uko@sterc.nl
                     </td>
                     <td>
-                        Updated leaderboard: 31 times<br />
+                        Updated leaderboard: 42 times!<br />
                     </td>
                     <td>
                         1
