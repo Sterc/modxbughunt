@@ -637,7 +637,7 @@
                         Testing if an issue is correct: 4 times
                     </td>
                     <td>
-                        13
+                        16
                     </td>
                 </tr>
                 <tr>
