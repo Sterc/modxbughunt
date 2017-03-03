@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: ? [Local time: 14:29 CET] </h3>
+            <h3>Total issues fixed/closed: ? [Local time: 14:42 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -779,6 +779,22 @@
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        1
+                    </td>
+                </tr>
+                    <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Henk Evert
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
                         1
