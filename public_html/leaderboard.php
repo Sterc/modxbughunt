@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: ? [Local time: 15:14 CET] </h3>
+            <h3>Total issues fixed/closed: 60 [Local time: 15:28 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -281,7 +281,7 @@
                         Uko van der Meulen - chief leaderboard ;-) Questions: uko@sterc.nl
                     </td>
                     <td>
-                        Updated leaderboard: 16 times<br />
+                        Updated leaderboard: 26 times<br />
                     </td>
                     <td>
                         1
