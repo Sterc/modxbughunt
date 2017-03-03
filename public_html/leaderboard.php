@@ -738,7 +738,22 @@
                         0
                     </td>
                 </tr>
-                
+                  <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Modxbot
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
             </tbody>
         </table>
         <h1 class="text-center">Premium Sponsors</h1>
