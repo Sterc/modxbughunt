@@ -187,10 +187,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 2 times
                     </td>
                     <td>
-                        1
+                        2
                     </td>
                 </tr>
                 <tr>
@@ -768,6 +768,22 @@
                     </td>
                     <td>
                         6
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Lefthandmedia
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        1
                     </td>
                 </tr>
             </tbody>
