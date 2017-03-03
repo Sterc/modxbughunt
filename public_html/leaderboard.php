@@ -278,15 +278,13 @@
                         14
                     </td>
                     <td>
-                        Want to be added to this list? Send an email to uko@sterc.nl 
+                        Uko van der Meulen - chief leaderboard ;-)
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
-                        Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Updated leaderboard: 14 times<br />
                     </td>
                     <td>
-                        0
+                        1
                     </td>
                 </tr>
                 <tr>
