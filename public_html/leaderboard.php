@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed: 0</h3>
+            <h3>Total issues fixed: 1</h3>
         </div>
 
         <table class="table table-striped">
@@ -74,11 +74,11 @@
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
-                        Testing a fix: 0 times<br />
+                        Testing a fix: 1 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        1
                     </td>
                 </tr>
                 <tr>
@@ -134,7 +134,7 @@
                         5
                     </td>
                     <td>
-                        John Doe
+                        Ben Davis [sonicpunk]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -150,7 +150,7 @@
                         6
                     </td>
                     <td>
-                        John Doe
+                        Jesse Visser [Flowan]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -166,7 +166,7 @@
                         7
                     </td>
                     <td>
-                        John Doe
+                        Oetzie [Oetzie]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -182,7 +182,7 @@
                         8
                     </td>
                     <td>
-                        John Doe
+                        Rinze van der Brug [rinzevandenbrug]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -198,7 +198,7 @@
                         9
                     </td>
                     <td>
-                        John Doe
+                        Andre van der Meulen [andresterc]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -214,7 +214,7 @@
                         10
                     </td>
                     <td>
-                        John Doe
+                        Want your name on this list? Ask uko@sterc.nl 
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
