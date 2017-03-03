@@ -73,12 +73,12 @@
                         Sytske Haagsma  - [syts88]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 1 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        1
+                        2
                     </td>
                 </tr>
                 <tr>
@@ -89,12 +89,12 @@
                         Johan van der Molen [pixelive]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        1
                     </td>
                 </tr>
                 <tr>
@@ -214,7 +214,7 @@
                         10
                     </td>
                     <td>
-                        Want your name on this list? Ask uko@sterc.nl 
+                        Jens Külzer [wuuti]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -230,7 +230,7 @@
                         11
                     </td>
                     <td>
-                        John Doe
+                        Christian Seel [christianseel]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -246,15 +246,15 @@
                         12
                     </td>
                     <td>
-                        John Doe
+                        Hugo Peek [hugopeek]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -262,15 +262,15 @@
                         13
                     </td>
                     <td>
-                        John Doe
+                        [labr1005]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        1
                     </td>
                 </tr>
                 <tr>
@@ -278,7 +278,7 @@
                         14
                     </td>
                     <td>
-                        John Doe
+                        Want to be added to this list? Send an email to uko@sterc.nl 
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
