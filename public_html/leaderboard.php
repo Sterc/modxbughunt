@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 7</h3>
+            <h3>Total issues fixed/closed: :) </h3>
         </div>
 
         <table class="table table-striped">
