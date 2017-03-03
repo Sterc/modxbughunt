@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 39 [Local time: 13:44 CET] </h3>
+            <h3>Total issues fixed/closed: ? [Local time: 14:16 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -75,10 +75,10 @@
                     <td>
                         Developing a fix: 1 times<br />
                         Testing a fix: 1 times<br />
-                        Testing if an issue is correct: 2 times
+                        Testing if an issue is correct: 3 times
                     </td>
                     <td>
-                        6
+                        7
                     </td>
                 </tr>
                 <tr>
@@ -91,10 +91,10 @@
                     <td>
                         Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        3
+                        4
                     </td>
                 </tr>
                 <tr>
@@ -540,10 +540,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        0
+                        1
                     </td>
                 </tr>
                      <tr>
@@ -636,10 +636,10 @@
                     <td>
                         Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 4 times
                     </td>
                     <td>
-                        6
+                        10
                     </td>
                 </tr>
                 <tr>
@@ -716,10 +716,10 @@
                     <td>
                         Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        3
+                        4
                     </td>
                 </tr>
                   <tr>
