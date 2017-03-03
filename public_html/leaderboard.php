@@ -530,6 +530,214 @@
                         0
                     </td>
                 </tr>
+                   <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                        Mark Hamstra
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                     <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                        Mat Jones
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                        Menno Pietersen
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                       Mike Reid
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                      Mike Schell
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                      Patrick Percy Blank (pepebe)
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                      Peter Bowyer
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                      Rico P (goldsky)
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                      Ryan Thrash
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                 <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                      Thomas Gautvedt
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                    <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Thomas Jakobi
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                  <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Joeke Kloosterman [joeke]
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
+                  <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Владислав Лысак
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
+                    </td>
+                    <td>
+                        0
+                    </td>
+                </tr>
             </tbody>
         </table>
         <h1 class="text-center">Premium Sponsors</h1>
