@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 74 [Local time: 16:26 CET] </h3>
+            <h3>Total issues fixed/closed: 86 [Local time: 16:45 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -91,10 +91,10 @@
                     <td>
                         Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 4 times
+                        Testing if an issue is correct: 6 times
                     </td>
                     <td>
-                        7
+                        9
                     </td>
                 </tr>
                 <tr>
@@ -107,10 +107,10 @@
                     <td>
                         Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 2 times
                     </td>
                     <td>
-                        7
+                        8
                     </td>
                 </tr>
                 <tr>
@@ -169,12 +169,12 @@
                         Oetzie [Oetzie]
                     </td>
                     <td>
-                        Developing a fix: 3 times<br />
+                        Developing a fix: 4 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        9
+                        12
                     </td>
                 </tr>
                 <tr>
@@ -634,10 +634,10 @@
                     <td>
                         Developing a fix: 4 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 6 times
+                        Testing if an issue is correct: 9 times
                     </td>
                     <td>
-                        18
+                        21
                     </td>
                 </tr>
                 <tr>
@@ -746,10 +746,10 @@
                     <td>
                         Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 2 times
                     </td>
                     <td>
-                        7
+                        8
                     </td>
                 </tr>
                 <tr>
@@ -811,6 +811,54 @@
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 3 times
+                    </td>
+                    <td>
+                        3
+                    </td>
+                </tr>
+                     <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    OptimusCrime [OptimusCrime]
+                    </td>
+                    <td>
+                        Developing a fix: 1 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 1 times
+                    </td>
+                    <td>
+                        4
+                    </td>
+                </tr>
+                        <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Dannevang [Dannevang]
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 1 times
+                    </td>
+                    <td>
+                        1
+                    </td>
+                </tr>
+                        <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Achterbahn [achterbahn]
+                    </td>
+                    <td>
+                        Developing a fix: 1 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 0 times
                     </td>
                     <td>
                         3
