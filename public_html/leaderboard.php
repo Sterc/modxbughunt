@@ -105,12 +105,12 @@
                         Sander Drenth [sdrenth]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -153,12 +153,12 @@
                         Jesse Visser [Flowan]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -634,12 +634,12 @@
                       Peter Bowyer
                     </td>
                     <td>
-                        Developing a fix: 1 times<br />
+                        Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        3
+                        6
                     </td>
                 </tr>
                 <tr>
@@ -714,12 +714,12 @@
                     Joeke Kloosterman [joeke]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        3
                     </td>
                 </tr>
                   <tr>
