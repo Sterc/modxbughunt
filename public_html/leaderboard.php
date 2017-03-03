@@ -63,7 +63,7 @@
             </thead>
             <tbody>
                 <tr><td>0</td><td>Peter Bowyer - pbowyer</td><td>39</td></tr>
-                <tr><td>0</td><td>Oene Tjeerd - oetzie</td><td>18</td></tr>
+                <tr><td>0</td><td>Oene Tjeerd - oetzie</td><td>19</td></tr>
                 <tr><td>0</td><td>Romain - romain</td><td>18</td></tr>
                 <tr><td>0</td><td>optimuscrime</td><td>17</td></tr>
                 <tr><td>0</td><td>Sytske Haagsma - syts88</td><td>14</td></tr>
