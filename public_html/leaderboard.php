@@ -789,7 +789,7 @@
                         15
                     </td>
                     <td>
-                    Henk Evert
+                    Henk Everts
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
