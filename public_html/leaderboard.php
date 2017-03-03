@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 60 [Local time: 15:28 CET] </h3>
+            <h3>Total issues fixed/closed: 62 [Local time: 15:42 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -105,12 +105,12 @@
                         Sander Drenth [sdrenth]
                     </td>
                     <td>
-                        Developing a fix: 1 times<br />
+                        Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        4
+                        7
                     </td>
                 </tr>
                 <tr>
@@ -281,7 +281,7 @@
                         Uko van der Meulen - chief leaderboard ;-) Questions: uko@sterc.nl
                     </td>
                     <td>
-                        Updated leaderboard: 26 times<br />
+                        Updated leaderboard: 31 times<br />
                     </td>
                     <td>
                         1
@@ -656,22 +656,6 @@
                         0
                     </td>
                 </tr>
-                <tr>
-                    <td>
-                        15
-                    </td>
-                    <td>
-                      Ryan Thrash
-                    </td>
-                    <td>
-                        Developing a fix: 0 times<br />
-                        Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
-                    </td>
-                    <td>
-                        0
-                    </td>
-                </tr>
                  <tr>
                     <td>
                         15
@@ -826,10 +810,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 2 times
                     </td>
                     <td>
-                        1
+                        2
                     </td>
                 </tr>
             </tbody>
