@@ -794,7 +794,7 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Found an super awesome unique bug: 1 time(s)
                     </td>
                     <td>
                         1
