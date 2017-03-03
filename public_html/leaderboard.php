@@ -40,7 +40,7 @@
         <div class="pull-left">
             <h1>Leaderboard</h1>
             <p>The MODX bug hunt leaderboard.</p>
-            <div><a href="http://www.modxbughunt.com" target="_blank">Visit the website </a><span class="text-muted"> or </span><a href="https://www.youtube.com/watch?v=1DnFtVLiaKg&feature=youtu.be" target="_blank"> watch the livestream</a>.</div>
+            <div><a href="http://www.modxbughunt.com" target="_blank">Visit the website </a><span class="text-muted"> or </span><a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank"> watch the livestream</a>.</div>
         </div>
 
         <div class="pull-right">

@@ -443,7 +443,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Welcome</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will welcome everyone to the Bug Hunt through a <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will welcome everyone to the Bug Hunt through a <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
                                 </div>
                             </div>
 
@@ -451,7 +451,7 @@
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
                                         <li><i class="fa fa-clock-o"></i> 09:00 - 09:15 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
-                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
+                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -489,7 +489,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Status report</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will present a short status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc) and Benjamin Davis (SEDA.digital) will present a short status report, streamed live on <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube</a>.</span>
                                 </div>
                             </div>
 
@@ -497,7 +497,7 @@
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
                                         <li><i class="fa fa-clock-o"></i> 13:00 - 13:15 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
-                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
+                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -535,7 +535,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Status report</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will present a short status report, streamed live on <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube</a>.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will present a short status report, streamed live on <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube</a>.</span>
                                 </div>
                             </div>
 
@@ -543,7 +543,7 @@
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
                                         <li><i class="fa fa-clock-o"></i> 17:00 - 17:15 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
-                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
+                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -589,7 +589,7 @@
                                 <div class="cd-content-right p-15">
                                     <ul class="cd-timeline-meta mt-sm-0">
                                         <li><i class="fa fa-clock-o"></i> 21:30 - 22:00 <a href="https://time.is/Amsterdam" target="_blank">CET</a></li>
-                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://youtu.be/1DnFtVLiaKg" target="_blank">YouTube Livestream</a></li>
+                                        <li><i class="fa fa-thumb-tack"></i> <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a></li>
                                     </ul>
                                 </div>
                             </div>
