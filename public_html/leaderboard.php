@@ -626,6 +626,7 @@ rows.sort(function(a, b) {
 });
 for (var i = 0; i < rows.length; i++) {
     $('table > tbody').append(rows[i]);
+    $(rows[i]).find("td:first").text(i + 1);
 }
 </script>
   </body>
