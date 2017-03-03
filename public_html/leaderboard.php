@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: ? [Local time: 14:42 CET] </h3>
+            <h3>Total issues fixed/closed: ? [Local time: 15:14 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -91,10 +91,10 @@
                     <td>
                         Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 3 times
                     </td>
                     <td>
-                        4
+                        6
                     </td>
                 </tr>
                 <tr>
@@ -153,12 +153,12 @@
                         Jesse Visser [Flowan]
                     </td>
                     <td>
-                        Developing a fix: 1 times<br />
+                        Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        3
+                        7
                     </td>
                 </tr>
                 <tr>
@@ -169,12 +169,12 @@
                         Oetzie [Oetzie]
                     </td>
                     <td>
-                        Developing a fix: 1 times<br />
+                        Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        3
+                        6
                     </td>
                 </tr>
                 <tr>
@@ -201,12 +201,12 @@
                         Andre van der Meulen [andresterc]
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -298,10 +298,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 13 times
+                        Testing if an issue is correct: 17 times
                     </td>
                     <td>
-                        13
+                        17
                     </td>
                 </tr>
                 <tr>
@@ -632,12 +632,12 @@
                       Peter Bowyer
                     </td>
                     <td>
-                        Developing a fix: 2 times<br />
+                        Developing a fix: 3 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 4 times
                     </td>
                     <td>
-                        10
+                        13
                     </td>
                 </tr>
                 <tr>
@@ -762,10 +762,10 @@
                     <td>
                         Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        6
+                        7
                     </td>
                 </tr>
                 <tr>
@@ -795,6 +795,38 @@
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
                         Found an super awesome unique bug: 1 time(s)
+                    </td>
+                    <td>
+                        1
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Pien van Dalen [easterpeanut]
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 1 times
+                    </td>
+                    <td>
+                        1
+                    </td>
+                </tr>
+                   <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                    Ryan Trash [rthrash]
+                    </td>
+                    <td>
+                        Developing a fix: 0 times<br />
+                        Testing a fix: 0 times<br />
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
                         1
