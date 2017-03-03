@@ -70,7 +70,7 @@
                         1
                     </td>
                     <td>
-                        John Doe
+                        Sytske Haagsma  - [syts88]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -86,7 +86,7 @@
                         2
                     </td>
                     <td>
-                        John Doe
+                        Johan van der Molen [pixelive]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -102,7 +102,7 @@
                         3
                     </td>
                     <td>
-                        John Doe
+                        Sander Drenth [sdrenth]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
