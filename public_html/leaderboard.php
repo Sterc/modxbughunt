@@ -214,7 +214,7 @@
                         10
                     </td>
                     <td>
-                        Jens Külzer [wuuti]
+                        Jens K&uuml;lzer [wuuti]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -407,7 +407,7 @@
                         15
                     </td>
                     <td>
-                        Jan Dähne
+                        Jan D&auml;hne
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
@@ -617,5 +617,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script type="text/javascript">
+var rows = $('table > tbody').children('tr').get();
+rows.sort(function(a, b) {
+    var anum = parseInt($(a).find("td:last").text(), 10);
+    var bnum = parseInt($(b).find("td:last").text(), 10);
+    return bnum-anum;
+});
+for (var i = 0; i < rows.length; i++) {
+    $('table > tbody').append(rows[i]);
+}
+</script>
   </body>
 </html>
