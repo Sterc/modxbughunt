@@ -118,7 +118,7 @@
                         4
                     </td>
                     <td>
-                        John Doe
+                        Gauke Pieter Sietzema [gaukepietersietzema]
                     </td>
                     <td>
                         Developing a fix: 0 times<br />
