@@ -300,10 +300,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 11 times
+                        Testing if an issue is correct: 16 times
                     </td>
                     <td>
-                        11
+                        16
                     </td>
                 </tr>
                 <tr>
