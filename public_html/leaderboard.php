@@ -75,10 +75,10 @@
                     <td>
                         Developing a fix: 1 times<br />
                         Testing a fix: 1 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 2 times
                     </td>
                     <td>
-                        4
+                        6
                     </td>
                 </tr>
                 <tr>
@@ -300,10 +300,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 14 times
+                        Testing if an issue is correct: 12 times
                     </td>
                     <td>
-                        14
+                        12
                     </td>
                 </tr>
                 <tr>
