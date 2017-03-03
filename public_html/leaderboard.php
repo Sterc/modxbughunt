@@ -78,7 +78,7 @@
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        2
+                        4
                     </td>
                 </tr>
                 <tr>
@@ -94,7 +94,7 @@
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        1
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -270,7 +270,7 @@
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        1
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -634,12 +634,12 @@
                       Peter Bowyer
                     </td>
                     <td>
-                        Developing a fix: 0 times<br />
+                        Developing a fix: 1 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        0
+                        3
                     </td>
                 </tr>
                 <tr>
@@ -738,6 +738,7 @@
                         0
                     </td>
                 </tr>
+                
             </tbody>
         </table>
         <h1 class="text-center">Premium Sponsors</h1>
