@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: ? [Local time: 14:16 CET] </h3>
+            <h3>Total issues fixed/closed: ? [Local time: 14:29 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -281,7 +281,7 @@
                         Uko van der Meulen - chief leaderboard ;-)
                     </td>
                     <td>
-                        Updated leaderboard: 14 times<br />
+                        Updated leaderboard: 16 times<br />
                     </td>
                     <td>
                         1
@@ -298,10 +298,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 12 times
+                        Testing if an issue is correct: 13 times
                     </td>
                     <td>
-                        12
+                        13
                     </td>
                 </tr>
                 <tr>
