@@ -39,7 +39,8 @@
     <div class="container">
         <div class="pull-left">
             <h1>Leaderboard</h1>
-            <p>The MODX bug hunt leaderboard. <br /><br /><a href="http://www.modxbughunt.com/" target="blank">Visit the website.</a></p>
+            <p>The MODX bug hunt leaderboard.</p>
+            <div><a href="http://www.modxbughunt.com" target="_blank">Visit the website </a><span class="text-muted"> or </span><a href="https://www.youtube.com/watch?v=1DnFtVLiaKg&feature=youtu.be" target="_blank"> watch the livstream</a>.</div>
         </div>
 
         <div class="pull-right">
