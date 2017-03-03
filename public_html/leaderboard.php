@@ -764,7 +764,7 @@
                     <td>
                         Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 0 times
                     </td>
                     <td>
                         6
