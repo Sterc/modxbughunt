@@ -824,12 +824,12 @@
                     OptimusCrime [OptimusCrime]
                     </td>
                     <td>
-                        Developing a fix: 1 times<br />
+                        Developing a fix: 2 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        4
+                        7
                     </td>
                 </tr>
                         <tr>
