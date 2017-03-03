@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 62 [Local time: 15:42 CET] </h3>
+            <h3>Total issues fixed/closed: 67 [Local time: 16:22 CET] </h3>
         </div>
 
         <table class="table table-striped">
@@ -153,12 +153,12 @@
                         Jesse Visser [Flowan]
                     </td>
                     <td>
-                        Developing a fix: 2 times<br />
+                        Developing a fix: 3 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        7
+                        10
                     </td>
                 </tr>
                 <tr>
@@ -169,12 +169,12 @@
                         Oetzie [Oetzie]
                     </td>
                     <td>
-                        Developing a fix: 2 times<br />
+                        Developing a fix: 3 times<br />
                         Testing a fix: 0 times<br />
                         Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        6
+                        9
                     </td>
                 </tr>
                 <tr>
@@ -187,10 +187,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 3 times
+                        Testing if an issue is correct: 4 times
                     </td>
                     <td>
-                        3
+                        4
                     </td>
                 </tr>
                 <tr>
@@ -298,10 +298,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 18 times
+                        Testing if an issue is correct: 24 times
                     </td>
                     <td>
-                        18
+                        24
                     </td>
                 </tr>
                 <tr>
@@ -632,12 +632,12 @@
                       Peter Bowyer
                     </td>
                     <td>
-                        Developing a fix: 3 times<br />
+                        Developing a fix: 4 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 4 times
+                        Testing if an issue is correct: 6 times
                     </td>
                     <td>
-                        16
+                        21
                     </td>
                 </tr>
                 <tr>
@@ -810,10 +810,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 2 times
+                        Testing if an issue is correct: 3 times
                     </td>
                     <td>
-                        2
+                        3
                     </td>
                 </tr>
             </tbody>
