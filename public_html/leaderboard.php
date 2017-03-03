@@ -235,10 +235,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 0 times
+                        Testing if an issue is correct: 1 times
                     </td>
                     <td>
-                        0
+                        1
                     </td>
                 </tr>
                 <tr>
@@ -278,7 +278,7 @@
                         14
                     </td>
                     <td>
-                        Uko van der Meulen - chief leaderboard ;-)
+                        Uko van der Meulen - chief leaderboard ;-) Questions: uko@sterc.nl
                     </td>
                     <td>
                         Updated leaderboard: 16 times<br />
@@ -746,10 +746,10 @@
                     <td>
                         Developing a fix: 0 times<br />
                         Testing a fix: 0 times<br />
-                        Testing if an issue is correct: 1 times
+                        Testing if an issue is correct: 0 times
                     </td>
                     <td>
-                        1
+                        0
                     </td>
                 </tr>
                  <tr>
