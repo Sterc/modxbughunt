@@ -262,7 +262,7 @@
                         13
                     </td>
                     <td>
-                        [labr1005]
+                     Lars Bratke [labr1005]
                     </td>
                     <td>
                         Developing a fix: 1 times<br />
