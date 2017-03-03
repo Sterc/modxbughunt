@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 148</h3>
+            <h3>Total issues fixed/closed: 142</h3>
         </div>
 
         <table class="table table-striped">
@@ -62,39 +62,39 @@
                 </tr>
             </thead>
             <tbody>
-                <tr><td>0</td><td>pbowyer</td><td>39</td></tr>
-                <tr><td>0</td><td>oetzie</td><td>18</td></tr>
-                <tr><td>0</td><td>romain</td><td>18</td></tr>
+                <tr><td>0</td><td>Peter Bowyer - pbowyer</td><td>39</td></tr>
+                <tr><td>0</td><td>Oene Tjeerd - oetzie</td><td>18</td></tr>
+                <tr><td>0</td><td>Romain - romain</td><td>18</td></tr>
                 <tr><td>0</td><td>optimuscrime</td><td>17</td></tr>
-                <tr><td>0</td><td>syts88</td><td>14</td></tr>
-                <tr><td>0</td><td>sdrenth</td><td>14</td></tr>
-                <tr><td>0</td><td>rinze</td><td>14</td></tr>
-                <tr><td>0</td><td>christianseel</td><td>13</td></tr>
-                <tr><td>0</td><td>alroniks</td><td>12</td></tr>
-                <tr><td>0</td><td>Hugopeek</td><td>10</td></tr>
-                <tr><td>0</td><td>labr1005</td><td>9</td></tr>
-                <tr><td>0</td><td>pixelive</td><td>9</td></tr>
-                <tr><td>0</td><td>flowan</td><td>9</td></tr>
+                <tr><td>0</td><td>Sytske Haagsma - syts88</td><td>14</td></tr>
+                <tr><td>0</td><td>Sander - sdrenth</td><td>14</td></tr>
+                <tr><td>0</td><td>Rinze - rinze</td><td>14</td></tr>
+                <tr><td>0</td><td>Christian - christianseel</td><td>13</td></tr>
+                <tr><td>0</td><td>Ivan - alroniks</td><td>12</td></tr>
+                <tr><td>0</td><td>Hugo - Hugopeek</td><td>10</td></tr>
+                <tr><td>0</td><td>Lars - labr1005</td><td>9</td></tr>
+                <tr><td>0</td><td>Johan - pixelive</td><td>9</td></tr>
+                <tr><td>0</td><td>Jesse - flowan</td><td>9</td></tr>
                 <tr><td>0</td><td>wuuti</td><td>9</td></tr>
-                <tr><td>0</td><td>EasterPeanut</td><td>8</td></tr>
+                <tr><td>0</td><td>Pien - EasterPeanut</td><td>8</td></tr>
                 <tr><td>0</td><td>achterbahn</td><td>6</td></tr>
                 <tr><td>0</td><td>netProphET</td><td>6</td></tr>
                 <tr><td>0</td><td>pepebe</td><td>5</td></tr>
                 <tr><td>0</td><td>dannevang</td><td>4</td></tr>
-                <tr><td>0</td><td>joeke</td><td>3</td></tr>
-                <tr><td>0</td><td>andresterc</td><td>3</td></tr>
+                <tr><td>0</td><td>Joeke - joeke</td><td>3</td></tr>
+                <tr><td>0</td><td>Andre - andresterc</td><td>3</td></tr>
                 <tr><td>0</td><td>mrhaw</td><td>3</td></tr>
                 <tr><td>0</td><td>devlanda</td><td>3</td></tr>
                 <tr><td>0</td><td>sonicpunk</td><td>3</td></tr>
                 <tr><td>0</td><td>jgulledge19</td><td>2</td></tr>
-                <tr><td>0</td><td>rthrash</td><td>2</td></tr>
+                <tr><td>0</td><td>Ryan - rthrash</td><td>2</td></tr>
                 <tr><td>0</td><td>greyskymedia</td><td>1</td></tr>
                 <tr><td>0</td><td>pixelchutes</td><td>1</td></tr>
-                <tr><td>0</td><td>gpsietzema</td><td>1</td></tr>
+                <tr><td>0</td><td>Gauke Pieter - gpsietzema</td><td>1</td></tr>
                 <tr><td>0</td><td>opengeek</td><td>1</td></tr>
-                <tr><td>0</td><td>markhamstra</td><td>1</td></tr>
+                <tr><td>0</td><td>Mark - markhamstra</td><td>1</td></tr>
                 <tr><td>0</td><td>lefthandmedia</td><td>1</td></tr>
-                <tr><td>0</td><td>henk</td><td>1</td></tr>
+                <tr><td>0</td><td>Henk - henk</td><td>1</td></tr>
             </tbody>
         </table>
         <h1 class="text-center">Premium Sponsors</h1>
