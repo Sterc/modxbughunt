@@ -44,7 +44,7 @@
         </div>
 
         <div class="pull-right">
-            <h3>Total issues fixed/closed: 95 [Local time: 17:01 CET] </h3>
+            <h3>Total issues fixed/closed: 148</h3>
         </div>
 
         <table class="table table-striped">
