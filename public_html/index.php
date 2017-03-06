@@ -339,21 +339,21 @@
       <div class="row modx-prizes">
           <br><br>
           <div class="col-xs-12 col-md-4 col-md-offset-2">
-              <h2>MODX Grandmaster</h2>
+              <h2>MODX Grandmaster<br />Peter Bowyer</h2>
               <p>First prize. Person who earned the most points.</p>
               <ul>
                   <li>Bounty of € 500,-</li>
                   <li>DigitalOcean $ 500,- credit</li>
                   <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
-              <h2>MODX Master</h2>
+              <h2>MODX Master<br />Oene Tjeerd de Bruin</h2>
               <p>Second prize. Person who earned the second most points.</p>
               <ul>
                   <li>Bounty of € 300,-</li>
                   <li>DigitalOcean $ 250,- credit</li>
                   <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
               </ul>
-              <h2>MODX Expert</h2>
+              <h2>MODX Expert<br />Romain Tripault</h2>
               <p>Third prize. Person who earned the third most points.</p>
               <ul>
                   <li>Bounty of € 200,-</li>
@@ -371,27 +371,27 @@
               <p><br>These prizes will also be awarded afterwards by email.</p>
               <h2>Other prizes</h2>
               <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
-              <h4>Keeper of the Hunt</h4>
+              <h4>Keeper of the Hunt<br/>Johan van der Molen</h4>
               <p>Person who was the most helpful to others during the day.</p>
               <ul>
                   <li>Bounty of € 250,-</li>
               </ul>
-              <h4>Pull master</h4>
+              <h4>Pull master<br />Mark Hamstra</h4>
               <p>Person who was involved in most Pull Requests.</p>
               <ul>
                   <li>Bounty of € 250,-</li>
               </ul>
-              <h4>Evasion Ninja</h4>
+              <h4>Evasion Ninja<br />Sytske Frietema-Haagsma</h4>
               <p>Closed the most issues which can't be reproduced.</p>
               <ul>
                   <li>Bounty of € 125,-</li>
               </ul>
-              <h4>Rookie of the Hunt</h4>
+              <h4>Rookie of the Hunt<br />Mike Schell</h4>
               <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice. A MODX Cloud Pro package will really help you here!</p>
               <ul>
                   <li>MODX Cloud Pro package</li>
               </ul>
-              <h4>Issue hustler</h4>
+              <h4>Issue hustler<br />Patrick Percy Blank</h4>
               <p>Person who created the most issues during the MODX Bug Hunt. Trying to sell us a new bug hunt?</p>
               <ul>
                   <li><a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a> license by modmore</li>
