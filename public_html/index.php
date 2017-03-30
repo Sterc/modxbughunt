@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <meta name="description" content="The MODX Bug Hunt is an international event where we squash as many MODX bugs as possible." />
-    <title>MODX Bug Hunt - March 3rd, 2017</title>
+    <title>MODX Bug Hunt #2 - July 7th, 2017</title>
     <link href="images/favicon.png" rel="shortcut icon" type="image/png">
     <link href="images/apple-icon.png" rel="apple-touch-icon">
     <link href="images/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
