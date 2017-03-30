@@ -260,7 +260,7 @@
                 <ul class="list-inline xs-list-inline-none mt-50">
                   <li>
                     <h4 class="text-gray-light"><i class="fa fa-map-marker text-theme-colored"></i> Location</h4>
-                    <h6 class="text-gray">Sterc HQ or your own office. <br />&nbsp;</h6>
+                    <h6 class="text-gray">Munich (GER) or your own office. <br />&nbsp;</h6>
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Requirements</h4>
