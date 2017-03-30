@@ -256,7 +256,7 @@
           <div class="col-md-12">
             <div class="divider layer-overlay overlay-deep" data-margin-top="-165px">
               <div class="col-md-12 col-lg-8 p-50 pl-md-0 pr-0 md-text-center">
-                <h2 class="text-black-444">Cleanse the MODX issue tracker on March 3rd, 2017</h2>
+                <h2 class="text-black-444">Cleanse the MODX issue tracker on July 7th, 2017</h2>
                 <ul class="list-inline xs-list-inline-none mt-50">
                   <li>
                     <h4 class="text-gray-light"><i class="fa fa-map-marker text-theme-colored"></i> Location</h4>
