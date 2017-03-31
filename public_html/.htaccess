@@ -4,5 +4,6 @@ RewriteCond %{REQUEST_URI} ^/leaderboard [NC]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^ leaderboard.php [QSA,L]
 
+RewriteCond %{HTTP_HOST} !^local\.
 RewriteCond %{HTTP_HOST} !^www\.
-RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule .* http://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
