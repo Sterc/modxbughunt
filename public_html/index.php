@@ -282,7 +282,7 @@
           <div class="col-md-6 mb-sm-30">
             <h2 class="title font-40 text-gray mt-0 mb-20">MODX Bug Hunt</h2>
               <p>The MODX Bug Hunt is an international event where we squash as many MODX bugs as possible. The MODX issue tracker has the odd tendency to rise to a huge number every now and then. As loyal MODX users, we give it a healthy kick once in a while to keep it on a healthy level.</p>
-              <p>The MODX Bug Hunt takes place at the Sterc HQ, on this site through a livestream and in the #modxbughunt channel on the <a href="https://modx.org" target="_blank">modx.org</a> Slack channel.</p>
+              <p>The MODX Bug Hunt takes place at the office of Kochan & Partner, on this site through a livestream and in the #modxbughunt channel on the <a href="https://modx.org" target="_blank">modx.org</a> Slack channel.</p>
               <p>What to expect:</p>
               <ul>
                   <li>That amazing feeling of being part of the MODX community.</li>
