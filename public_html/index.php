@@ -67,10 +67,10 @@
             <ul class="menuzord-menu">
               <li><a href="#home">Home</a></li>
               <li><a href="#about">about</a></li>
-              <li><a href="#prizes">Prizes</a></li>
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#join">Join us</a></li>
               <li><a href="#speaker">Liveshow</a></li>
+                <li><a href="#prizes">Prizes</a></li>
               <li><a href="#sponsors">Sponsors</a></li>
               <li><a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">Livestream</a></li>
               <li><a href="http://www.modxbughunt.com/leaderboard" target="_blank">Leaderboard</a></li>
@@ -147,7 +147,7 @@
                   data-splitin="none"
                   data-splitout="none"
                   data-responsive_offset="on"
-                  style="z-index: 5; white-space: nowrap; font-weight:600;">MODX Bug Hunt
+                  style="z-index: 5; white-space: nowrap; font-weight:600;">MODX Bug Hunt 2
                 </div>
 
 
@@ -268,19 +268,19 @@
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
-                      <h6 class="text-gray">Just RSVP at our <br /><a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Meetup.com page</a>.</h6>
+                      <h6 class="text-gray">Just RSVP at our <br /><a href="https://www.meetup.com/modx-bug-hunt/events/238613206/" target="_blank">Meetup.com page</a>.</h6>
                   </li>
                 </ul>
               </div>
               <div class="col-md-12 col-lg-4 pr-0 pl-md-0">
-                <div id="clock" class="countdown-timer timer-box bg-theme-colored" data-endingdate="2017/03/03"></div>
+                <div id="clock" class="countdown-timer timer-box bg-theme-colored" data-endingdate="2017/07/17"></div>
               </div>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-6 mb-sm-30">
-            <h2 class="title font-40 text-gray mt-0 mb-20">MODX Bug Hunt</h2>
+            <h2 class="title font-40 text-gray mt-0 mb-20">MODX Bug Hunt 2</h2>
               <p>The MODX Bug Hunt is an international event where we squash as many MODX bugs as possible. The MODX issue tracker has the odd tendency to rise to a huge number every now and then. As loyal MODX users, we give it a healthy kick once in a while to keep it on a healthy level.</p>
               <p>The MODX Bug Hunt takes place at the office of Kochan & Partner, on this site through a livestream and in the #modxbughunt channel on the <a href="https://modx.org" target="_blank">modx.org</a> Slack channel.</p>
               <p>What to expect:</p>
@@ -311,7 +311,7 @@
                 <div class="divider">
                     <div class="container pt-50 pb-50">
                         <div class="text-center clearfix">
-                            <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt">Join the MODX Bug Hunt on Meetup.com</a>
+                            <a href="https://www.meetup.com/modx-bug-hunt/events/238613206/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt">Join the MODX Bug Hunt on Meetup.com</a>
                         </div>
                     </div>
                 </div>
@@ -319,101 +319,6 @@
         </div>
       </div>
     </section>
-
-    <!-- Section: Prizes -->
-<section id="prizes">
-      <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
-          <div class="container pt-50 pb-50">
-              <div class="section-title">
-                  <section id="schedule">
-                      <div class="row">
-                          <div class="col-md-6 col-md-offset-3 text-center">
-                              <h2 class="title text-white mb-0">Prizes</h2>
-                              <p>Made possible by our wonderful <a href="#sponsors">sponsors</a>. The prizes will be awarded after the MODX Bug Hunt.</p>
-                          </div>
-                      </div>
-                  </section>
-              </div>
-          </div>
-      </div>
-      <div class="row modx-prizes">
-          <br><br>
-          <div class="col-xs-12 col-md-4 col-md-offset-2">
-              <h2>MODX Grandmaster<br />Peter Bowyer</h2>
-              <p>First prize. Person who earned the most points.</p>
-              <ul>
-                  <li>Bounty of € 500,-</li>
-                  <li>DigitalOcean $ 500,- credit</li>
-                  <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
-              </ul>
-              <h2>MODX Master<br />Oene Tjeerd de Bruin</h2>
-              <p>Second prize. Person who earned the second most points.</p>
-              <ul>
-                  <li>Bounty of € 300,-</li>
-                  <li>DigitalOcean $ 250,- credit</li>
-                  <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
-              </ul>
-              <h2>MODX Expert<br />Romain Tripault</h2>
-              <p>Third prize. Person who earned the third most points.</p>
-              <ul>
-                  <li>Bounty of € 200,-</li>
-                  <li>DigitalOcean $ 125,- credit</li>
-                  <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
-              </ul>
-          </div>
-          <div class="col-xs-12 col-md-4">
-              <h2>Everybody wins a prize!</h2>
-              <e>Everybody wins a prize thanks to <a href="https://modstore.pro" target="_blank">MODSTORE.pro</a> (in English soon) and <a href="https://modhost.pro" target="_blank">MODHOST.pro</a>. Every participant registered on the <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Meetup.com event page</a> gets the following:</p>
-              <ul>
-                  <li>A one year Development-plan from <a href="https://modhost.pro/tariffs" target="_blank">MODHOST</a></li>
-                  <li>Free access to one of the Top-3 extras on <a href="https://modstore.pro/" target="_blank">MODSTORE</a> (mSearch2, Office or ms2Gallery)</li>
-              </ul>
-              <p><br>These prizes will also be awarded afterwards by email.</p>
-              <h2>Other prizes</h2>
-              <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
-              <h4>Keeper of the Hunt<br/>Johan van der Molen</h4>
-              <p>Person who was the most helpful to others during the day.</p>
-              <ul>
-                  <li>Bounty of € 250,-</li>
-              </ul>
-              <h4>Pull master<br />Mark Hamstra</h4>
-              <p>Person who was involved in most Pull Requests.</p>
-              <ul>
-                  <li>Bounty of € 250,-</li>
-              </ul>
-              <h4>Evasion Ninja<br />Sytske Frietema-Haagsma</h4>
-              <p>Closed the most issues which can't be reproduced.</p>
-              <ul>
-                  <li>Bounty of € 125,-</li>
-              </ul>
-              <h4>Rookie of the Hunt<br />Mike Schell</h4>
-              <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice. A MODX Cloud Pro package will really help you here!</p>
-              <ul>
-                  <li>MODX Cloud Pro package</li>
-              </ul>
-              <h4>Issue hustler<br />Patrick Percy Blank</h4>
-              <p>Person who created the most issues during the MODX Bug Hunt. Trying to sell us a new bug hunt?</p>
-              <ul>
-                  <li><a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a> license by modmore</li>
-              </ul>
-              <br><br>
-          </div>
-      </div>
-    <div class="col-xs-12 col-md-4 col-md-offset-4">
-        <br><br>
-        <h2>How are points awarded?</h2>
-        <p>To keep things easy we decided on the following points system:</p>
-        <ul>
-            <li>Developing a fix: 3 points</li>
-            <li>Testing a fix: 1 point</li>
-            <li>Testing if an issue is correct: 1 point</li>
-        </ul>
-        <h2>Use the tag #modxbughunt</h2>
-        <p>In order to have your issues/PR's/Comments points counted, use the <strong>#modxbughunt tag</strong> in your text. Github allows us to search through everything with that tab.</p>
-        <p>Check all issues with the #modxbughunt tag <a href="https://github.com/modxcms/revolution/issues?utf8=%E2%9C%93&q=%23modxbughunt%20" target="_blank">on Github</a>.</p>
-        <br><br>
-    </div>
-</section>
 
     <!-- Section: Schedule -->
   <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
@@ -633,10 +538,10 @@
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3 text-center">
                             <h2 class="title text-white mb-0">Join us</h2>
-                            <p>Want to join us in our glorious efforts to squash MODX bugs? You can! <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Please visit our meetup.com page</a> to participate.</p>
-                            <p>Want to get involved in organising the event? Want to join us at our HQ? Or want to livestream from your own office? <a href="mailto:modx@sterc.nl">Just contact the organisers</a>.</p>
+                            <p>Want to join us in our glorious efforts to squash MODX bugs? You can! <a href="https://www.meetup.com/modx-bug-hunt/events/238613206/" target="_blank">Please visit our meetup.com page</a> to participate.</p>
+                            <p>Want to get involved in organising the event? Want to join us at Kochan & Partner? Or want to livestream from your own office? <a href="mailto:office@seda.digital?subject=MODXBUGHUNT">Just contact the organisers</a>.</p>
                             <br /><br />
-                            <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt" style="text-decoration: none;">Join the MODX Bug Hunt on Meetup.com</a>
+                            <a href="https://www.meetup.com/modx-bug-hunt/events/238613206/" target="_blank" class="btn btn-colored btn-theme-colored btn-xl" title="Join the MODX Bug Hunt" style="text-decoration: none;">Join the MODX Bug Hunt on Meetup.com</a>
                         </div>
                     </div>
                 </div>
@@ -799,13 +704,109 @@
       </div>
     </section>
 
+
+      <!-- Section: Prizes -->
+      <section id="prizes">
+          <div class="divider parallax layer-overlay" data-stellar-background-ratio="0.5">
+              <div class="container pt-50 pb-50">
+                  <div class="section-title">
+                      <section id="schedule">
+                          <div class="row">
+                              <div class="col-md-6 col-md-offset-3 text-center">
+                                  <h2 class="title text-white mb-0">Prizes and winners from the first Bughunt</h2>
+                                  <!-- <p>Made possible by our wonderful <a href="#sponsors">sponsors</a>. The prizes will be awarded after the MODX Bug Hunt.</p> -->
+                              </div>
+                          </div>
+                      </section>
+                  </div>
+              </div>
+          </div>
+          <div class="row modx-prizes">
+              <br><br>
+              <div class="col-xs-12 col-md-4 col-md-offset-2">
+                  <h2>MODX Grandmaster<br />Peter Bowyer</h2>
+                  <p>First prize. Person who earned the most points.</p>
+                  <ul>
+                      <li>Bounty of € 500,-</li>
+                      <li>DigitalOcean $ 500,- credit</li>
+                      <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
+                  </ul>
+                  <h2>MODX Master<br />Oene Tjeerd de Bruin</h2>
+                  <p>Second prize. Person who earned the second most points.</p>
+                  <ul>
+                      <li>Bounty of € 300,-</li>
+                      <li>DigitalOcean $ 250,- credit</li>
+                      <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
+                  </ul>
+                  <h2>MODX Expert<br />Romain Tripault</h2>
+                  <p>Third prize. Person who earned the third most points.</p>
+                  <ul>
+                      <li>Bounty of € 200,-</li>
+                      <li>DigitalOcean $ 125,- credit</li>
+                      <li>Modmore license of your choice (excluding <a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a>)</li>
+                  </ul>
+              </div>
+              <div class="col-xs-12 col-md-4">
+                  <h2>Everybody wins a prize!</h2>
+                  <e>Everybody wins a prize thanks to <a href="https://modstore.pro" target="_blank">MODSTORE.pro</a> (in English soon) and <a href="https://modhost.pro" target="_blank">MODHOST.pro</a>. Every participant registered on the <a href="https://www.meetup.com/modx-bug-hunt/events/237675116/" target="_blank">Meetup.com event page</a> gets the following:</p>
+                      <ul>
+                          <li>A one year Development-plan from <a href="https://modhost.pro/tariffs" target="_blank">MODHOST</a></li>
+                          <li>Free access to one of the Top-3 extras on <a href="https://modstore.pro/" target="_blank">MODSTORE</a> (mSearch2, Office or ms2Gallery)</li>
+                      </ul>
+                      <p><br>These prizes will also be awarded afterwards by email.</p>
+                      <h2>Other prizes</h2>
+                      <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
+                      <h4>Keeper of the Hunt<br/>Johan van der Molen</h4>
+                      <p>Person who was the most helpful to others during the day.</p>
+                      <ul>
+                          <li>Bounty of € 250,-</li>
+                      </ul>
+                      <h4>Pull master<br />Mark Hamstra</h4>
+                      <p>Person who was involved in most Pull Requests.</p>
+                      <ul>
+                          <li>Bounty of € 250,-</li>
+                      </ul>
+                      <h4>Evasion Ninja<br />Sytske Frietema-Haagsma</h4>
+                      <p>Closed the most issues which can't be reproduced.</p>
+                      <ul>
+                          <li>Bounty of € 125,-</li>
+                      </ul>
+                      <h4>Rookie of the Hunt<br />Mike Schell</h4>
+                      <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice. A MODX Cloud Pro package will really help you here!</p>
+                      <ul>
+                          <li>MODX Cloud Pro package</li>
+                      </ul>
+                      <h4>Issue hustler<br />Patrick Percy Blank</h4>
+                      <p>Person who created the most issues during the MODX Bug Hunt. Trying to sell us a new bug hunt?</p>
+                      <ul>
+                          <li><a href="https://www.modmore.com/commerce/" target="_blank">Commerce</a> license by modmore</li>
+                      </ul>
+                      <br><br>
+              </div>
+          </div>
+          <div class="col-xs-12 col-md-4 col-md-offset-4">
+              <br><br>
+              <h2>How were points awarded?</h2>
+              <p>To keep things easy we decided on the following points system:</p>
+              <ul>
+                  <li>Developing a fix: 3 points</li>
+                  <li>Testing a fix: 1 point</li>
+                  <li>Testing if an issue is correct: 1 point</li>
+              </ul>
+              <h2>Use the tag #modxbughunt</h2>
+              <p>In order to have your issues/PR's/Comments points counted, use the <strong>#modxbughunt tag</strong> in your text. Github allows us to search through everything with that tab.</p>
+              <p>Check all issues with the #modxbughunt tag <a href="https://github.com/modxcms/revolution/issues?utf8=%E2%9C%93&q=%23modxbughunt%20" target="_blank">on Github</a>.</p>
+              <br><br>
+          </div>
+      </section>
+
     <!-- Section: Sponsors -->
     <section id="sponsors" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5">
       <div class="container pt-70">
         <div class="section-title">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center">
-              <h2 class="title text-theme-colored">Premium Sponsors</h2>
+              <h2 class="title text-theme-colored">1st MODX BUGHUNT Premium Sponsors</h2>
                 <p>The MODX Bug Hunt wouldn't be possible without all these amazing sponsors!</p>
             </div>
           </div>
@@ -814,31 +815,22 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <div class="row sponsors-style2 pt-30 pb-20">
-                  <div class="col-xs-12 col-md-6 text-center">
+                  <div class="col-xs-12 text-center sponsors--premium">
                     <a href="https://www.sterc.nl/en/" target="_blank">
                       <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
                     </a>
-                  </div>
 
-                    <div class="col-xs-12 col-md-6 text-center">
-                        <a href="https://www.linqhost.nl" target="_blank">
-                            <img src="/images/sponsor-linqhost.png" alt="Linqhost">
-                        </a>
-                    </div>
-
-                  <div class="col-xs-12 col-md-6 text-center">
                       <a href="https://seda.digital/" target="_blank">
                           <img src="/images/sponsor-seda-digital2.png" alt="SEDA.digital"></a>
-                  </div>
 
-                    <div class="col-xs-12 col-md-6 text-center">
-                        <a href="https://www.digitalocean.com/" target="_blank">
-                            <img src="/images/sponsor-digitalocean.png" alt="DigitalOcean">
-                        </a>
-                    </div>
+                      <a href="https://www.digitalocean.com/" target="_blank">
+                          <img src="/images/sponsor-digitalocean.png" alt="DigitalOcean">
+                      </a>
 
-                  <div class="col-xs-12 col-md-6 text-center">
                       <a href="https://modmore.com" target="_blank"><img src="/images/sponsor-modmore2.png" alt="modmore"></a>
+                      <a href="https://www.linqhost.nl" target="_blank">
+                          <img src="/images/sponsor-linqhost.png" alt="Linqhost">
+                      </a>
                   </div>
               </div>
             </div>
@@ -854,53 +846,38 @@
         <div class="section-content">
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
-              <div class="row sponsors-style2 pt-30 pb-20">
+              <div class="row sponsors-style2 pt-30 pb-20 sponsors--basic">
 
-                <div class="col-xs-6 col-md-3 text-center">
+                <div class="col-xs-12 text-center">
                   <a href="https://greyskymedia.com/" target="_blank"><img src="/images/sponsor-greysky.png" alt="Grey Sky Media"></a>
+
+                    <a href="https://www.heibelschoppen.nl" target="_blank">
+                        <img src="/images/sponsor-heibel.png" alt="Heibel">
+                    </a>
+
+                    <a href="https://www.modx.com" target="_blank">
+                        <img src="/images/sponsor-modx.png" alt="MODX">
+                    </a>
+
+                    <a href="https://www.gelstudios.co.uk/" target="_blank">
+                        <img src="/images/sponsor-gel-studios.jpg" alt="GEL Studios">
+                    </a>
+
+                    <a href="https://modstore.pro" target="_blank">
+                        <img src="/images/sponsor-modstore.png" alt="MODSTORE.pro">
+                    </a>
+
+                    <a href="https://modhost.pro" target="_blank">
+                        <img src="/images/sponsor-modhost.png" alt="MODHOST.pro">
+                    </a>
+                    <a href="https://www.stickermule.com/" target="_blank">
+                        <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
+                    </a>
+                    <a href="https://www.jetbrains.com" target="_blank">
+                        <img src="/images/sponsor-jetbrains.png" alt="Jetbrains">
+                    </a>
                 </div>
 
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://www.heibelschoppen.nl" target="_blank">
-                          <img src="/images/sponsor-heibel.png" alt="Heibel">
-                      </a>
-                  </div>
-
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://www.modx.com" target="_blank">
-                          <img src="/images/sponsor-modx.png" alt="MODX">
-                      </a>
-                  </div>
-
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://www.gelstudios.co.uk/" target="_blank">
-                          <img src="/images/sponsor-gel-studios.jpg" alt="GEL Studios">
-                      </a>
-                  </div>
-
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://modstore.pro" target="_blank">
-                          <img src="/images/sponsor-modstore.png" alt="MODSTORE.pro">
-                      </a>
-                  </div>
-
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://modhost.pro" target="_blank">
-                          <img src="/images/sponsor-modhost.png" alt="MODHOST.pro">
-                      </a>
-                  </div>
-
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://www.stickermule.com/" target="_blank">
-                          <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
-                      </a>
-                  </div>
-
-                  <div class="col-xs-6 col-md-3 text-center">
-                      <a href="https://www.jetbrains.com" target="_blank">
-                          <img src="/images/sponsor-jetbrains.png" alt="Jetbrains">
-                      </a>
-                  </div>
               </div>
             </div>
           </div>
@@ -911,7 +888,7 @@
               <h2 class="title text-theme-colored">Become a sponsor</h2>
                 <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
                 <br />
-                <a href="mailto:modx@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
+                <a href="mailto:office@seda.digital?subject=MODXBUGHUNT Sponsoring" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
             </div>
           </div>
         </div>
@@ -926,12 +903,7 @@
     <div class="container pt-60 pb-30">
       <div class="row">
         <div class="col-md-6 col-md-offset-3 text-center">
-            <p class="font-13 mt-20 mb-20">The MODX Bug Hunt is an initiative of <a href="https://www.sterc.nl/en/" target="_blank" class="font-13">Sterc Internet & Marketing</a>. We organise and coordinate this event. Feel free to follow us on the channels below.</p>
-          <ul class="social-icons flat medium list-inline mb-40">
-            <li><a href="https://facebook.com/sterc.internet.marketing/" target="_blank"><i class="fa fa-facebook"></i></a> </li>
-            <li><a href="https://twitter.com/sterc" target="_blank"><i class="fa fa-twitter"></i></a> </li>
-            <li><a href="https://twitter.com/gpsietzema" target="_blank"><i class="fa fa-twitter"></i></a> </li>
-          </ul>
+            <p class="font-13 mt-20 mb-20">The MODX Bug Hunt 2 is an initiative of <a href="https://seda.digital" target="_blank" class="font-13">SEDA.digital</a>, <a href="http://www.kochan.de/" target="_blank" class="font-13">Kochan & Partner</a> and <br><a href="https://www.sterc.nl/en/" target="_blank" class="font-13"> Sterc Internet & Marketing</a>. We organise and coordinate this event.</p>
         </div>
       </div>
     </div>
