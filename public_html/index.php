@@ -287,8 +287,8 @@
               <ul>
                   <li>That amazing feeling of being part of the MODX community.</li>
                   <li>Prizes! Yes, besides getting major thanks from the whole community, you can also win prizes for fixing bugs.</li>
-                  <li>Live stream from the Sterc office</li>
-                  <li>You can join us at Sterc HQ (in the Netherlands) or work remotely from your own office or home</li>
+                  <li>Live stream from the office of <a href="https://www.google.de/maps/place/KOCHAN+UND+PARTNER+GmbH/@48.1531536,11.5053213,17z/data=!3m1!4b1!4m5!3m4!1s0x479e76323f3e36df:0x5c6b1aeb7cd9dbe3!8m2!3d48.15315!4d11.50751" target="_blank">Kochan & Partner</a></li>
+                  <li>You can join us at Kochan & Partner (in Germany) or work remotely from your own office or home</li>
                   <li>Scoreboard on modxbughunt.com</li>
                   <li>Unique badges, to be awarded after the hunt. Who doesn't want to be called the "Evasion ninja" for closing the most issues which can't be reproduced.</li>
               </ul>
