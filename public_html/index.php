@@ -297,13 +297,13 @@
           <div class="col-md-6">
             <div class="row">
               <div class="col-md-12 mb-10">
-                <img class="img-fullwidth" src="images/bughunt-1.jpg" alt="">
+                <img class="img-fullwidth" src="images/bughunt-1-1.jpg" alt="">
               </div>
               <div class="col-xs-6 col-md-6 pr-5">
-                <img class="img-fullwidth" src="images/bughunt-2.jpg" alt="">
+                <img class="img-fullwidth" src="images/bughunt-1-2.jpg" alt="">
               </div>
               <div class="col-xs-6 col-md-6 pl-5">
-                <img class="img-fullwidth" src="images/bughunt-3.jpg" alt="">
+                <img class="img-fullwidth" src="images/bughunt-1-3.jpg" alt="">
               </div>
             </div>
           </div>
