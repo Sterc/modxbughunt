@@ -713,7 +713,7 @@
                       <section id="schedule">
                           <div class="row">
                               <div class="col-md-6 col-md-offset-3 text-center">
-                                  <h2 class="title text-white mb-0">Prizes and winners from the first Bughunt</h2>
+                                  <h2 class="title text-white mb-0">Prizes and winners from the 1st Bughunt</h2>
                                   <!-- <p>Made possible by our wonderful <a href="#sponsors">sponsors</a>. The prizes will be awarded after the MODX Bug Hunt.</p> -->
                               </div>
                           </div>
