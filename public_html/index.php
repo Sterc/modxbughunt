@@ -565,7 +565,7 @@
           <div class="section-content">
             <div class="row multi-row-clearfix">
 
-                <div class="col-xs-12 col-sm-6 col-md-3 mb-30 col-md-offset-2">
+                <div class="col-xs-12 col-sm-6 col-md-6 mb-30">
                     <div class="team-member clearfix">
                         <div class="team-thumb">
                             <img alt="Gauke Pieter Sietzema" src="/images/team/gp.jpg" class="img-fullwidth"></div>
@@ -580,7 +580,7 @@
                     </div>
                 </div>
 
-              <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
+              <div class="col-xs-12 col-sm-6 col-md-6 mb-30">
                 <div class="team-member clearfix">
                   <div class="team-thumb">
                       <img alt="Ben Davis" src="/images/ben-davis.jpg" class="img-fullwidth"></div>
@@ -594,20 +594,6 @@
                   </div>
                 </div>
               </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-3 mb-30">
-                <div class="team-member clearfix">
-                    <div class="team-thumb">
-                        <img alt="Ivo Pakvis" src="/images/ivo-pakvis.jpg" class="img-fullwidth"></div>
-                    <div class="overlay">
-                        <div class="content text-center">
-                            <h4 class="author mb-0">
-                                <a href="https://github.com/sterc" target="_blank">Ivo<br/> Pakvis</a>
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
             </div>
         </div>
