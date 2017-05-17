@@ -70,7 +70,6 @@
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#join">Join us</a></li>
               <li><a href="#speaker">Liveshow</a></li>
-                <li><a href="#prizes">Prizes</a></li>
               <li><a href="#sponsors">Sponsors</a></li>
               <li><a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">Livestream</a></li>
               <li><a href="http://www.modxbughunt.com/leaderboard" target="_blank">Leaderboard</a></li>
