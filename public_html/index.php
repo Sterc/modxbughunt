@@ -67,6 +67,7 @@
             <ul class="menuzord-menu">
               <li><a href="#home">Home</a></li>
               <li><a href="#about">about</a></li>
+                <li><a href="#prizes">Prizes</a></li>
               <li><a href="#schedule">Schedule</a></li>
               <li><a href="#join">Join us</a></li>
               <li><a href="#speaker">Liveshow</a></li>
@@ -530,6 +531,56 @@
     </div>
     </div>
 
+      <!-- Section: Prizes -->
+      <section id="prizes">
+          <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
+              <div class="container pt-50 pb-50">
+                  <div class="section-title">
+                      <section id="schedule">
+                          <div class="row">
+                              <div class="col-md-6 col-md-offset-3 text-center">
+                                  <h2 class="title text-white mb-0">Prizes</h2>
+                                  <p>Prizes for the following categories will be posted soon!</p>
+                              </div>
+                          </div>
+                      </section>
+                  </div>
+              </div>
+          </div>
+          <div class="row modx-prizes">
+              <br><br>
+              <div class="col-xs-12 col-md-4 col-md-offset-2">
+                  <h2>MODX Grandmaster</h2>
+                  <p>First prize. Person who earned the most points.</p>
+
+                  <h2>MODX Master</h2>
+                  <p>Second price. Person who earned the second most points.</p>
+
+                  <h2>MODX Expert</h2>
+                  <p>Third price. Person who earned the third most points.</p>
+
+              </div>
+              <div class="col-xs-12 col-md-4">
+                  <h2>Other prizes</h2>
+                  <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
+                  <h4>Keeper of the Hunt</h4>
+                  <p>Person who was involved in most Pull Requests.</p>
+
+                  <h4>Pull master</h4>
+                  <p>Person who was involved in most Pull Requests.</p>
+
+                  <h4>Evasion Ninja</h4>
+                  <p>Closed the most issues which can't be reproduced.</p>
+
+                  <h4>Rookie of the Hunt</h4>
+                  <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice.</p>
+
+                  <br><br>
+              </div>
+          </div>
+      </section>
+
+
     <section id="join">
         <div class="divider parallax layer-overlay overlay-darkblue" data-stellar-background-ratio="0.5">
             <div class="container pt-50 pb-50">
@@ -547,7 +598,7 @@
             </div>
         </div>
     </section>
-
+      
     <!-- Section: Speaker -->
     <section id="speaker">
       <div class="bg-white-light">
