@@ -264,7 +264,7 @@
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-ticket text-theme-colored"></i> Requirements</h4>
-                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://github.com/sterc/modxbughunt" target="_blank">MODX Bug Hunt guide</a>.</h6>
+                      <h6 class="text-gray"><a href="https://github.com/modxcms/revolution" target="_blank">Github account</a>, <a href="https://docs.modx.com/community/contribute/using-git-and-github/" target="_blank">Git skills</a>,<br /> <a href="https://github.com/Sterc/modxbughunt/blob/master/contributors-guide.md" target="_blank">MODX Bug Hunt guide</a>.</h6>
                   </li>
                   <li class="ml-30">
                     <h4 class="text-gray-light"><i class="fa fa-microphone text-theme-colored"></i> How to join?</h4>
