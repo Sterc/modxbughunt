@@ -65,15 +65,15 @@
           <nav id="menuzord-right" class="menuzord green">
             <a class="menuzord-brand pull-left flip" href="javascript:void(0)"><img src="images/logo-modxbughunt-white-text.png" alt=""></a>
             <ul class="menuzord-menu">
-              <li><a href="#home">Home</a></li>
-              <li><a href="#about">about</a></li>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">about</a></li>
+                <li><a href="#schedule">Schedule</a></li>
                 <li><a href="#prizes">Prizes</a></li>
-              <li><a href="#schedule">Schedule</a></li>
-              <li><a href="#join">Join us</a></li>
-              <li><a href="#speaker">Liveshow</a></li>
-              <li><a href="#sponsors">Sponsors</a></li>
-              <li><a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">Livestream</a></li>
-              <li><a href="http://www.modxbughunt.com/leaderboard" target="_blank">Leaderboard</a></li>
+                <li><a href="#join">Join us</a></li>
+                <li><a href="#speaker">Liveshow</a></li>
+                <li><a href="#sponsors">Sponsors</a></li>
+                <li><a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">Livestream</a></li>
+                <li><a href="http://www.modxbughunt.com/leaderboard" target="_blank">Leaderboard</a></li>
             </ul>
           </nav>
         </div>
@@ -598,7 +598,7 @@
             </div>
         </div>
     </section>
-      
+
     <!-- Section: Speaker -->
     <section id="speaker">
       <div class="bg-white-light">
