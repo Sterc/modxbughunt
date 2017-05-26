@@ -23,5 +23,10 @@ theme. But don't modify style-main.css file.
 
 .sponsors--basic img {
     margin: 0 10px;
-    max-width: 80px;
+    max-width: 180px;
+}
+
+.sponsors--basic-115 img {
+    margin: 0 10px;
+    max-width: 115px;
 }

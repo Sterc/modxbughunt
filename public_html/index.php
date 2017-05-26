@@ -348,7 +348,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Welcome</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will welcome everyone to the Bug Hunt through a <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) will welcome everyone to the Bug Hunt through a <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube Livestream</a> and kick off the day. We'll also help get you started.</span>
                                 </div>
                             </div>
 
@@ -440,7 +440,7 @@
                             <div class="col-sm-8 pr-0 sm-height-auto" style="min-height: 10.5em;">
                                 <div class="cd-content-left p-15">
                                     <h5 class="timeline-title">Status report</h5>
-                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) and Ivo Pakvis (Sterc) will present a short status report, streamed live on <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube</a>.</span>
+                                    <span>Gauke Pieter Sietzema (Sterc), Benjamin Davis (SEDA.digital) will present a short status report, streamed live on <a href="https://www.youtube.com/watch?v=dWAeXymmNg0" target="_blank">YouTube</a>.</span>
                                 </div>
                             </div>
 
@@ -740,21 +740,99 @@
       </div>
     </section>
 
-    <!-- Section: Sponsors -->
-    <section id="sponsors" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5">
-      <div class="container pt-70">
-        <div class="section-title">
-          <div class="row">
-            <div class="col-md-6 col-md-offset-3 text-center">
-              <h2 class="title text-theme-colored">Become a sponsor</h2>
-                <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
-                <br />
-                <a href="mailto:office@seda.digital?subject=MODXBUGHUNT Sponsoring" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
-            </div>
+      <!-- Section: Sponsors -->
+      <section id="sponsors" class="divider parallax layer-overlay overlay-deep" data-stellar-background-ratio="0.5">
+          <div class="container pt-70">
+              <div class="section-title">
+                  <div class="row">
+                      <div class="col-md-6 col-md-offset-3 text-center">
+                          <h2 class="title text-theme-colored">Premium Sponsors</h2>
+                          <p>The MODX Bug Hunt wouldn't be possible without all these amazing sponsors!</p>
+                      </div>
+                  </div>
+              </div>
+              <div class="section-content">
+                  <div class="row">
+                      <div class="col-md-10 col-md-offset-1">
+                          <div class="row sponsors-style2 pt-30 pb-20">
+                              <div class="col-xs-12 col-md-6 text-center">
+                                  <a href="https://www.sterc.nl/en/" target="_blank">
+                                      <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
+                                  </a>
+                              </div>
+
+                              <div class="col-xs-12 col-md-6 text-center">
+                                  <a href="https://seda.digital/" target="_blank">
+                                      <img src="/images/sponsor-seda-digital2.png" alt="SEDA.digital">
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="section-title">
+                  <div class="row">
+                      <div class="col-md-6 col-md-offset-3 text-center">
+                          <h2 class="title text-theme-colored">Sponsors</h2>
+                      </div>
+                  </div>
+              </div>
+              <div class="section-content sponsors--basic">
+                  <div class="row">
+                      <div class="col-md-10 col-md-offset-1">
+                          <div class="row sponsors-style2 pt-30 pb-20">
+
+                              <div class="col-xs-6 col-md-4 text-center">
+                                  <a href="https://modmore.com" target="_blank"><img src="/images/sponsor-modmore.png" alt="modmore"></a>
+                              </div>
+
+
+                              <div class="col-xs-6 col-md-4 text-center">
+                                  <a href="https://www.modx.com" target="_blank">
+                                      <img src="/images/sponsor-modx.png" alt="MODX">
+                                  </a>
+                              </div>
+
+                              <div class="col-xs-6 col-md-4 text-center">
+                                  <a href="https://jetbrains.com" target="_blank">
+                                      <img src="/images/sponsor-jetbrains.png" alt="Jetbrains">
+                                  </a>
+                              </div>
+
+                              <div class="col-xs-6 col-md-4 text-center sponsors--basic-115">
+                                  <a href="https://modstore.pro" target="_blank">
+                                      <img src="/images/sponsor-modstore.png" alt="MODSTORE.pro">
+                                  </a>
+                              </div>
+
+
+                              <div class="col-xs-6 col-md-4 text-center sponsors--basic-115">
+                                  <a href="https://modhost.pro" target="_blank">
+                                      <img src="/images/sponsor-modhost-200x200.png" alt="MODHOST.pro">
+                                  </a>
+                              </div>
+
+                              <div class="col-xs-6 col-md-4 text-center sponsors--basic-115">
+                                  <a href="https://www.stickermule.com/" target="_blank">
+                                      <img src="/images/sponsor-sticker-mule.png" alt="Sticker Mule">
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="section-title">
+                  <div class="row">
+                      <div class="col-md-6 col-md-offset-3 text-center">
+                          <h2 class="title text-theme-colored">Become a sponsor</h2>
+                          <p>We've got two sponsor packages. Premium (€500,- worth of sponsoring) and Regular (€250,- worth of sponsoring). Premium sponsors get bigger logos and more coverage during the event.</p>
+                          <br /><br />
+                          <a href="mailto:johan@sterc.nl" class="btn btn-colored btn-theme-colored btn-xl" title="Become a sponsor">Contact us</a>
+                      </div>
+                  </div>
+              </div>
           </div>
-        </div>
-      </div>
-    </section>
+      </section>
 
   </div>
   <!-- end main-content -->
