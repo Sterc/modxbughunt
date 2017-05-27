@@ -754,18 +754,27 @@
               <div class="section-content">
                   <div class="row">
                       <div class="col-md-10 col-md-offset-1">
-                          <div class="row sponsors-style2 pt-30 pb-20">
-                              <div class="col-xs-12 col-md-6 text-center">
+                          <div class="row sponsors--premium pt-30 pb-20">
+
+
+                              <div class="col-xs-12 col-sm-6 col-md-4 text-center">
+                                  <a href="https://seda.digital/" target="_blank">
+                                      <img src="/images/sponsor-seda-digital2.png" alt="SEDA.digital">
+                                  </a>
+                              </div>
+
+                              <div class="col-xs-12 col-sm-6 col-md-4 text-center">
+                                  <a href="http://kochan.de/" target="_blank">
+                                      <img src="/images/sponsor-kochan.jpg" alt="Kochan & Partner">
+                                  </a>
+                              </div>
+
+                              <div class="col-xs-12 col-sm-6 col-md-4 text-center">
                                   <a href="https://www.sterc.nl/en/" target="_blank">
                                       <img src="/images/sponsor-sterc.png" alt="Sterc Internet & Marketing">
                                   </a>
                               </div>
 
-                              <div class="col-xs-12 col-md-6 text-center">
-                                  <a href="https://seda.digital/" target="_blank">
-                                      <img src="/images/sponsor-seda-digital2.png" alt="SEDA.digital">
-                                  </a>
-                              </div>
                           </div>
                       </div>
                   </div>

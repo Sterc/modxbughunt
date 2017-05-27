@@ -17,10 +17,18 @@ theme. But don't modify style-main.css file.
 
 
 .sponsors--premium img {
-    margin: 0 10px;
-    max-width: 150px;
+    margin: 10px;
+
 }
 
+
+@media all and (min-width: 680px) {
+
+    .sponsors--premium img {
+        max-width: 250px;
+    }
+
+}
 .sponsors--basic img {
     margin: 0 10px;
     max-width: 180px;
