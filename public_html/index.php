@@ -290,7 +290,7 @@
                   <li>Live stream from the office of <a href="https://www.google.de/maps/place/KOCHAN+UND+PARTNER+GmbH/@48.1531536,11.5053213,17z/data=!3m1!4b1!4m5!3m4!1s0x479e76323f3e36df:0x5c6b1aeb7cd9dbe3!8m2!3d48.15315!4d11.50751" target="_blank">Kochan & Partner</a></li>
                   <li>You can join us at Kochan & Partner (in Germany) or work remotely from your own office or home</li>
                   <li>Scoreboard on modxbughunt.com</li>
-                  <li>Unique badges, to be awarded after the hunt. Who doesn't want to be called the "Evasion ninja" for closing the most issues which can't be reproduced.</li>
+                  <li>Unique badges, to be awarded after the hunt.</li>
               </ul>
               <br><br>
           </div>
@@ -548,33 +548,66 @@
               </div>
           </div>
           <div class="row modx-prizes">
-              <br><br>
+
               <div class="col-xs-12 col-md-4 col-md-offset-2">
                   <h2>MODX Grandmaster</h2>
                   <p>First prize. Person who earned the most points.</p>
-
+                  <ul>
+                      <li>Bounty of € 500,-</li>
+                      <li>Modmore commerce license (exchangeable for 3 other licenses and a value of €299)</li>
+                  </ul>
                   <h2>MODX Master</h2>
                   <p>Second price. Person who earned the second most points.</p>
-
+                  <ul>
+                      <li>Bounty of € 300,-</li>
+                      <li>Modmore 2x license of choice* or €200 discount on Commerce (€50-200 value)</li>
+                  </ul>
                   <h2>MODX Expert</h2>
                   <p>Third price. Person who earned the third most points.</p>
-
+                  <ul>
+                      <li>Bounty of € 200,-</li>
+                      <li>Modmore license of choice* - or €100 discount on Commerce</li>
+                  </ul>
               </div>
               <div class="col-xs-12 col-md-4">
                   <h2>Other prizes</h2>
                   <p>The main prizes are on the left, but we also have some other prizes to encourage people to contribute.</p>
-                  <h4>Keeper of the Hunt</h4>
-                  <p>Person who was involved in most Pull Requests.</p>
+                  <h3>Everybody wins a prize!</h3>
+                  <p>Everybody wins a prize thanks to <a href="https://modstore.pro" target="_blank">MODSTORE.pro</a> and <a href="https://modhost.pro" target="_blank">MODHOST.pro</a>. Every participant registered on the <a href="https://www.meetup.com/modx-bug-hunt/events/238613206/" target="_blank">Meetup.com event page</a> gets the following:</p>
+                      <ul>
+                          <li>A one year Development-plan from <a href="https://modhost.pro/tariffs" target="_blank">MODHOST</a></li>
+                          <li>Free access to one of the Top-3 extras on <a href="https://modstore.pro/" target="_blank">MODSTORE</a> (mSearch2, Office or ms2Gallery)</li>
+                      </ul>
+                      <p><br>These prizes will also be awarded afterwards by email.</p>
 
+                  <h4>Keeper of the Hunt</h4>
+                  <p>Person who was the most helpful to others during the day.</p>
+                  <ul>
+                      <li>Modmore license  of choice* - or €100 discount on Commerce</li>
+                  </ul>
                   <h4>Pull master</h4>
                   <p>Person who was involved in most Pull Requests.</p>
-
-                  <h4>Evasion Ninja</h4>
-                  <p>Closed the most issues which can't be reproduced.</p>
-
+                  <ul>
+                      <li>Modmore license  of choice* - or €100 discount on Commerce</li>
+                  </ul>
                   <h4>Rookie of the Hunt</h4>
-                  <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice.</p>
+                  <p>Person who got the most rejected PR's. Encouragement prize. You might need some more practice. A MODX Cloud Pro package and a free modmore consultation will really help you here!</p>
+                  <ul>
+                      <li>MODX Cloud Pro package</li>
+                      <li>A free 45 minute MODX Consultation, or 1x license of choice*, or a €100 discount on Commerce (€25-112,50 value)</li>
+                  </ul>
+                  <h4>Issue hustler</h4>
+                  <p>Person who created the most issues during the MODX Bug Hunt. Trying to sell us a new bug hunt?</p>
+                  <ul>
+                      <li>Modmore license of choice* - or €100 discount on Commerce</li>
+                  </ul>
 
+                  <h4>Win a JetBrains IDE License!</h4>
+                  <p>We will be raffling off a free license!</p>
+                  <br><br>
+              </div>
+              <div class="col-xs-12 text-center">
+                  <small>* The license of choice is valid for modmore's Redactor, MoreGallery, ContentBlocks or SimpleCart. Includes support and upgrades. </small>
                   <br><br>
               </div>
           </div>
