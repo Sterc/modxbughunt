@@ -273,7 +273,7 @@
                 </ul>
               </div>
               <div class="col-md-12 col-lg-4 pr-0 pl-md-0">
-                <div id="clock" class="countdown-timer timer-box bg-theme-colored" data-endingdate="2017/07/17"></div>
+                <div id="clock" class="countdown-timer timer-box bg-theme-colored" data-endingdate="2017/07/07"></div>
               </div>
             </div>
           </div>
