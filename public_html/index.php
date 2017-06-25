@@ -555,18 +555,21 @@
                   <ul>
                       <li>Bounty of € 500,-</li>
                       <li>modmore commerce license (exchangeable for 3 other licenses)</li>
+                      <li>50 USD worth of credits from Sticker Mule</li>
                   </ul>
                   <h2>MODX Master</h2>
                   <p>Second price. Person who earned the second most points.</p>
                   <ul>
                       <li>Bounty of € 300,-</li>
                       <li>modmore 2x license of choice* or €200 discount on Commerce</li>
+                      <li>50 USD worth of credits from Sticker Mule</li>
                   </ul>
                   <h2>MODX Expert</h2>
                   <p>Third price. Person who earned the third most points.</p>
                   <ul>
                       <li>Bounty of € 200,-</li>
                       <li>modmore license of choice* - or €100 discount on Commerce</li>
+                      <li>50 USD worth of credits from Sticker Mule</li>
                   </ul>
               </div>
               <div class="col-xs-12 col-md-4">
