@@ -47,7 +47,7 @@ nothing to commit, working tree clean
 
 If you see the above message, you're totally fine. If you do see changes, you've done something horribly wrong! Make sure it is clean and you've made no changes to files yet. Otherwise your commits will mess up the MODX repository later on.
 
-If you don't have a clean branch 2.5.x at that moment, you could rebase your 2.5.x local branch with upstream/2.5.x with the following command. You are losing your local changes with that command, so please stash your changes or save them in a new branch:
+If you don't have a clean branch 2.5.x at that moment, you could rebase your 2.5.x local branch with upstream/2.5.x using the following command. You are losing your local changes with that command, so please stash your changes or save them in a new branch:
 
 ```
 $ git fetch upstream
