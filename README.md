@@ -1,4 +1,7 @@
 # MODX Bug Hunt
-This repository is used for www.modxbughunt.com. It auto-deploys of the master-branch.
+This repository is used for managing documents, videos and pictures for the MODX Bug Hunt. More info about the MODX Bug Hunt can be found on www.modxbughunt.com.
 
-The website hosting and deployments are provided by Sterc (gp@sterc.nl).
+## Quick links
+* [Contributors Guide](https://github.com/Sterc/modxbughunt/blob/master/contributors-guide.md)
+* [Media of Bug Hunt #1](https://github.com/Sterc/modxbughunt/blob/master/media/bughunt-1)
+* [Media of Bug Hunt #2](https://github.com/Sterc/modxbughunt/blob/master/media/bughunt-2)
