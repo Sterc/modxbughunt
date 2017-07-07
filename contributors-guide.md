@@ -12,15 +12,15 @@ More information about the MODX Bug Hunt can be found on the [modxbughunt.com we
 - Then you need a fork of MODX Revolution. Go [here](https://github.com/modxcms/revolution) and click 'Fork' on the top-right.
 
 ## 3. Signed MODX Contributors License Agreement
-You need to sign a Contributors License Agreement before contributing code. If you haven't signed it before, [sign it here](https://develop.modx.com/contribute/cla/). 
+(optional) You need to sign a Contributors License Agreement before contributing code. If you haven't signed it before, [sign it here](https://develop.modx.com/contribute/cla/). 
 
 ## 4. Setting up MODX files from a Git repository
 First, clone your Fork on your local machine, into the directory which will be your webroot.
 
-**Please note:** in the examples below, you'll notice SSH-url's (git@github.com:modxcms/revolution.git). Github also offers HTTPS-links, which are easier to use if you're a newbie (https://github.com/modxcms/revolution.git). You can simply replace them in the examples.
+**Please note:** in the examples below, you'll notice SSH-url's (git@github.com:YOURNAME/revolution.git). Github also offers HTTPS-links, which are easier to use if you're a newbie (https://github.com/YOURNAME/revolution.git). You can simply replace them in the examples.
 
 ```
-$ git clone git@github.com:modxcms/revolution.git
+$ git clone git@github.com:YOURNAME/revolution.git
 $ cd revolution
 ```
 
