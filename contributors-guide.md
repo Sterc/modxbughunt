@@ -30,30 +30,30 @@ Next, add the original modxcms/revolution reposition as your upstream. We'll dis
 $ git remote add upstream git@github.com:modxcms/revolution.git
 ```
 
-Now we need to checkout (read: download) the current development-branch, which is ```2.5.x``` at the time of writing.
+Now we need to checkout (read: download) the current development-branch, which is ```2.6.x``` at the time of writing.
 
 ```
-$ git checkout 2.5.x
+$ git checkout 2.6.x
 ```
 
 Make sure your repository is still 'clean'. Make sure you haven't made any changes.
 
 ```
 $ git status
-On branch 2.5.x
-Your branch is up-to-date with 'origin/2.5.x'.
+On branch 2.6.x
+Your branch is up-to-date with 'origin/2.6.x'.
 nothing to commit, working tree clean
 ```
 
 If you see the above message, you're totally fine. If you do see changes, you've done something horribly wrong! Make sure it is clean and you've made no changes to files yet. Otherwise your commits will mess up the MODX repository later on.
 
-If you don't have a clean branch 2.5.x at that moment, you could rebase your 2.5.x local branch with upstream/2.5.x using the following command. You are losing your local changes with that command, so please stash your changes or save them in a new branch:
+If you don't have a clean branch 2.6.x at that moment, you could rebase your 2.6.x local branch with upstream/2.6.x using the following command. You are losing your local changes with that command, so please stash your changes or save them in a new branch:
 
 ```
 $ git fetch upstream
-$ git rebase upstream/2.5.x
+$ git rebase upstream/2.6.x
 First, rewinding head to replay your work on top of it...
-Fast-forwarded 2.5.x to upstream/2.5.x.
+Fast-forwarded 2.6.x to upstream/2.6.x.
 ```
 
 Next we'll have to do something weird. The git-version of MODX doesn't contain a pre-built core, like the regular MODX download does. We need to build this manually.
@@ -143,7 +143,7 @@ We've got 2 workflows worked out for you: bug fixing (doing development yourself
 ### 1. Pick an issue from the [MODX issue tracker](https://github.com/modxcms/revolution/issues)
 ### 2. Prevent duplicate work by claiming it by commenting on it.
 Something along the lines of: "I'm going to try and fix this today."
-### 3. Next, create a branch from your current development branch (2.5.x), to start working in your own environment.
+### 3. Next, create a branch from your current development branch (2.6.x), to start working in your own environment.
 
 If the issue you want to fix is a feature, name it feature-ISSUENUMBER. If it is a bug, name it bug-ISSUENUMBER. In this example we'll fix a broken link in the docs. The issue can be [found here](https://github.com/modxcms/revolution/issues/13309). It has issue number 13309.
 
@@ -190,7 +190,7 @@ That's it for the command line! Now we need to head over to Github to make a Pul
 ### 4. Go to your fork on Github
 You'll probably see a message resembling something like ```Your recently pushed branches: bug-13309 (2 minutes ago)```. Click the "compare & pull request" button.
 
-Now you see two repositories being compared. On the left, there is ```modxcms/revolution```, set it to ```base: 2.5.x```. On the right you'll see ```yourname/revolution``` with ```bug-13309```.
+Now you see two repositories being compared. On the left, there is ```modxcms/revolution```, set it to ```base: 2.6.x```. On the right you'll see ```yourname/revolution``` with ```bug-13309```.
 
 If everything is fine, you'll notice a message stating the following: ```Able to merge. These branches can be automatically merged.```.
 
@@ -200,12 +200,12 @@ Once you've did this, click the magic button **Create pull request**
 
 Congratulations, you did it!
 ### 5. On to the next one!
-If you want to fix another bug, we first need to be on the ```2.5.x``` branch again. To do this, we first want to make sure that our Fork's ```2.5.x``` branch is in sync with the original ```modxcms/2.5.x``` branch. Do the following to accomplish this:
+If you want to fix another bug, we first need to be on the ```2.6.x``` branch again. To do this, we first want to make sure that our Fork's ```2.6.x``` branch is in sync with the original ```modxcms/2.6.x``` branch. Do the following to accomplish this:
 ```
-$ git fetch upstream 2.5.x
-$ git fetch origin 2.5.x
-$ git checkout 2.5.x
-$ git pull upstream 2.5.x
+$ git fetch upstream 2.6.x
+$ git fetch origin 2.6.x
+$ git checkout 2.6.x
+$ git pull upstream 2.6.x
 ```
 
 If in the last step, you get a text editor with a merge message. Just save and quit the editor and you are all fine. If this editor is VI, just hit Escape to exit type-mode, then type ```:wq``` and hit enter.
@@ -218,7 +218,7 @@ Pick a pull request from the current [PR-list on Github](https://github.com/modx
 ### 2. Read the PR
 Read the PR and check if this is something you might be able to test. Check if the issue is still existent and you can reproduce in the current development branch:
 ```
-$ git checkout 2.5.x
+$ git checkout 2.6.x
 ```
 
 If you can reproduce it, comment in the PR that you are going to test it. If you can't reproduce it, mention that as-well and mention the user who made the PR. Don't forget to mention the #modxbughunt tag in your comment.
