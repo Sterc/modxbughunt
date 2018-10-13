@@ -30,30 +30,30 @@ Next, add the original modxcms/revolution reposition as your upstream. We'll dis
 $ git remote add upstream git@github.com:modxcms/revolution.git
 ```
 
-Now we need to checkout (read: download) the current development-branch, which is ```2.6.x``` at the time of writing.
+Now we need to checkout (read: download) the current development-branch, which is ```2.7.x``` at the time of writing.
 
 ```
-$ git checkout 2.6.x
+$ git checkout 2.7.x
 ```
 
 Make sure your repository is still 'clean'. Make sure you haven't made any changes.
 
 ```
 $ git status
-On branch 2.6.x
-Your branch is up-to-date with 'origin/2.6.x'.
+On branch 2.7.x
+Your branch is up-to-date with 'origin/2.7.x'.
 nothing to commit, working tree clean
 ```
 
 If you see the above message, you're totally fine. If you do see changes, you've done something horribly wrong! Make sure it is clean and you've made no changes to files yet. Otherwise your commits will mess up the MODX repository later on.
 
-If you don't have a clean branch 2.6.x at that moment, you could rebase your 2.6.x local branch with upstream/2.6.x using the following command. You are losing your local changes with that command, so please stash your changes or save them in a new branch:
+If you don't have a clean branch 2.7.x at that moment, you could rebase your 2.7.x local branch with upstream/2.7.x using the following command. You are losing your local changes with that command, so please stash your changes or save them in a new branch:
 
 ```
 $ git fetch upstream
-$ git rebase upstream/2.6.x
+$ git rebase upstream/2.7.x
 First, rewinding head to replay your work on top of it...
-Fast-forwarded 2.6.x to upstream/2.6.x.
+Fast-forwarded 2.7.x to upstream/2.7.x.
 ```
 
 Next we'll have to do something weird. The git-version of MODX doesn't contain a pre-built core, like the regular MODX download does. We need to build this manually.
